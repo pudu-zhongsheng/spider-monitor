@@ -101,7 +101,7 @@
       "pretge": false,
       "bctge": false,
       "futures_listed": false,
-      "amount": 883.07,
+      "amount": 814.99,
       "created_timestamp": 1760421730,
       "updated_timestamp": 1760432411,
       "system_timestamp": 1760432411,
@@ -111,7 +111,7 @@
       "has_homonym": false,
       "spot_listed": false,
       "target_bnb": "153.47",
-      "actual_bnb": "67944.98",
+      "actual_bnb": "73620.16",
       "collection_address": "0x5029fa9818000abe8691b44b574079cc621afba6",
       "tge_total": "20000000"
     },
