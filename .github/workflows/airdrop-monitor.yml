@@ -1,0 +1,102 @@
+name: Airdrop Monitor
+
+# 触发条件
+on:
+  # 定时触发：每1分钟执行一次
+  schedule:
+    - cron: '*/1 * * * *'
+  
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '运行模式'
+        required: false
+        default: 'check'
+        type: choice
+        options:
+        - check
+        - test
+        - init
+        - health
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许工作流向仓库写入（用于提交state文件）
+    
+    # 环境变量配置
+    env:
+      # 从Secrets读取配置
+      SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+      SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+      RECIPIENT_EMAILS: ${{ secrets.RECIPIENT_EMAILS }}
+      # 固定代理（优先使用仓库机密）。未配置则由程序启用免费代理池。
+      PROXY_URL: ${{ secrets.PROXY_URL }}
+      # 启用免费代理池（程序中在Actions环境会强制仅用代理，不直连）
+      USE_PROXY_POOL: "1"
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 需要完整历史以便提交
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip'  # 自动缓存pip包
+
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+        
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        
+    - name: Run monitor
+      run: |
+        if [ "${{ github.event.inputs.mode }}" = "test" ]; then
+          python spider-project.py test
+        elif [ "${{ github.event.inputs.mode }}" = "init" ]; then
+          python spider-project.py init
+        elif [ "${{ github.event.inputs.mode }}" = "health" ]; then
+          python spider-project.py health
+        else
+          python spider-project.py
+        fi
+    
+    - name: Commit state if changed
+      if: always()
+      run: |
+        set -e
+        FILE="latest_airdrop_data.json"
+        if [ -f "$FILE" ]; then
+          if ! git diff --quiet -- "$FILE"; then
+            git config user.name "${GITHUB_ACTOR}"
+            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+            git add "$FILE"
+            git commit -m "chore(state): update latest_airdrop_data.json [skip ci]"
+            git push
+            echo "✅ State file updated and pushed."
+          else
+            echo "ℹ️ No changes in state file."
+          fi
+        else
+          echo "⚠️ State file not found: $FILE"
+        fi
+        
+    - name: Upload data artifacts
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: airdrop-data-${{ github.run_number }}
+        path: latest_airdrop_data.json
+        retention-days: 1  # 指定Artifacts在Github服务器上的保存天数
