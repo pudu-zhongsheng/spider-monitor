@@ -85,7 +85,7 @@
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "contract_address": "0x81D3A238b02827F62B9f390f947D36d4A5bf89D2",
+      "contract_address": "0x81d3a238b02827f62b9f390f947d36d4a5bf89d2",
       "chain_id": "56"
     },
     {
@@ -101,7 +101,7 @@
       "pretge": false,
       "bctge": false,
       "futures_listed": false,
-      "amount": 814.99,
+      "amount": 747.32,
       "created_timestamp": 1760421730,
       "updated_timestamp": 1760432411,
       "system_timestamp": 1760432411,
@@ -111,7 +111,7 @@
       "has_homonym": false,
       "spot_listed": false,
       "target_bnb": "153.47",
-      "actual_bnb": "73620.16",
+      "actual_bnb": "80286.95",
       "collection_address": "0x5029fa9818000abe8691b44b574079cc621afba6",
       "tge_total": "20000000"
     },
