@@ -155,7 +155,7 @@
       "has_homonym": false,
       "contract_address": "0xfeb339236d25d3e415f280189bc7c2fbab6ae9ef",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "spot_listed": true
     }
   ]
