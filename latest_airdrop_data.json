@@ -25,7 +25,7 @@
     },
     {
       "token": "RECALL",
-      "name": "Recall",
+      "name": "Recall Network",
       "date": "2025-10-15",
       "time": "20:00",
       "phase": 1,
@@ -35,13 +35,13 @@
       "system_timestamp": 1760434212,
       "created_timestamp": 1760335417,
       "updated_timestamp": 1760434212,
-      "points": "200",
+      "points": 200,
       "amount": "100",
       "type": "grab",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
-      "contract_address": "0x1f16e03C1a5908818F47f6EE7bB16690b40D0671",
+      "contract_address": "0x1f16e03c1a5908818f47f6ee7bb16690b40d0671",
       "chain_id": "8453"
     },
     {
