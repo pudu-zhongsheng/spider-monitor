@@ -107,7 +107,11 @@
       "has_homonym": false,
       "spot_listed": false,
       "contract_address": "0x80563Fc2dd549bf36f82d3bF3b970Bb5b08dBDdb",
-      "chain_id": "56"
+      "chain_id": "56",
+      "target_bnb": "172.01",
+      "actual_bnb": "",
+      "collection_address": "0xea6d6f436078b870949235df75a045b6dc35e447",
+      "tge_total": "150000000"
     }
   ]
 }
