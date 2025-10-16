@@ -91,7 +91,7 @@
       "name": "Astra Nova",
       "date": "2025-10-16",
       "time": "16:00",
-      "points": "256",
+      "points": 256,
       "type": "tge",
       "phase": 1,
       "language": "zh",
@@ -106,8 +106,8 @@
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "contract_address": "",
-      "chain_id": ""
+      "contract_address": "0x80563Fc2dd549bf36f82d3bF3b970Bb5b08dBDdb",
+      "chain_id": "56"
     }
   ]
 }
