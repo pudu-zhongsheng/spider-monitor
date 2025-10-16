@@ -98,7 +98,7 @@
       "status": "announced",
       "pretge": true,
       "bctge": false,
-      "futures_listed": false,
+      "futures_listed": true,
       "amount": "4651.72",
       "created_timestamp": 1760591488,
       "updated_timestamp": 1760591488,
