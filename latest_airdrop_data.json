@@ -1,6 +1,28 @@
 {
   "airdrops": [
     {
+      "token": "ANOME",
+      "name": "Anome",
+      "date": "2025-10-17",
+      "time": "16:00",
+      "points": "220",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "320",
+      "type": "grab",
+      "created_timestamp": 1760607073,
+      "updated_timestamp": 1760684071,
+      "system_timestamp": 1760684071,
+      "contract_address": "0x6bc3855827fa6ee1229c937a26bb9fca1a0ffbf0",
+      "chain_id": "56",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
+    },
+    {
       "token": "SUBHUB",
       "name": "SubHub",
       "date": "2025-10-17",
@@ -23,26 +45,21 @@
       "chain_id": "56"
     },
     {
-      "token": "ANOME",
-      "name": "Anome",
-      "date": "2025-10-17",
-      "time": "16:00",
-      "points": "220",
+      "token": "SVSA",
+      "name": "SavannaSurvival",
+      "date": "2025-10-20",
+      "time": "",
+      "points": "",
       "phase": 1,
-      "language": "zh",
+      "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "320",
-      "type": "grab",
-      "created_timestamp": 1760607073,
-      "updated_timestamp": 1760684071,
-      "system_timestamp": 1760684071,
-      "contract_address": "0x6bc3855827fa6ee1229c937a26bb9fca1a0ffbf0",
-      "chain_id": "56",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1760767281,
+      "updated_timestamp": 1760768114,
+      "system_timestamp": 1760768114
     }
   ]
 }
