@@ -45,6 +45,22 @@
       "chain_id": "56"
     },
     {
+      "token": "",
+      "date": "2025-10-18",
+      "time": "16:00",
+      "points": "240",
+      "type": "grab",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "futures_listed": false,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1760770916,
+      "updated_timestamp": 1760771120,
+      "system_timestamp": 1760771120
+    },
+    {
       "token": "SVSA",
       "name": "SavannaSurvival",
       "date": "2025-10-20",
