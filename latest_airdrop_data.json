@@ -1,27 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "MERL",
-      "date": "2025-10-18",
-      "time": "16:00",
-      "points": 240,
-      "type": "grab",
-      "phase": 1,
-      "language": "zh",
-      "status": "announced",
-      "futures_listed": false,
-      "amount": "125",
-      "name": "Merlin Chain",
-      "created_timestamp": 1760770916,
-      "updated_timestamp": 1760774458,
-      "system_timestamp": 1760774458,
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "contract_address": "0xa0c56a8c0692bD10B3fA8f8bA79Cf5332B7107F9",
-      "chain_id": "56"
-    },
-    {
       "token": "MYX",
       "date": "2025-10-19",
       "time": "15:00",
@@ -58,6 +37,23 @@
       "created_timestamp": 1760767281,
       "updated_timestamp": 1760768114,
       "system_timestamp": 1760768114
+    },
+    {
+      "token": "SIGMA",
+      "name": "SigmaDotMoney",
+      "date": "2025-10-21",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1760860907,
+      "updated_timestamp": 1760861119,
+      "system_timestamp": 1760861119
     }
   ]
 }
