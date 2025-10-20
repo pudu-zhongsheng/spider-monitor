@@ -35,8 +35,10 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1760767281,
-      "updated_timestamp": 1760768114,
-      "system_timestamp": 1760768114
+      "updated_timestamp": 1760937824,
+      "system_timestamp": 1760937824,
+      "contract_address": "0x395603b95d721084c1917affdd06d78e559fa94d",
+      "chain_id": "56"
     },
     {
       "token": "SIGMA",
