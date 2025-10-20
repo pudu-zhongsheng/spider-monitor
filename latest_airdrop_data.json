@@ -26,7 +26,7 @@
       "name": "SavannaSurvival",
       "date": "2025-10-20",
       "time": "15:00",
-      "points": "241",
+      "points": 241,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -38,7 +38,10 @@
       "updated_timestamp": 1760938071,
       "system_timestamp": 1760938071,
       "contract_address": "0x395603b95d721084c1917affdd06d78e559fa94d",
-      "chain_id": "56"
+      "chain_id": "56",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "SIGMA",
