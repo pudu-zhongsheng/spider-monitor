@@ -1,23 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "SIGMA",
-      "name": "SigmaDotMoney",
-      "date": "2025-10-21",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1760860907,
-      "updated_timestamp": 1760861119,
-      "system_timestamp": 1760861119
-    },
-    {
       "token": "SVSA",
       "name": "SavannaSurvival",
       "date": "2025-10-20",
@@ -38,6 +21,57 @@
       "completed": true,
       "has_homonym": false,
       "spot_listed": false
+    },
+    {
+      "token": "SIGMA",
+      "name": "SigmaDotMoney",
+      "date": "2025-10-21",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1760860907,
+      "updated_timestamp": 1760861119,
+      "system_timestamp": 1760861119
+    },
+    {
+      "token": "BLUAI",
+      "name": "Bluwhale",
+      "date": "2025-10-21",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1760950867,
+      "updated_timestamp": 1760951802,
+      "system_timestamp": 1760951802
+    },
+    {
+      "token": "TURTLE",
+      "name": "Turtle",
+      "date": "2025-10-22",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1760950867,
+      "updated_timestamp": 1760951802,
+      "system_timestamp": 1760951802
     }
   ]
 }
