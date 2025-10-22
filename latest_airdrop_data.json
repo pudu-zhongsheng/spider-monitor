@@ -45,6 +45,26 @@
       "chain_id": "56"
     },
     {
+      "token": "APR",
+      "name": "aPriori",
+      "date": "2025-10-23",
+      "time": "16:00",
+      "points": "",
+      "type": "tge",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "pretge": false,
+      "bctge": false,
+      "futures_listed": false,
+      "amount": "",
+      "created_timestamp": 1761130830,
+      "updated_timestamp": 1761131130,
+      "system_timestamp": 1761131130,
+      "contract_address": "0x299AD4299Da5b2b93Fba4c96967B040C7F611099",
+      "chain_id": "56"
+    },
+    {
       "token": "ON",
       "name": "Orochi",
       "date": "2025-10-24",
