@@ -79,8 +79,10 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1761116534,
-      "updated_timestamp": 1761119115,
-      "system_timestamp": 1761119115
+      "updated_timestamp": 1761121808,
+      "system_timestamp": 1761121808,
+      "contract_address": "0x9be61A38725b265BC3eb7Bfdf17AfDFc9d26C130",
+      "chain_id": "56"
     }
   ]
 }
