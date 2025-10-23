@@ -58,7 +58,7 @@
       "language": "zh",
       "status": "announced",
       "utc": "",
-      "futures_listed": false,
+      "futures_listed": true,
       "system_timestamp": 1761206410,
       "created_timestamp": 1761186642,
       "updated_timestamp": 1761206410,
