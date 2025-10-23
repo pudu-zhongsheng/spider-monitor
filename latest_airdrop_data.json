@@ -62,11 +62,14 @@
       "system_timestamp": 1761206410,
       "created_timestamp": 1761186642,
       "updated_timestamp": 1761206410,
-      "points": "226",
+      "points": 226,
       "amount": "32",
       "type": "grab",
       "contract_address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
-      "chain_id": "501"
+      "chain_id": "501",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "ON",
