@@ -85,28 +85,6 @@
       "spot_listed": false,
       "contract_address": "0x783c3f003f172c6ac5ac700218a357d2d66ee2a2",
       "chain_id": "56"
-    },
-    {
-      "token": "AT",
-      "name": "APRO",
-      "date": "2025-10-24",
-      "time": "18:00",
-      "points": "220",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "200",
-      "type": "grab",
-      "created_timestamp": 1761116534,
-      "updated_timestamp": 1761285831,
-      "system_timestamp": 1761285831,
-      "contract_address": "0x9be61a38725b265bc3eb7bfdf17afdfc9d26c130",
-      "chain_id": "56",
-      "completed": false,
-      "has_homonym": false,
-      "spot_listed": false
     }
   ]
 }
