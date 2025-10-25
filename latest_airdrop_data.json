@@ -41,20 +41,25 @@
       "chain_id": "56"
     },
     {
-      "token": "",
+      "token": "B2",
       "date": "2025-10-25",
       "time": "16:00",
-      "points": "225",
+      "points": 225,
       "type": "grab",
       "phase": 1,
       "language": "zh",
       "status": "announced",
       "futures_listed": false,
-      "amount": "",
-      "name": "",
+      "amount": "16",
+      "name": "BSquared Token",
       "created_timestamp": 1761375613,
-      "updated_timestamp": 1761378308,
-      "system_timestamp": 1761378308
+      "updated_timestamp": 1761379306,
+      "system_timestamp": 1761379306,
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "contract_address": "0x783c3f003f172c6ac5ac700218a357d2d66ee2a2",
+      "chain_id": "56"
     },
     {
       "token": "42",
