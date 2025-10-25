@@ -415,6 +415,23 @@ def send_email_notification(changes, processed_data):
         print(f"❌ 邮件发送失败: {e}")
         return False
 
+def normalize_value(value):
+    """标准化数值，将字符串数字转换为数字进行比较"""
+    if value is None:
+        return None
+    try:
+        # 尝试转换为数字
+        if isinstance(value, str):
+            # 移除可能的空格和特殊字符
+            cleaned = value.strip()
+            if cleaned.isdigit():
+                return int(cleaned)
+            elif '.' in cleaned and cleaned.replace('.', '').isdigit():
+                return float(cleaned)
+        return value
+    except (ValueError, AttributeError):
+        return value
+
 def compare_data(old_data, new_data):
     """对比新旧数据，检测变化（只关注未完成的空投）"""
     if not old_data or not new_data:
@@ -428,46 +445,66 @@ def compare_data(old_data, new_data):
     
     changes = []
     
-    if len(old_active_airdrops) != len(new_active_airdrops):
-        changes.append(f"活跃项目数量变化: {len(old_active_airdrops)} -> {len(new_active_airdrops)}")
+    # 检查活跃项目数量变化，但不包括减少的情况（项目完成）
+    if len(new_active_airdrops) > len(old_active_airdrops):
+        changes.append(f"活跃项目数量增加: {len(old_active_airdrops)} -> {len(new_active_airdrops)}")
+    # 如果数量减少，不发送通知（项目完成）
     
     old_map = {item.get('token'): item for item in old_active_airdrops}
     new_map = {item.get('token'): item for item in new_active_airdrops}
     
+    # 检查新增的活跃项目
     for token, new_item in new_map.items():
         if token not in old_map:
             info = format_airdrop_info(new_item)
             changes.append(f"新增活跃项目: {info['name_token']} ({info['date_time']})")
     
+    # 检查项目状态变化，但不包括项目完成的情况
     for token, old_item in old_map.items():
         if token not in new_map:
+            # 检查是否是因为项目完成而移除
             new_item = next((item for item in new_airdrops if item.get('token') == token), None)
             if new_item and new_item.get('completed', False):
-                info = format_airdrop_info(new_item)
-                changes.append(f"项目已完成: {info['name_token']}")
+                # 项目完成，不发送通知
+                pass
             else:
+                # 其他原因移除，发送通知
                 info = format_airdrop_info(old_item)
                 changes.append(f"活跃项目移除: {info['name_token']}")
     
+    # 检查现有项目的变化
     for token, new_item in new_map.items():
         if token in old_map:
             old_item = old_map[token]
             
+            # 检查项目完成状态变化，但不发送完成通知
             old_completed = old_item.get('completed', False)
             new_completed = new_item.get('completed', False)
             if old_completed != new_completed and new_completed:
-                info = format_airdrop_info(new_item)
-                changes.append(f"项目已完成: {info['name_token']}")
+                # 项目完成，不发送通知
+                pass
             
             if not new_completed:
                 important_fields = ['status', 'points', 'amount', 'date', 'time', 'type']
                 for field in important_fields:
                     old_value = old_item.get(field)
                     new_value = new_item.get(field)
+                    
+                    # 对于积分和数量字段，进行特殊处理
+                    if field in ['points', 'amount']:
+                        # 标准化数值进行比较
+                        old_normalized = normalize_value(old_value)
+                        new_normalized = normalize_value(new_value)
+                        
+                        # 如果标准化后的值相同，跳过
+                        if old_normalized == new_normalized:
+                            continue
+                    
                     if field == 'amount':
                         item_type = str(new_item.get('type') or '').lower()
                         if item_type == 'tge':
                             continue
+                    
                     if old_value != new_value:
                         info = format_airdrop_info(new_item)
                         if field == 'type':
