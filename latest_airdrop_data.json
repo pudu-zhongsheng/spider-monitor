@@ -1,25 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "PIGGY",
-      "name": "Piggycell",
-      "date": "2024-10-28",
-      "time": "",
-      "phase": 1,
-      "language": "zh",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "system_timestamp": 1761461108,
-      "created_timestamp": 1761459324,
-      "updated_timestamp": 1761461108,
-      "points": "",
-      "amount": "",
-      "type": "",
-      "contract_address": "0x40a493eefb57d042bd51b7e0bf4c4714328c483e",
-      "chain_id": "56"
-    },
-    {
       "token": "B2",
       "date": "2025-10-25",
       "time": "16:00",
@@ -120,6 +101,28 @@
       "spot_listed": false,
       "contract_address": "0xd4058218632112de109846a2952BE102D0330AB3",
       "chain_id": "56"
+    },
+    {
+      "token": "PIGGY",
+      "name": "Piggycell",
+      "date": "2025-10-28",
+      "time": "",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "system_timestamp": 1761462909,
+      "created_timestamp": 1761459324,
+      "updated_timestamp": 1761462909,
+      "points": "",
+      "amount": "",
+      "type": "",
+      "contract_address": "0x40a493eefb57d042bd51b7e0bf4c4714328c483e",
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false
     }
   ]
 }
