@@ -1,6 +1,25 @@
 {
   "airdrops": [
     {
+      "token": "PIGGY",
+      "name": "Piggycell",
+      "date": "2024-10-28",
+      "time": "",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "system_timestamp": 1761460209,
+      "created_timestamp": 1761459324,
+      "updated_timestamp": 1761460209,
+      "points": "",
+      "amount": "",
+      "type": "",
+      "contract_address": "0x40a493eefb57d042bd51b7e0bf4c4714328c483e",
+      "chain_id": "56"
+    },
+    {
       "token": "B2",
       "date": "2025-10-25",
       "time": "16:00",
@@ -34,8 +53,8 @@
       "amount": "",
       "name": "",
       "created_timestamp": 1761457191,
-      "updated_timestamp": 1761457508,
-      "system_timestamp": 1761457508
+      "updated_timestamp": 1761459396,
+      "system_timestamp": 1761459396
     },
     {
       "token": "42",
