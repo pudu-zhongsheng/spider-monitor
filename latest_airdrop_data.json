@@ -35,13 +35,13 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1761373842,
-      "updated_timestamp": 1761375675,
-      "system_timestamp": 1761375675,
+      "updated_timestamp": 1761499803,
+      "system_timestamp": 1761499803,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "contract_address": "",
-      "chain_id": ""
+      "contract_address": "0x834BAf4f7832Cc3C00734DDb2e0c61C68d975822",
+      "chain_id": "56"
     },
     {
       "token": "COMMON",
