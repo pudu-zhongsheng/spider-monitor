@@ -27,7 +27,7 @@
       "name": "Semantic Layer",
       "date": "2025-10-27",
       "time": "18:00",
-      "points": "210",
+      "points": 210,
       "phase": 1,
       "language": "zh",
       "status": "announced",
@@ -38,10 +38,10 @@
       "created_timestamp": 1761373842,
       "updated_timestamp": 1761557889,
       "system_timestamp": 1761557889,
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
-      "contract_address": "0x834BAf4f7832Cc3C00734DDb2e0c61C68d975822",
+      "contract_address": "0x834baf4f7832cc3c00734ddb2e0c61c68d975822",
       "chain_id": "56"
     },
     {
@@ -78,9 +78,11 @@
       "status": "announced",
       "futures_listed": false,
       "created_timestamp": 1761557873,
-      "updated_timestamp": 1761557888,
-      "system_timestamp": 1761557888,
-      "has_homonym": false
+      "updated_timestamp": 1761559201,
+      "system_timestamp": 1761559201,
+      "has_homonym": false,
+      "contract_address": "0xA43cA4e5abdf9917eaDE63C2837eeeE321897dAd",
+      "chain_id": "56"
     },
     {
       "token": "PIGGY",
