@@ -102,7 +102,7 @@
       "points": "",
       "amount": "",
       "type": "",
-      "contract_address": "0x40a493eefb57d042bd51b7e0bf4c4714328c483e",
+      "contract_address": "0x8410fea2Dd13c1798977Ff4D55A9e1835f54f216",
       "chain_id": "56",
       "completed": false,
       "has_homonym": false,
@@ -122,8 +122,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1761631278,
-      "updated_timestamp": 1761640208,
-      "system_timestamp": 1761640208,
+      "updated_timestamp": 1761641109,
+      "system_timestamp": 1761641109,
       "contract_address": "0xae1e85c3665b70b682defd778e3dafdf09ed3b0f",
       "chain_id": "56"
     }
