@@ -102,7 +102,7 @@
       "points": "250",
       "amount": "38",
       "type": "grab",
-      "contract_address": "0x8410fea2Dd13c1798977Ff4D55A9e1835f54f216",
+      "contract_address": "0x8410fea2dd13c1798977ff4d55a9e1835f54f216",
       "chain_id": "56",
       "completed": false,
       "has_homonym": false,
