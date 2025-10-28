@@ -70,7 +70,7 @@
       "name": "Common",
       "date": "2025-10-27",
       "time": "20:00",
-      "points": "235",
+      "points": 220,
       "amount": "1140",
       "type": "grab",
       "phase": 2,
@@ -83,7 +83,7 @@
       "has_homonym": false,
       "contract_address": "0xa43ca4e5abdf9917eade63c2837eeee321897dad",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "spot_listed": false
     },
     {
@@ -122,8 +122,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1761631278,
-      "updated_timestamp": 1761635707,
-      "system_timestamp": 1761635707,
+      "updated_timestamp": 1761636609,
+      "system_timestamp": 1761636609,
       "contract_address": "0xae1e85c3665b70b682defd778e3dafdf09ed3b0f",
       "chain_id": "56"
     }
