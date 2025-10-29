@@ -140,7 +140,7 @@
       "name": "BitcoinOS",
       "date": "2025-10-29",
       "time": "19:00",
-      "points": "240",
+      "points": 240,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -152,7 +152,10 @@
       "updated_timestamp": 1761728768,
       "system_timestamp": 1761728768,
       "contract_address": "0xae1e85c3665b70b682defd778e3dafdf09ed3b0f",
-      "chain_id": "56"
+      "chain_id": "56",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "MMT",
