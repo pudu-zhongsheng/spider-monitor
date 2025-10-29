@@ -129,7 +129,11 @@
       "has_homonym": false,
       "spot_listed": false,
       "contract_address": "",
-      "chain_id": ""
+      "chain_id": "",
+      "target_bnb": "181.3",
+      "actual_bnb": "",
+      "collection_address": "0x534183f790c8e534afea41bc79a0a2b336a65019",
+      "tge_total": "20000000"
     },
     {
       "token": "BOS",
