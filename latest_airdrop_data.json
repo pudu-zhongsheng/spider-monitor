@@ -116,12 +116,17 @@
       "language": "en",
       "status": "announced",
       "utc": "",
-      "futures_listed": false,
+      "futures_listed": true,
       "amount": "",
       "type": "",
       "created_timestamp": 1761831447,
-      "updated_timestamp": 1761831449,
-      "system_timestamp": 1761831449
+      "updated_timestamp": 1761832211,
+      "system_timestamp": 1761832211,
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "contract_address": "",
+      "chain_id": ""
     }
   ]
 }
