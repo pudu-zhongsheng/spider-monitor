@@ -62,8 +62,8 @@
       "amount": "",
       "name": "",
       "created_timestamp": 1761808402,
-      "updated_timestamp": 1761817517,
-      "system_timestamp": 1761817517
+      "updated_timestamp": 1761818407,
+      "system_timestamp": 1761818407
     },
     {
       "token": "MMT",
@@ -80,8 +80,8 @@
       "futures_listed": false,
       "amount": "",
       "created_timestamp": 1761733895,
-      "updated_timestamp": 1761745813,
-      "system_timestamp": 1761745813,
+      "updated_timestamp": 1761820207,
+      "system_timestamp": 1761820207,
       "completed": false,
       "contract_address": "",
       "chain_id": "",
