@@ -1,20 +1,27 @@
 {
   "airdrops": [
     {
-      "token": "",
+      "id": "warning_6903525b7fa7d9.11049840",
+      "token": "BANK",
+      "name": "BANK",
       "date": "2025-10-30",
       "time": "20:00",
-      "points": "240",
       "type": "grab",
       "phase": 1,
-      "language": "zh",
       "status": "announced",
+      "timestamp": 1761825371,
+      "points": 240,
+      "amount": "354",
+      "contract_address": "0x3aee7602b612de36088f3ffed8c8f10e86ebf2bf",
+      "chain_id": "56",
+      "has_homonym": false,
+      "system_timestamp": 1761825950,
+      "completed": true,
       "futures_listed": false,
-      "amount": "",
-      "name": "",
-      "created_timestamp": 1761808402,
-      "updated_timestamp": 1761818407,
-      "system_timestamp": 1761818407
+      "spot_listed": false,
+      "language": "en",
+      "created_timestamp": 1761825403,
+      "updated_timestamp": 1761825950
     },
     {
       "token": "MMT",
@@ -31,8 +38,8 @@
       "futures_listed": false,
       "amount": "",
       "created_timestamp": 1761733895,
-      "updated_timestamp": 1761824707,
-      "system_timestamp": 1761824707,
+      "updated_timestamp": 1761825607,
+      "system_timestamp": 1761825607,
       "completed": false,
       "contract_address": "",
       "chain_id": "",
@@ -98,24 +105,6 @@
       "spot_listed": false,
       "contract_address": "0xcf3232B85b43BCa90E51D38cc06Cc8bB8C8A3E36",
       "chain_id": "56"
-    },
-    {
-      "id": "warning_6903525b7fa7d9.11049840",
-      "token": "BANK",
-      "name": "BANK",
-      "date": "2025-10-30",
-      "time": "20:00",
-      "type": "warning",
-      "phase": 1,
-      "status": "announced",
-      "timestamp": 1761825371,
-      "points": "240",
-      "amount": "472",
-      "contract_address": "0x3aee7602b612de36088f3ffed8c8f10e86ebf2bf",
-      "chain_id": "56",
-      "has_homonym": false,
-      "system_timestamp": 1761825403,
-      "completed": false
     }
   ]
 }
