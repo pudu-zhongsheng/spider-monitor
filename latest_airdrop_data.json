@@ -62,8 +62,11 @@
       "created_timestamp": 1761807618,
       "updated_timestamp": 1761809717,
       "system_timestamp": 1761809717,
-      "contract_address": "0xc2bd425a63800731e3ae42b6596b1",
-      "chain_id": "56"
+      "contract_address": "0xc2bD425A63800731E3Ae42b6596BDD783299fCb1",
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "BAY",
