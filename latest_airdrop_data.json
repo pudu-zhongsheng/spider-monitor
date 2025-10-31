@@ -38,17 +38,17 @@
       "futures_listed": false,
       "amount": "",
       "created_timestamp": 1761890553,
-      "updated_timestamp": 1761896707,
-      "system_timestamp": 1761896707,
+      "updated_timestamp": 1761899409,
+      "system_timestamp": 1761899409,
       "completed": false,
       "contract_address": "",
       "chain_id": "",
       "has_homonym": false,
       "spot_listed": false,
-      "target_bnb": "",
+      "target_bnb": "1390.67",
       "actual_bnb": "",
       "collection_address": "0xa852ec7FCe6E1E6968d4DE3ED8185c48379412eA",
-      "tge_total": ""
+      "tge_total": "15000000"
     },
     {
       "token": "NB",
