@@ -38,8 +38,8 @@
       "futures_listed": false,
       "amount": "",
       "created_timestamp": 1761890553,
-      "updated_timestamp": 1761899409,
-      "system_timestamp": 1761899409,
+      "updated_timestamp": 1761900314,
+      "system_timestamp": 1761900314,
       "completed": false,
       "contract_address": "",
       "chain_id": "",
@@ -131,7 +131,7 @@
       "system_timestamp": 1761832211,
       "completed": false,
       "has_homonym": false,
-      "spot_listed": false,
+      "spot_listed": true,
       "contract_address": "",
       "chain_id": ""
     }
