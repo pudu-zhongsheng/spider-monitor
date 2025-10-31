@@ -39,7 +39,10 @@
       "updated_timestamp": 1761903950,
       "system_timestamp": 1761903950,
       "contract_address": "0xA7bef5abd9265Ab97EE43D2fc4A56e0Ba25ACA25",
-      "chain_id": "56"
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "BEAT",
@@ -68,7 +71,7 @@
       "name": "Nubila Network",
       "date": "2025-10-31",
       "time": "20:00",
-      "points": 240,
+      "points": "240",
       "phase": 1,
       "language": "zh",
       "status": "announced",
@@ -90,7 +93,7 @@
       "name": "MMTFinance",
       "date": "2025-10-31",
       "time": "17:00",
-      "points": 220,
+      "points": "220",
       "type": "tge",
       "phase": 1,
       "language": "en",
