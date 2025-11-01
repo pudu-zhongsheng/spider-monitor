@@ -84,8 +84,10 @@
       "status": "announced",
       "futures_listed": false,
       "created_timestamp": 1761979090,
-      "updated_timestamp": 1761979145,
-      "system_timestamp": 1761979145
+      "updated_timestamp": 1761980402,
+      "system_timestamp": 1761980402,
+      "contract_address": "0xA7bef5abd9265Ab97EE43D2fc4A56e0Ba25ACA25",
+      "chain_id": "56"
     },
     {
       "token": "BEAT",
@@ -145,8 +147,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1761978927,
-      "updated_timestamp": 1761979506,
-      "system_timestamp": 1761979506
+      "updated_timestamp": 1761981308,
+      "system_timestamp": 1761981308
     }
   ]
 }
