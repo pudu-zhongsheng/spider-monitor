@@ -93,7 +93,7 @@
       "name": "Marina Protocol",
       "date": "2025-11-01",
       "time": "16:00",
-      "points": "230",
+      "points": 230,
       "amount": "400",
       "type": "grab",
       "phase": 2,
@@ -104,28 +104,9 @@
       "updated_timestamp": 1761982138,
       "system_timestamp": 1761982138,
       "contract_address": "0xa7bef5abd9265ab97ee43d2fc4a56e0ba25aca25",
-      "chain_id": "56"
-    },
-    {
-      "token": "NB",
-      "name": "Nubila Network",
-      "date": "2025-10-31",
-      "time": "20:00",
-      "points": "240",
-      "phase": 1,
-      "language": "zh",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "250",
-      "type": "grab",
-      "created_timestamp": 1761807618,
-      "updated_timestamp": 1761903950,
-      "system_timestamp": 1761903950,
-      "contract_address": "0xc2bd425a63800731e3ae42b6596bdd783299fcb1",
       "chain_id": "56",
       "completed": true,
-      "has_homonym": true,
+      "has_homonym": false,
       "spot_listed": false
     }
   ]
