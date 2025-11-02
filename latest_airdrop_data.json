@@ -124,7 +124,12 @@
       "type": "",
       "created_timestamp": 1762063865,
       "updated_timestamp": 1762064121,
-      "system_timestamp": 1762064121
+      "system_timestamp": 1762064121,
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "contract_address": "0x915c882e4f67D5FED79889353BFdB0ad213E9b97",
+      "chain_id": "56"
     }
   ]
 }
