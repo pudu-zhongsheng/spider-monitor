@@ -66,6 +66,22 @@
       "chain_id": "56"
     },
     {
+      "token": "",
+      "date": "2025-11-02",
+      "time": "19:00",
+      "points": "235",
+      "type": "grab",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "futures_listed": false,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1762074049,
+      "updated_timestamp": 1762074093,
+      "system_timestamp": 1762074093
+    },
+    {
       "token": "KITE",
       "name": "Kite",
       "date": "2025-11-03",
