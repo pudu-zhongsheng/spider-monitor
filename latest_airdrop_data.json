@@ -59,10 +59,10 @@
       "chain_id": "56",
       "has_homonym": false,
       "updated_at": "2025-11-02 18:52:35",
-      "system_timestamp": 1762081520,
-      "completed": false,
+      "system_timestamp": 1762081262,
+      "completed": true,
       "created_timestamp": 1762080761,
-      "updated_timestamp": 1762081520,
+      "updated_timestamp": 1762081262,
       "language": "zh",
       "futures_listed": false,
       "spot_listed": false
