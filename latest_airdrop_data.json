@@ -68,6 +68,28 @@
       "spot_listed": false
     },
     {
+      "token": "TITN",
+      "name": "THORWallet",
+      "date": "2025-11-03",
+      "time": "16:00",
+      "points": 240,
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "320",
+      "type": "",
+      "created_timestamp": 1761978927,
+      "updated_timestamp": 1762150509,
+      "system_timestamp": 1762150509,
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "contract_address": "0xe62bfbe57763ec24c0f130426f34dbce11fc5b06",
+      "chain_id": "8453"
+    },
+    {
       "token": "KITE",
       "name": "Kite",
       "date": "2025-11-03",
@@ -90,28 +112,6 @@
       "chain_id": "56"
     },
     {
-      "token": "TITN",
-      "name": "THORWallet",
-      "date": "2025-11-03",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1761978927,
-      "updated_timestamp": 1761982070,
-      "system_timestamp": 1761982070,
-      "completed": false,
-      "has_homonym": false,
-      "spot_listed": false,
-      "contract_address": "0xe62bfbe57763ec24c0f130426f34dbce11fc5b06",
-      "chain_id": "8453"
-    },
-    {
       "token": "TYCOON",
       "name": "Dino Tycoon",
       "date": "2025-11-04",
@@ -132,6 +132,24 @@
       "spot_listed": false,
       "contract_address": "0x915c882e4f67D5FED79889353BFdB0ad213E9b97",
       "chain_id": "56"
+    },
+    {
+      "token": "TRUST",
+      "name": "Intuition",
+      "date": "2025-11-05",
+      "time": "17:00",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "futures_listed": true,
+      "system_timestamp": 1762150449,
+      "created_timestamp": 1762150323,
+      "updated_timestamp": 1762150449,
+      "points": "",
+      "amount": "",
+      "type": "",
+      "contract_address": "0x6cd905dF2Ed214b22e0d48FF17CD4200C1C6d8A3",
+      "chain_id": "8453"
     }
   ]
 }
