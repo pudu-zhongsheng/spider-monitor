@@ -124,8 +124,8 @@
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "contract_address": "",
-      "chain_id": ""
+      "contract_address": "0x3e5d4f8aee0d9b3082d5f6da5d6e225d17ba9ea0",
+      "chain_id": "56"
     }
   ]
 }
