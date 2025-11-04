@@ -125,6 +125,25 @@
       "chain_id": "56"
     },
     {
+      "token": "FOLKS",
+      "name": "Folks Finance",
+      "date": "2025-11-06",
+      "time": "20:00",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": true,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1762252250,
+      "updated_timestamp": 1762258567,
+      "system_timestamp": 1762258567,
+      "contract_address": "0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
+      "chain_id": "56"
+    },
+    {
       "token": "LONG",
       "name": "Belong",
       "date": "2025-11-06",
@@ -141,25 +160,6 @@
       "updated_timestamp": 1762252316,
       "system_timestamp": 1762252316,
       "contract_address": "0x9Eca8dedb4882BD694aea786C0Cbe770e70D52e3",
-      "chain_id": "56"
-    },
-    {
-      "token": "FOLKS",
-      "name": "Folks Finance",
-      "date": "2025-11-06",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1762252250,
-      "updated_timestamp": 1762252550,
-      "system_timestamp": 1762252550,
-      "contract_address": "0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
       "chain_id": "56"
     }
   ]
