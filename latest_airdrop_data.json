@@ -79,7 +79,7 @@
       "system_timestamp": 1762159409,
       "contract_address": "0x904567252d8f48555b7447c67dca23f0372e16be",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": true
     },
