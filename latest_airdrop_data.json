@@ -99,6 +99,23 @@
       "system_timestamp": 1762252316,
       "contract_address": "0x9Eca8dedb4882BD694aea786C0Cbe770e70D52e3",
       "chain_id": "56"
+    },
+    {
+      "token": "ARIAIP",
+      "name": "Aria Protocol",
+      "date": "2025-11-07",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1762336854,
+      "updated_timestamp": 1762337131,
+      "system_timestamp": 1762337131
     }
   ]
 }
