@@ -92,7 +92,7 @@
       "name": "Folks Finance",
       "date": "2025-11-06",
       "time": "20:00",
-      "points": "226",
+      "points": 226,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -103,8 +103,11 @@
       "created_timestamp": 1762252250,
       "updated_timestamp": 1762418293,
       "system_timestamp": 1762418293,
-      "contract_address": "0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
-      "chain_id": "56"
+      "contract_address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+      "chain_id": "56",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "ARIAIP",
