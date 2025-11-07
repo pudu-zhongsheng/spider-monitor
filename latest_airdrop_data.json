@@ -71,7 +71,7 @@
       "name": "Aria Protocol",
       "date": "2025-11-07",
       "time": "15:00",
-      "points": "226",
+      "points": 226,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -83,7 +83,10 @@
       "updated_timestamp": 1762494137,
       "system_timestamp": 1762494137,
       "contract_address": "0x2a7e3392458307493c86388d5e544aad93286836",
-      "chain_id": "56"
+      "chain_id": "56",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
     }
   ]
 }
