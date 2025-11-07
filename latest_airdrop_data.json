@@ -36,13 +36,14 @@
       "amount": "320",
       "type": "grab",
       "created_timestamp": 1762239729,
-      "updated_timestamp": 1762423815,
-      "system_timestamp": 1762423815,
+      "updated_timestamp": 1762534034,
+      "system_timestamp": 1762534034,
       "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "contract_address": "0x3e5d4f8aee0d9b3082d5f6da5d6e225d17ba9ea0",
-      "chain_id": "56"
+      "chain_id": "56",
+      "total_amount": "10000000"
     },
     {
       "token": "FOLKS",
