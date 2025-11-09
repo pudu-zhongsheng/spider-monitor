@@ -5,7 +5,7 @@
       "name": "MetaArena",
       "date": "2025-11-09",
       "time": "21:00",
-      "points": "231",
+      "points": 231,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -19,7 +19,7 @@
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": "",
+      "total_amount": "21000000",
       "contract_address": "0xaafe1f781bc5e4d240c4b73f6748d76079678fa8",
       "chain_id": "56"
     },
