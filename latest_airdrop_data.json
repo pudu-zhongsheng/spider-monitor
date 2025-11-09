@@ -34,10 +34,12 @@
       "futures_listed": true,
       "system_timestamp": 1762677306,
       "created_timestamp": 1762584359,
-      "updated_timestamp": 1762677306,
+      "updated_timestamp": 1762697266,
       "points": "",
       "amount": "",
-      "type": ""
+      "type": "",
+      "contract_address": "0xeA37A8DE1de2d9D10772EEB569e28Bfa5Cb17707",
+      "chain_id": "56"
     },
     {
       "token": "ALLO",
