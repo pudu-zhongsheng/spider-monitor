@@ -32,12 +32,35 @@
       "language": "zh",
       "status": "announced",
       "futures_listed": true,
-      "system_timestamp": 1762585085,
+      "system_timestamp": 1762672507,
       "created_timestamp": 1762584359,
-      "updated_timestamp": 1762585085,
+      "updated_timestamp": 1762672507,
       "points": "",
       "amount": "",
       "type": ""
+    },
+    {
+      "token": "ALLO",
+      "name": "Allora",
+      "date": "2025-11-11",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1762672089,
+      "updated_timestamp": 1762672507,
+      "system_timestamp": 1762672507,
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "",
+      "contract_address": "",
+      "chain_id": ""
     }
   ]
 }
