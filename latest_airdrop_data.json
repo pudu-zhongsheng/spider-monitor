@@ -55,14 +55,14 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1762672089,
-      "updated_timestamp": 1762677306,
-      "system_timestamp": 1762677306,
+      "updated_timestamp": 1762740006,
+      "system_timestamp": 1762740006,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "",
-      "contract_address": "",
-      "chain_id": ""
+      "contract_address": "0xCCe5F304fD043d6A4E8cCB5376A4a4Fb583B98d5",
+      "chain_id": "56"
     }
   ]
 }
