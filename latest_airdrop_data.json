@@ -36,12 +36,12 @@
       "amount": "50",
       "type": "grab",
       "created_timestamp": 1762672089,
-      "updated_timestamp": 1762850799,
-      "system_timestamp": 1762850799,
+      "updated_timestamp": 1762852862,
+      "system_timestamp": 1762852862,
       "completed": false,
       "has_homonym": false,
       "spot_listed": true,
-      "total_amount": "",
+      "total_amount": "14990000",
       "contract_address": "0xCCe5F304fD043d6A4E8cCB5376A4a4Fb583B98d5",
       "chain_id": "56"
     }
