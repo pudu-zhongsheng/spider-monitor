@@ -28,20 +28,20 @@
       "name": "Planck",
       "date": "2025-11-13",
       "time": "20:00",
-      "points": "",
+      "points": "220",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "futures_listed": true,
-      "amount": "",
-      "type": "",
+      "amount": "200",
+      "type": "grab",
       "created_timestamp": 1762930926,
-      "updated_timestamp": 1762936310,
-      "system_timestamp": 1762936310,
+      "updated_timestamp": 1763028158,
+      "system_timestamp": 1763028158,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": "",
+      "total_amount": "15000000",
       "contract_address": "0x004D50B3fC784b580531D8e8615AA96Cf7fbb919",
       "chain_id": "56"
     },
@@ -59,8 +59,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1762931287,
-      "updated_timestamp": 1762936310,
-      "system_timestamp": 1762936310
+      "updated_timestamp": 1763028158,
+      "system_timestamp": 1763028158
     }
   ]
 }
