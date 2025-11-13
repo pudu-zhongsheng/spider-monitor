@@ -23,7 +23,7 @@
       "token": "PLANCK",
       "name": "Planck",
       "date": "2025-11-13",
-      "time": "Delay",
+      "time": "21:30",
       "points": 220,
       "phase": 1,
       "language": "en",
@@ -34,11 +34,11 @@
       "created_timestamp": 1762930926,
       "updated_timestamp": 1763028158,
       "system_timestamp": 1763028158,
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "15000000",
-      "contract_address": "0x004D50B3fC784b580531D8e8615AA96Cf7fbb919",
+      "contract_address": "0x004d50b3fc784b580531d8e8615aa96cf7fbb919",
       "chain_id": "56"
     }
   ]
