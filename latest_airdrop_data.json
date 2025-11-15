@@ -16,7 +16,7 @@
       "updated_timestamp": 1763193689,
       "system_timestamp": 1763193689,
       "utc": "utc8",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "165000000",
