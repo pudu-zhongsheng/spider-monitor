@@ -68,5 +68,19 @@
       "contract_address": "0x004d50b3fc784b580531d8e8615aa96cf7fbb919",
       "chain_id": "56"
     }
+  ],
+  "alpha_checkins": [
+    {
+      "key": "today",
+      "count": 486474
+    },
+    {
+      "key": "yesterday",
+      "count": 743585
+    },
+    {
+      "key": "before_yesterday",
+      "count": 713109
+    }
   ]
 }
