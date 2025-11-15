@@ -58,8 +58,31 @@
       "amount": "",
       "name": "",
       "created_timestamp": 1763190053,
-      "updated_timestamp": 1763191808,
-      "system_timestamp": 1763191808
+      "updated_timestamp": 1763192708,
+      "system_timestamp": 1763192708
+    },
+    {
+      "id": "warning_691830d25f8e87.41078040",
+      "token": "elizaOS",
+      "name": "elizaOS",
+      "date": "2025-11-15",
+      "time": "16:00",
+      "type": "warning",
+      "phase": 1,
+      "status": "announced",
+      "timestamp": 1763193042,
+      "points": 240,
+      "amount": "4125",
+      "contract_address": "0xea17df5cf6d172224892b5477a16acb111182478",
+      "chain_id": "56",
+      "has_homonym": false,
+      "system_timestamp": 1763193062,
+      "completed": false,
+      "total_amount": "165000000",
+      "created_timestamp": 1763193062,
+      "updated_timestamp": 1763193107,
+      "futures_listed": false,
+      "spot_listed": false
     }
   ]
 }
