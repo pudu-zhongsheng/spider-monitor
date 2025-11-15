@@ -72,15 +72,15 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 486474
+      "count": 384808
     },
     {
       "key": "yesterday",
-      "count": 743585
+      "count": 554319
     },
     {
       "key": "before_yesterday",
-      "count": 713109
+      "count": 531584
     }
   ]
 }
