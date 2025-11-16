@@ -59,8 +59,8 @@
       "amount": "",
       "name": "",
       "created_timestamp": 1763292755,
-      "updated_timestamp": 1763292893,
-      "system_timestamp": 1763292893
+      "updated_timestamp": 1763293508,
+      "system_timestamp": 1763293508
     },
     {
       "token": "DGRAM",
@@ -85,7 +85,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 235386
+      "count": 239809
     },
     {
       "key": "yesterday",
@@ -100,21 +100,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1599525146.7662",
-      "trades": 5035222,
-      "avgBuyAmount": "317.67"
+      "buyQuoteVolume": "1632495161.4488",
+      "trades": 5141067,
+      "avgBuyAmount": "317.54"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "606171069.20429",
-      "trades": 1983087,
-      "avgBuyAmount": "305.67"
+      "buyQuoteVolume": "611123973.38967",
+      "trades": 2005064,
+      "avgBuyAmount": "304.79"
     },
     {
       "symbol": "MERL",
-      "buyQuoteVolume": "467509056.898",
-      "trades": 1663674,
-      "avgBuyAmount": "281.01"
+      "buyQuoteVolume": "482353813.52049",
+      "trades": 1708993,
+      "avgBuyAmount": "282.24"
     }
   ]
 }
