@@ -1,29 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "PLAYSOLANA",
-      "name": "Play Solana",
-      "date": "2025-11-16",
-      "time": "21:00",
-      "points": 245,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "2500",
-      "type": "grab",
-      "created_timestamp": 1762931287,
-      "updated_timestamp": 1763298023,
-      "system_timestamp": 1763298023,
-      "contract_address": "PLAYs3GSSadH2q2JLS7djp7yzeT75NK78XgrE5YLrfq",
-      "chain_id": "501",
-      "completed": false,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "50000000"
-    },
-    {
       "token": "DGRAM",
       "name": "Datagram Network",
       "date": "2025-11-18",
@@ -40,13 +17,39 @@
       "updated_timestamp": 1763292810,
       "system_timestamp": 1763292810,
       "contract_address": "0x49c6c91ec839a581de2b882e868494215250ee59",
-      "chain_id": "56"
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false
+    },
+    {
+      "token": "PLAYSOLANA",
+      "name": "Play Solana",
+      "date": "2025-11-16",
+      "time": "21:00",
+      "points": "245",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "2500",
+      "type": "grab",
+      "created_timestamp": 1762931287,
+      "updated_timestamp": 1763298023,
+      "system_timestamp": 1763298023,
+      "contract_address": "PLAYs3GSSadH2q2JLS7djp7yzeT75NK78XgrE5YLrfq",
+      "chain_id": "501",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "50000000"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 273315
+      "count": 288855
     },
     {
       "key": "yesterday",
@@ -61,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1933956212.0452",
-      "trades": 6115332,
-      "avgBuyAmount": "316.25"
+      "buyQuoteVolume": "2073764129.2048",
+      "trades": 6555350,
+      "avgBuyAmount": "316.35"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "653855726.0759",
-      "trades": 2177415,
-      "avgBuyAmount": "300.29"
+      "buyQuoteVolume": "686176321.31723",
+      "trades": 2297287,
+      "avgBuyAmount": "298.69"
     },
     {
       "symbol": "MERL",
-      "buyQuoteVolume": "544102074.46712",
-      "trades": 1936525,
-      "avgBuyAmount": "280.97"
+      "buyQuoteVolume": "551597935.93771",
+      "trades": 1993321,
+      "avgBuyAmount": "276.72"
     }
   ]
 }
