@@ -49,7 +49,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 387501
+      "count": 388055
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "2754238175.8939",
-      "trades": 9088565,
-      "avgBuyAmount": "303.04"
+      "buyQuoteVolume": "2756760443.1215",
+      "trades": 9105376,
+      "avgBuyAmount": "302.76"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "963171378.78916",
-      "trades": 3318252,
-      "avgBuyAmount": "290.26"
+      "buyQuoteVolume": "965582000.56158",
+      "trades": 3333395,
+      "avgBuyAmount": "289.67"
     },
     {
       "symbol": "MERL",
-      "buyQuoteVolume": "705748434.29766",
-      "trades": 2743170,
-      "avgBuyAmount": "257.27"
+      "buyQuoteVolume": "707302885.79494",
+      "trades": 2754675,
+      "avgBuyAmount": "256.76"
     }
   ]
 }
