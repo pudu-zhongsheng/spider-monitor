@@ -1,6 +1,29 @@
 {
   "airdrops": [
     {
+      "token": "PLAYSOLANA",
+      "name": "Play Solana",
+      "date": "2025-11-14",
+      "time": "Delay",
+      "points": 235,
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "1000",
+      "type": "grab",
+      "created_timestamp": 1762931287,
+      "updated_timestamp": 1763110751,
+      "system_timestamp": 1763110751,
+      "contract_address": "PLAYs3GSSadH2q2JLS7djp7yzeT75NK78XgrE5YLrfq",
+      "chain_id": "501",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "50000000"
+    },
+    {
       "token": "ELIZAOS",
       "date": "2025-11-15",
       "time": "16:00",
@@ -24,33 +47,29 @@
       "chain_id": "56"
     },
     {
-      "token": "PLAYSOLANA",
-      "name": "Play Solana",
-      "date": "2025-11-14",
-      "time": "Delay",
-      "points": 235,
+      "token": "DGRAM",
+      "name": "Datagram Network",
+      "date": "2025-11-18",
+      "time": "",
+      "points": "",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "1000",
-      "type": "grab",
-      "created_timestamp": 1762931287,
-      "updated_timestamp": 1763110751,
-      "system_timestamp": 1763110751,
-      "contract_address": "PLAYs3GSSadH2q2JLS7djp7yzeT75NK78XgrE5YLrfq",
-      "chain_id": "501",
-      "completed": false,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "50000000"
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1763287223,
+      "updated_timestamp": 1763287465,
+      "system_timestamp": 1763287465,
+      "contract_address": "0x49c6c91ec839a581de2b882e868494215250ee59",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 198348
+      "count": 210369
     },
     {
       "key": "yesterday",
@@ -65,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1376396672.992",
-      "trades": 4312981,
-      "avgBuyAmount": "319.13"
+      "buyQuoteVolume": "1446526386.5514",
+      "trades": 4536906,
+      "avgBuyAmount": "318.84"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "534006485.17955",
-      "trades": 1726562,
-      "avgBuyAmount": "309.29"
+      "buyQuoteVolume": "559204395.01845",
+      "trades": 1814946,
+      "avgBuyAmount": "308.11"
     },
     {
       "symbol": "MERL",
-      "buyQuoteVolume": "335612062.8396",
-      "trades": 1275937,
-      "avgBuyAmount": "263.03"
+      "buyQuoteVolume": "381543932.32509",
+      "trades": 1410158,
+      "avgBuyAmount": "270.57"
     }
   ]
 }
