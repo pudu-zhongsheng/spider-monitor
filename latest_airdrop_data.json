@@ -27,7 +27,7 @@
       "name": "Play Solana",
       "date": "2025-11-16",
       "time": "21:00",
-      "points": "245",
+      "points": 245,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -40,7 +40,7 @@
       "system_timestamp": 1763298023,
       "contract_address": "PLAYs3GSSadH2q2JLS7djp7yzeT75NK78XgrE5YLrfq",
       "chain_id": "501",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "50000000"
@@ -49,7 +49,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 328673
+      "count": 339604
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "2408799644.3706",
-      "trades": 7687682,
-      "avgBuyAmount": "313.33"
+      "buyQuoteVolume": "2479046808.0868",
+      "trades": 7934045,
+      "avgBuyAmount": "312.46"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "775245170.66865",
-      "trades": 2603308,
-      "avgBuyAmount": "297.79"
+      "buyQuoteVolume": "824567002.97699",
+      "trades": 2745929,
+      "avgBuyAmount": "300.29"
     },
     {
       "symbol": "MERL",
-      "buyQuoteVolume": "586155330.64217",
-      "trades": 2179985,
-      "avgBuyAmount": "268.88"
+      "buyQuoteVolume": "590884618.55518",
+      "trades": 2219313,
+      "avgBuyAmount": "266.25"
     }
   ]
 }
