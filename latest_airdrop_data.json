@@ -47,6 +47,22 @@
       "chain_id": "56"
     },
     {
+      "token": "",
+      "date": "2025-11-16",
+      "time": "21:00",
+      "points": "245",
+      "type": "grab",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "futures_listed": false,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1763292755,
+      "updated_timestamp": 1763292893,
+      "system_timestamp": 1763292893
+    },
+    {
       "token": "DGRAM",
       "name": "Datagram Network",
       "date": "2025-11-18",
@@ -60,8 +76,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1763287223,
-      "updated_timestamp": 1763287465,
-      "system_timestamp": 1763287465,
+      "updated_timestamp": 1763292810,
+      "system_timestamp": 1763292810,
       "contract_address": "0x49c6c91ec839a581de2b882e868494215250ee59",
       "chain_id": "56"
     }
@@ -69,7 +85,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 231289
+      "count": 235386
     },
     {
       "key": "yesterday",
@@ -84,21 +100,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1569566525.2387",
-      "trades": 4938583,
-      "avgBuyAmount": "317.82"
+      "buyQuoteVolume": "1599525146.7662",
+      "trades": 5035222,
+      "avgBuyAmount": "317.67"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "602642951.85524",
-      "trades": 1967232,
-      "avgBuyAmount": "306.34"
+      "buyQuoteVolume": "606171069.20429",
+      "trades": 1983087,
+      "avgBuyAmount": "305.67"
     },
     {
       "symbol": "MERL",
-      "buyQuoteVolume": "455414538.01131",
-      "trades": 1627031,
-      "avgBuyAmount": "279.91"
+      "buyQuoteVolume": "467509056.898",
+      "trades": 1663674,
+      "avgBuyAmount": "281.01"
     }
   ]
 }
