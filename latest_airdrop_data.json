@@ -1,6 +1,29 @@
 {
   "airdrops": [
     {
+      "token": "PLAYSOLANA",
+      "name": "Play Solana",
+      "date": "2025-11-16",
+      "time": "21:00",
+      "points": 245,
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "2500",
+      "type": "grab",
+      "created_timestamp": 1762931287,
+      "updated_timestamp": 1763298023,
+      "system_timestamp": 1763298023,
+      "contract_address": "PLAYs3GSSadH2q2JLS7djp7yzeT75NK78XgrE5YLrfq",
+      "chain_id": "501",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "50000000"
+    },
+    {
       "token": "DGRAM",
       "name": "Datagram Network",
       "date": "2025-11-18",
@@ -23,33 +46,29 @@
       "spot_listed": false
     },
     {
-      "token": "PLAYSOLANA",
-      "name": "Play Solana",
-      "date": "2025-11-16",
-      "time": "21:00",
-      "points": 245,
+      "token": "GAIB",
+      "name": "GAIB",
+      "date": "2025-11-19",
+      "time": "18:00",
+      "points": "",
       "phase": 1,
-      "language": "en",
+      "language": "zh",
       "status": "announced",
       "utc": "",
-      "futures_listed": false,
-      "amount": "2500",
-      "type": "grab",
-      "created_timestamp": 1762931287,
-      "updated_timestamp": 1763298023,
-      "system_timestamp": 1763298023,
-      "contract_address": "PLAYs3GSSadH2q2JLS7djp7yzeT75NK78XgrE5YLrfq",
-      "chain_id": "501",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "50000000"
+      "futures_listed": true,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1763359231,
+      "updated_timestamp": 1763359329,
+      "system_timestamp": 1763359329,
+      "contract_address": "0xc19d38925f9f645337b1d1f37baf3c0647a48e50",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 102656
+      "count": 122784
     },
     {
       "key": "yesterday",
@@ -64,21 +83,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1043417774.2211",
-      "trades": 3145889,
-      "avgBuyAmount": "331.68"
+      "buyQuoteVolume": "1250245351.931",
+      "trades": 3761303,
+      "avgBuyAmount": "332.4"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "158112544.06492",
-      "trades": 661518,
-      "avgBuyAmount": "239.01"
+      "buyQuoteVolume": "170392415.66801",
+      "trades": 739574,
+      "avgBuyAmount": "230.39"
     },
     {
-      "symbol": "KOGE",
-      "buyQuoteVolume": "56703001.971959",
-      "trades": 74889,
-      "avgBuyAmount": "757.16"
+      "symbol": "TIMI",
+      "buyQuoteVolume": "77008818.196781",
+      "trades": 480087,
+      "avgBuyAmount": "160.41"
     }
   ]
 }
