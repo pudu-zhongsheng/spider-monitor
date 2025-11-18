@@ -28,7 +28,7 @@
       "name": "Datagram Network",
       "date": "2025-11-18",
       "time": "16:00",
-      "points": "245",
+      "points": 245,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -41,7 +41,7 @@
       "system_timestamp": 1763449289,
       "contract_address": "0x49c6c91ec839a581de2b882e868494215250ee59",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "99999600"
@@ -69,7 +69,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 157841
+      "count": 170736
     },
     {
       "key": "yesterday",
@@ -84,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1774945717.7008",
-      "trades": 5381197,
-      "avgBuyAmount": "329.84"
+      "buyQuoteVolume": "1923384152.2728",
+      "trades": 5834576,
+      "avgBuyAmount": "329.65"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "105556439.40735",
-      "trades": 752743,
-      "avgBuyAmount": "140.23"
+      "buyQuoteVolume": "112449783.8891",
+      "trades": 799236,
+      "avgBuyAmount": "140.7"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "79290075.782152",
-      "trades": 634329,
-      "avgBuyAmount": "125"
+      "buyQuoteVolume": "86882489.467779",
+      "trades": 689793,
+      "avgBuyAmount": "125.95"
     }
   ]
 }
