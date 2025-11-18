@@ -27,7 +27,7 @@
       "token": "DGRAM",
       "name": "Datagram Network",
       "date": "2025-11-18",
-      "time": "",
+      "time": "16:00",
       "points": "",
       "phase": 1,
       "language": "en",
@@ -43,7 +43,8 @@
       "chain_id": "56",
       "completed": false,
       "has_homonym": false,
-      "spot_listed": false
+      "spot_listed": false,
+      "total_amount": ""
     },
     {
       "token": "GAIB",
@@ -68,7 +69,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 103201
+      "count": 114466
     },
     {
       "key": "yesterday",
@@ -83,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1130520809.6537",
-      "trades": 3431267,
-      "avgBuyAmount": "329.48"
+      "buyQuoteVolume": "1257213238.2001",
+      "trades": 3815524,
+      "avgBuyAmount": "329.5"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "86089227.281182",
-      "trades": 582745,
-      "avgBuyAmount": "147.73"
+      "buyQuoteVolume": "93272180.814278",
+      "trades": 636730,
+      "avgBuyAmount": "146.49"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "55162965.695314",
-      "trades": 74853,
-      "avgBuyAmount": "736.95"
+      "buyQuoteVolume": "61285549.683552",
+      "trades": 83146,
+      "avgBuyAmount": "737.08"
     }
   ]
 }
