@@ -28,23 +28,23 @@
       "name": "Datagram Network",
       "date": "2025-11-18",
       "time": "16:00",
-      "points": "",
+      "points": "245",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "3340",
+      "type": "grab",
       "created_timestamp": 1763287223,
-      "updated_timestamp": 1763292810,
-      "system_timestamp": 1763292810,
+      "updated_timestamp": 1763449289,
+      "system_timestamp": 1763449289,
       "contract_address": "0x49c6c91ec839a581de2b882e868494215250ee59",
       "chain_id": "56",
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": ""
+      "total_amount": "99999600"
     },
     {
       "token": "GAIB",
@@ -69,7 +69,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 114466
+      "count": 142294
     },
     {
       "key": "yesterday",
@@ -84,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1257213238.2001",
-      "trades": 3815524,
-      "avgBuyAmount": "329.5"
+      "buyQuoteVolume": "1589232436.6254",
+      "trades": 4808398,
+      "avgBuyAmount": "330.51"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "93272180.814278",
-      "trades": 636730,
-      "avgBuyAmount": "146.49"
+      "buyQuoteVolume": "101798612.49217",
+      "trades": 716091,
+      "avgBuyAmount": "142.16"
     },
     {
-      "symbol": "KOGE",
-      "buyQuoteVolume": "61285549.683552",
-      "trades": 83146,
-      "avgBuyAmount": "737.08"
+      "symbol": "AT",
+      "buyQuoteVolume": "70975973.840446",
+      "trades": 577975,
+      "avgBuyAmount": "122.8"
     }
   ]
 }
