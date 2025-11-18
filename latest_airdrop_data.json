@@ -1,27 +1,23 @@
 {
   "airdrops": [
     {
-      "token": "PLAYSOLANA",
-      "name": "Play Solana",
-      "date": "2025-11-16",
-      "time": "21:00",
-      "points": 245,
+      "token": "GAIB",
+      "name": "GAIB",
+      "date": "2025-11-19",
+      "time": "18:00",
+      "points": "",
       "phase": 1,
-      "language": "en",
+      "language": "zh",
       "status": "announced",
       "utc": "",
-      "futures_listed": false,
-      "amount": "2500",
-      "type": "grab",
-      "created_timestamp": 1762931287,
-      "updated_timestamp": 1763298023,
-      "system_timestamp": 1763298023,
-      "contract_address": "PLAYs3GSSadH2q2JLS7djp7yzeT75NK78XgrE5YLrfq",
-      "chain_id": "501",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "50000000"
+      "futures_listed": true,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1763359231,
+      "updated_timestamp": 1763359329,
+      "system_timestamp": 1763359329,
+      "contract_address": "0xc19d38925f9f645337b1d1f37baf3c0647a48e50",
+      "chain_id": "56"
     },
     {
       "token": "DGRAM",
@@ -45,31 +41,12 @@
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "99999600"
-    },
-    {
-      "token": "GAIB",
-      "name": "GAIB",
-      "date": "2025-11-19",
-      "time": "18:00",
-      "points": "",
-      "phase": 1,
-      "language": "zh",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": true,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1763359231,
-      "updated_timestamp": 1763359329,
-      "system_timestamp": 1763359329,
-      "contract_address": "0xc19d38925f9f645337b1d1f37baf3c0647a48e50",
-      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 170736
+      "count": 181923
     },
     {
       "key": "yesterday",
@@ -84,21 +61,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1923384152.2728",
-      "trades": 5834576,
-      "avgBuyAmount": "329.65"
+      "buyQuoteVolume": "2054144785.8776",
+      "trades": 6247673,
+      "avgBuyAmount": "328.79"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "112449783.8891",
-      "trades": 799236,
-      "avgBuyAmount": "140.7"
+      "buyQuoteVolume": "118397162.43799",
+      "trades": 839309,
+      "avgBuyAmount": "141.07"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "86882489.467779",
-      "trades": 689793,
-      "avgBuyAmount": "125.95"
+      "buyQuoteVolume": "92510951.072044",
+      "trades": 732236,
+      "avgBuyAmount": "126.34"
     }
   ]
 }
