@@ -36,14 +36,14 @@
       "amount": "",
       "name": "",
       "created_timestamp": 1763632894,
-      "updated_timestamp": 1763634611,
-      "system_timestamp": 1763634611
+      "updated_timestamp": 1763635509,
+      "system_timestamp": 1763635509
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 231193
+      "count": 237160
     },
     {
       "key": "yesterday",
@@ -58,21 +58,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "2501466173.7257",
-      "trades": 7503374,
-      "avgBuyAmount": "333.38"
+      "buyQuoteVolume": "2563026259.8495",
+      "trades": 7708567,
+      "avgBuyAmount": "332.49"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "154184713.0093",
-      "trades": 808924,
-      "avgBuyAmount": "190.6"
+      "buyQuoteVolume": "157985031.9602",
+      "trades": 834005,
+      "avgBuyAmount": "189.43"
     },
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "149596646.88287",
-      "trades": 279443,
-      "avgBuyAmount": "535.34"
+      "buyQuoteVolume": "154861858.97211",
+      "trades": 292451,
+      "avgBuyAmount": "529.53"
     }
   ]
 }
