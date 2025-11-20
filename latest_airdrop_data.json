@@ -1,6 +1,28 @@
 {
   "airdrops": [
     {
+      "token": "BOB",
+      "date": "2025-11-20",
+      "time": "20:00",
+      "points": 240,
+      "type": "grab",
+      "phase": 1,
+      "language": "en",
+      "status": "ongoing",
+      "futures_listed": false,
+      "amount": "1600",
+      "name": "BOB",
+      "created_timestamp": 1763632894,
+      "updated_timestamp": 1763640399,
+      "system_timestamp": 1763640399,
+      "contract_address": "0x52b5fb4b0f6572b8c44d0251cc224513ac5eb7e7",
+      "chain_id": "56",
+      "total_amount": "100000000",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
+    },
+    {
       "token": "GAIB",
       "name": "GAIB",
       "date": "2025-11-19",
@@ -22,28 +44,12 @@
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "4999925"
-    },
-    {
-      "token": "",
-      "date": "2025-11-20",
-      "time": "20:00",
-      "points": "240",
-      "type": "grab",
-      "phase": 1,
-      "language": "en",
-      "status": "ongoing",
-      "futures_listed": false,
-      "amount": "",
-      "name": "",
-      "created_timestamp": 1763632894,
-      "updated_timestamp": 1763639109,
-      "system_timestamp": 1763639109
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 260336
+      "count": 288325
     },
     {
       "key": "yesterday",
@@ -58,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "2824849661.7205",
-      "trades": 8538636,
-      "avgBuyAmount": "330.83"
+      "buyQuoteVolume": "3137993000.397",
+      "trades": 9557134,
+      "avgBuyAmount": "328.34"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "170829306.61736",
-      "trades": 920499,
-      "avgBuyAmount": "185.58"
+      "buyQuoteVolume": "186989972.45635",
+      "trades": 1014000,
+      "avgBuyAmount": "184.41"
     },
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "165616932.00862",
-      "trades": 340068,
-      "avgBuyAmount": "487.01"
+      "buyQuoteVolume": "176654901.37546",
+      "trades": 406893,
+      "avgBuyAmount": "434.16"
     }
   ]
 }
