@@ -1,6 +1,29 @@
 {
   "airdrops": [
     {
+      "token": "GAIB",
+      "name": "GAIB",
+      "date": "2025-11-19",
+      "time": "18:00",
+      "points": 245,
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": true,
+      "amount": "175",
+      "type": "grab",
+      "created_timestamp": 1763359231,
+      "updated_timestamp": 1763539291,
+      "system_timestamp": 1763539291,
+      "contract_address": "0xc19d38925f9f645337b1d1f37baf3c0647a48e50",
+      "chain_id": "56",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "4999925"
+    },
+    {
       "token": "BOB",
       "date": "2025-11-20",
       "time": "20:00",
@@ -23,33 +46,33 @@
       "spot_listed": false
     },
     {
-      "token": "GAIB",
-      "name": "GAIB",
-      "date": "2025-11-19",
+      "token": "ARTX",
+      "name": "ULTILAND",
+      "date": "2025-11-21",
       "time": "18:00",
-      "points": 245,
+      "points": "",
       "phase": 1,
       "language": "zh",
       "status": "announced",
       "utc": "",
-      "futures_listed": true,
-      "amount": "175",
-      "type": "grab",
-      "created_timestamp": 1763359231,
-      "updated_timestamp": 1763539291,
-      "system_timestamp": 1763539291,
-      "contract_address": "0xc19d38925f9f645337b1d1f37baf3c0647a48e50",
-      "chain_id": "56",
-      "completed": true,
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1763644676,
+      "updated_timestamp": 1763644776,
+      "system_timestamp": 1763644776,
+      "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": "4999925"
+      "total_amount": "",
+      "contract_address": "0x8105743e8A19c915a604D7D9e7aa3A060A4C2c32",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 288325
+      "count": 304572
     },
     {
       "key": "yesterday",
@@ -64,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "3137993000.397",
-      "trades": 9557134,
-      "avgBuyAmount": "328.34"
+      "buyQuoteVolume": "3318816348.0832",
+      "trades": 10154708,
+      "avgBuyAmount": "326.83"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "186989972.45635",
-      "trades": 1014000,
-      "avgBuyAmount": "184.41"
+      "buyQuoteVolume": "195649311.04921",
+      "trades": 1060076,
+      "avgBuyAmount": "184.56"
     },
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "176654901.37546",
-      "trades": 406893,
-      "avgBuyAmount": "434.16"
+      "buyQuoteVolume": "185882651.58496",
+      "trades": 443470,
+      "avgBuyAmount": "419.15"
     }
   ]
 }
