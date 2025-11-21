@@ -84,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "4181690710.7272",
-      "trades": 13043584,
-      "avgBuyAmount": "320.59"
+      "buyQuoteVolume": "4202129031.8048",
+      "trades": 13118630,
+      "avgBuyAmount": "320.32"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "458161115.05925",
-      "trades": 2333847,
-      "avgBuyAmount": "196.31"
+      "buyQuoteVolume": "463755144.95717",
+      "trades": 2368542,
+      "avgBuyAmount": "195.8"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "200364511.75219",
-      "trades": 282147,
-      "avgBuyAmount": "710.14"
+      "buyQuoteVolume": "202813238.83167",
+      "trades": 285562,
+      "avgBuyAmount": "710.22"
     }
   ]
 }
