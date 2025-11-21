@@ -27,7 +27,7 @@
       "name": "ULTILAND",
       "date": "2025-11-21",
       "time": "18:00",
-      "points": "255",
+      "points": 255,
       "phase": 1,
       "language": "zh",
       "status": "announced",
@@ -36,12 +36,12 @@
       "amount": "200",
       "type": "grab",
       "created_timestamp": 1763644676,
-      "updated_timestamp": 1763711193,
-      "system_timestamp": 1763711193,
+      "updated_timestamp": 1763711261,
+      "system_timestamp": 1763711261,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": "",
+      "total_amount": "2800000",
       "contract_address": "0x8105743e8A19c915a604D7D9e7aa3A060A4C2c32",
       "chain_id": "56"
     },
@@ -87,7 +87,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 156840
+      "count": 160064
     },
     {
       "key": "yesterday",
@@ -102,21 +102,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1704691771.819",
-      "trades": 4926152,
-      "avgBuyAmount": "346.05"
+      "buyQuoteVolume": "1735578271.9342",
+      "trades": 5017905,
+      "avgBuyAmount": "345.88"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "171728164.39154",
-      "trades": 802521,
-      "avgBuyAmount": "213.99"
+      "buyQuoteVolume": "177460681.60123",
+      "trades": 832289,
+      "avgBuyAmount": "213.22"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "63392685.197866",
-      "trades": 378237,
-      "avgBuyAmount": "167.6"
+      "buyQuoteVolume": "65722858.684968",
+      "trades": 390336,
+      "avgBuyAmount": "168.38"
     }
   ]
 }
