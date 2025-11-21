@@ -27,17 +27,17 @@
       "name": "ULTILAND",
       "date": "2025-11-21",
       "time": "18:00",
-      "points": "",
+      "points": "255",
       "phase": 1,
       "language": "zh",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "200",
+      "type": "grab",
       "created_timestamp": 1763644676,
-      "updated_timestamp": 1763644776,
-      "system_timestamp": 1763644776,
+      "updated_timestamp": 1763711193,
+      "system_timestamp": 1763711193,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
@@ -59,8 +59,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1763704865,
-      "updated_timestamp": 1763710224,
-      "system_timestamp": 1763710224,
+      "updated_timestamp": 1763711062,
+      "system_timestamp": 1763711062,
       "contract_address": "0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d",
       "chain_id": "56"
     },
@@ -78,8 +78,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1763704865,
-      "updated_timestamp": 1763710224,
-      "system_timestamp": 1763710224,
+      "updated_timestamp": 1763711062,
+      "system_timestamp": 1763711062,
       "contract_address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
       "chain_id": "56"
     }
@@ -87,7 +87,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 154358
+      "count": 156840
     },
     {
       "key": "yesterday",
@@ -102,21 +102,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1679600646.5474",
-      "trades": 4849220,
-      "avgBuyAmount": "346.37"
+      "buyQuoteVolume": "1704691771.819",
+      "trades": 4926152,
+      "avgBuyAmount": "346.05"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "168481329.48883",
-      "trades": 784167,
-      "avgBuyAmount": "214.85"
+      "buyQuoteVolume": "171728164.39154",
+      "trades": 802521,
+      "avgBuyAmount": "213.99"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "61834231.988519",
-      "trades": 369036,
-      "avgBuyAmount": "167.56"
+      "buyQuoteVolume": "63392685.197866",
+      "trades": 378237,
+      "avgBuyAmount": "167.6"
     }
   ]
 }
