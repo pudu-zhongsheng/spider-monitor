@@ -9,12 +9,12 @@
       "phase": 1,
       "language": "en",
       "status": "ongoing",
-      "futures_listed": false,
+      "futures_listed": true,
       "amount": "1600",
       "name": "BOB",
       "created_timestamp": 1763632894,
-      "updated_timestamp": 1763640399,
-      "system_timestamp": 1763640399,
+      "updated_timestamp": 1763717402,
+      "system_timestamp": 1763717402,
       "contract_address": "0x52b5fb4b0f6572b8c44d0251cc224513ac5eb7e7",
       "chain_id": "56",
       "total_amount": "100000000",
@@ -87,7 +87,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 181882
+      "count": 198150
     },
     {
       "key": "yesterday",
@@ -102,21 +102,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1974839521.9575",
-      "trades": 5734067,
-      "avgBuyAmount": "344.4"
+      "buyQuoteVolume": "2161489899.2628",
+      "trades": 6315004,
+      "avgBuyAmount": "342.28"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "198354632.26614",
-      "trades": 941127,
-      "avgBuyAmount": "210.76"
+      "buyQuoteVolume": "211996961.14692",
+      "trades": 1011567,
+      "avgBuyAmount": "209.57"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "77881920.661888",
-      "trades": 449279,
-      "avgBuyAmount": "173.35"
+      "buyQuoteVolume": "82091449.166121",
+      "trades": 475562,
+      "avgBuyAmount": "172.62"
     }
   ]
 }
