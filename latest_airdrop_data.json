@@ -1,26 +1,46 @@
 {
   "airdrops": [
     {
-      "token": "BOB",
-      "date": "2025-11-20",
-      "time": "20:00",
-      "points": 240,
-      "type": "grab",
+      "token": "KO",
+      "name": "Kyuzo's Friends",
+      "date": "2025-11-23",
+      "time": "",
+      "points": "",
       "phase": 1,
       "language": "en",
-      "status": "ongoing",
-      "futures_listed": true,
-      "amount": "1600",
-      "name": "BOB",
-      "created_timestamp": 1763632894,
-      "updated_timestamp": 1763717402,
-      "system_timestamp": 1763717402,
-      "contract_address": "0x52b5fb4b0f6572b8c44d0251cc224513ac5eb7e7",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1763704865,
+      "updated_timestamp": 1763711062,
+      "system_timestamp": 1763711062,
+      "contract_address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
+      "chain_id": "56"
+    },
+    {
+      "token": "DIGI",
+      "name": "MineD",
+      "date": "2025-11-22",
+      "time": "18:00",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1763704865,
+      "updated_timestamp": 1763711062,
+      "system_timestamp": 1763711062,
+      "contract_address": "0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d",
       "chain_id": "56",
-      "total_amount": "100000000",
-      "completed": true,
+      "completed": false,
       "has_homonym": false,
-      "spot_listed": false
+      "spot_listed": false,
+      "total_amount": ""
     },
     {
       "token": "ARTX",
@@ -44,50 +64,12 @@
       "total_amount": "2800000",
       "contract_address": "0x8105743e8a19c915a604d7d9e7aa3a060a4c2c32",
       "chain_id": "56"
-    },
-    {
-      "token": "DIGI",
-      "name": "MineD",
-      "date": "2025-11-22",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1763704865,
-      "updated_timestamp": 1763711062,
-      "system_timestamp": 1763711062,
-      "contract_address": "0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d",
-      "chain_id": "56"
-    },
-    {
-      "token": "KO",
-      "name": "Kyuzo's Friends",
-      "date": "2025-11-23",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1763704865,
-      "updated_timestamp": 1763711062,
-      "system_timestamp": 1763711062,
-      "contract_address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
-      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 392350
+      "count": 397824
     },
     {
       "key": "yesterday",
@@ -102,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "4081888969.329",
-      "trades": 12699107,
-      "avgBuyAmount": "321.43"
+      "buyQuoteVolume": "4132975589.1717",
+      "trades": 12878026,
+      "avgBuyAmount": "320.93"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "441624362.43918",
-      "trades": 2212449,
-      "avgBuyAmount": "199.61"
+      "buyQuoteVolume": "452281332.17953",
+      "trades": 2282696,
+      "avgBuyAmount": "198.13"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "190228351.10961",
-      "trades": 269542,
-      "avgBuyAmount": "705.75"
+      "buyQuoteVolume": "195694316.01328",
+      "trades": 276476,
+      "avgBuyAmount": "707.82"
     }
   ]
 }
