@@ -1,26 +1,41 @@
 {
   "airdrops": [
     {
-      "token": "ARTX",
-      "name": "ULTILAND",
-      "date": "2025-11-21",
-      "time": "18:00",
-      "points": 255,
+      "token": "SSS",
+      "name": "Sparkle",
+      "date": "2025-11-24",
+      "time": "",
+      "points": "",
       "phase": 1,
-      "language": "zh",
+      "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "200",
-      "type": "grab",
-      "created_timestamp": 1763644676,
-      "updated_timestamp": 1763711261,
-      "system_timestamp": 1763711261,
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "2800000",
-      "contract_address": "0x8105743e8a19c915a604d7d9e7aa3a060a4c2c32",
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1763791312,
+      "updated_timestamp": 1763798446,
+      "system_timestamp": 1763798446,
+      "contract_address": "0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD",
+      "chain_id": "56"
+    },
+    {
+      "token": "KO",
+      "name": "Kyuzo's Friends",
+      "date": "2025-11-23",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1763704865,
+      "updated_timestamp": 1763798504,
+      "system_timestamp": 1763798504,
+      "contract_address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
       "chain_id": "56"
     },
     {
@@ -45,50 +60,12 @@
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "999975000"
-    },
-    {
-      "token": "KO",
-      "name": "Kyuzo's Friends",
-      "date": "2025-11-23",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1763704865,
-      "updated_timestamp": 1763798504,
-      "system_timestamp": 1763798504,
-      "contract_address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
-      "chain_id": "56"
-    },
-    {
-      "token": "SSS",
-      "name": "Sparkle",
-      "date": "2025-11-24",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1763791312,
-      "updated_timestamp": 1763798446,
-      "system_timestamp": 1763798446,
-      "contract_address": "0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD",
-      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 239496
+      "count": 259845
     },
     {
       "key": "yesterday",
@@ -103,21 +80,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "2632822152.4113",
-      "trades": 7763863,
-      "avgBuyAmount": "339.11"
+      "buyQuoteVolume": "2867089173.2492",
+      "trades": 8534744,
+      "avgBuyAmount": "335.93"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "344644554.12903",
-      "trades": 1527727,
-      "avgBuyAmount": "225.59"
+      "buyQuoteVolume": "365276394.5706",
+      "trades": 1618271,
+      "avgBuyAmount": "225.72"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "92721769.20403",
-      "trades": 124348,
-      "avgBuyAmount": "745.66"
+      "buyQuoteVolume": "101323558.52717",
+      "trades": 134574,
+      "avgBuyAmount": "752.92"
     }
   ]
 }
