@@ -28,23 +28,23 @@
       "name": "MineD",
       "date": "2025-11-22",
       "time": "18:00",
-      "points": "",
+      "points": "256",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "75000",
+      "type": "grab",
       "created_timestamp": 1763704865,
-      "updated_timestamp": 1763711062,
-      "system_timestamp": 1763711062,
+      "updated_timestamp": 1763798801,
+      "system_timestamp": 1763798801,
       "contract_address": "0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d",
       "chain_id": "56",
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": ""
+      "total_amount": "999975000"
     },
     {
       "token": "KO",
@@ -60,8 +60,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1763704865,
-      "updated_timestamp": 1763711062,
-      "system_timestamp": 1763711062,
+      "updated_timestamp": 1763798504,
+      "system_timestamp": 1763798504,
       "contract_address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
       "chain_id": "56"
     },
@@ -79,8 +79,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1763791312,
-      "updated_timestamp": 1763797507,
-      "system_timestamp": 1763797507,
+      "updated_timestamp": 1763798446,
+      "system_timestamp": 1763798446,
       "contract_address": "0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD",
       "chain_id": "56"
     }
@@ -88,7 +88,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 148018
+      "count": 161145
     },
     {
       "key": "yesterday",
@@ -103,21 +103,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1585058828.9692",
-      "trades": 4559323,
-      "avgBuyAmount": "347.65"
+      "buyQuoteVolume": "1736960242.1551",
+      "trades": 5016772,
+      "avgBuyAmount": "346.23"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "247982842.22715",
-      "trades": 1039720,
-      "avgBuyAmount": "238.51"
+      "buyQuoteVolume": "262848026.89732",
+      "trades": 1107806,
+      "avgBuyAmount": "237.27"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "55678407.756918",
-      "trades": 74129,
-      "avgBuyAmount": "751.1"
+      "buyQuoteVolume": "58717882.756953",
+      "trades": 78262,
+      "avgBuyAmount": "750.27"
     }
   ]
 }
