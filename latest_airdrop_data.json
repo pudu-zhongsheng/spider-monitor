@@ -23,7 +23,7 @@
       "token": "KO",
       "name": "Kyuzo's Friends",
       "date": "2025-11-23",
-      "time": "",
+      "time": "17:00",
       "points": "",
       "phase": 1,
       "language": "en",
@@ -65,7 +65,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 328948
+      "count": 335581
     },
     {
       "key": "yesterday",
@@ -80,21 +80,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "3632753631.0315",
-      "trades": 11036527,
-      "avgBuyAmount": "329.16"
+      "buyQuoteVolume": "3739299126.2863",
+      "trades": 11386143,
+      "avgBuyAmount": "328.41"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "446481798.73342",
-      "trades": 1997274,
-      "avgBuyAmount": "223.55"
+      "buyQuoteVolume": "456892844.37705",
+      "trades": 2054533,
+      "avgBuyAmount": "222.38"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "143113794.86255",
-      "trades": 193939,
-      "avgBuyAmount": "737.93"
+      "buyQuoteVolume": "149843500.41573",
+      "trades": 203600,
+      "avgBuyAmount": "735.97"
     }
   ]
 }
