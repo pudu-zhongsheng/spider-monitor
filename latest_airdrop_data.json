@@ -28,7 +28,7 @@
       "name": "MineD",
       "date": "2025-11-22",
       "time": "18:00",
-      "points": "256",
+      "points": 256,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -41,7 +41,7 @@
       "system_timestamp": 1763801945,
       "contract_address": "0x5b6e1cCf4CBBE27F588F8DcEa8e9e39AcB595e3d",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "999975000"
@@ -88,7 +88,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 209331
+      "count": 214596
     },
     {
       "key": "yesterday",
@@ -103,21 +103,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "2289942222.6767",
-      "trades": 6695396,
-      "avgBuyAmount": "342.02"
+      "buyQuoteVolume": "2345595801.3482",
+      "trades": 6864065,
+      "avgBuyAmount": "341.72"
     },
     {
       "symbol": "AT",
-      "buyQuoteVolume": "315897385.42037",
-      "trades": 1375721,
-      "avgBuyAmount": "229.62"
+      "buyQuoteVolume": "325101875.06601",
+      "trades": 1420300,
+      "avgBuyAmount": "228.9"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "76770818.200028",
-      "trades": 104519,
-      "avgBuyAmount": "734.52"
+      "buyQuoteVolume": "79701992.597116",
+      "trades": 108987,
+      "avgBuyAmount": "731.3"
     }
   ]
 }
