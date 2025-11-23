@@ -79,14 +79,14 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1763879914,
-      "updated_timestamp": 1763879923,
-      "system_timestamp": 1763879923
+      "updated_timestamp": 1763880672,
+      "system_timestamp": 1763880672
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 92897
+      "count": 98758
     },
     {
       "key": "yesterday",
@@ -101,21 +101,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1161584930.9104",
-      "trades": 3372058,
-      "avgBuyAmount": "344.47"
+      "buyQuoteVolume": "1234821179.8492",
+      "trades": 3580625,
+      "avgBuyAmount": "344.86"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "41321415.500469",
-      "trades": 51903,
-      "avgBuyAmount": "796.13"
+      "buyQuoteVolume": "43395886.248938",
+      "trades": 54262,
+      "avgBuyAmount": "799.75"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "24619399.337728",
-      "trades": 184290,
-      "avgBuyAmount": "133.59"
+      "buyQuoteVolume": "26543742.945865",
+      "trades": 195190,
+      "avgBuyAmount": "135.99"
     }
   ]
 }
