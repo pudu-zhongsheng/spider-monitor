@@ -28,7 +28,7 @@
       "name": "Kyuzo's Friends",
       "date": "2025-11-23",
       "time": "17:00",
-      "points": "256",
+      "points": 256,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -41,7 +41,7 @@
       "system_timestamp": 1763883154,
       "contract_address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "10000000"
@@ -88,7 +88,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 150719
+      "count": 157620
     },
     {
       "key": "yesterday",
@@ -103,21 +103,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1892081447.2164",
-      "trades": 5492279,
-      "avgBuyAmount": "344.5"
+      "buyQuoteVolume": "1979887848.7749",
+      "trades": 5758825,
+      "avgBuyAmount": "343.8"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "62010137.362598",
-      "trades": 78867,
-      "avgBuyAmount": "786.26"
+      "buyQuoteVolume": "64796759.530439",
+      "trades": 82490,
+      "avgBuyAmount": "785.51"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "35811782.654997",
-      "trades": 263231,
-      "avgBuyAmount": "136.05"
+      "buyQuoteVolume": "36514626.564574",
+      "trades": 270140,
+      "avgBuyAmount": "135.17"
     }
   ]
 }
