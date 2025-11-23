@@ -28,17 +28,17 @@
       "name": "Kyuzo's Friends",
       "date": "2025-11-23",
       "time": "17:00",
-      "points": "",
+      "points": "256",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "640",
+      "type": "grab",
       "created_timestamp": 1763704865,
-      "updated_timestamp": 1763879946,
-      "system_timestamp": 1763879946,
+      "updated_timestamp": 1763882590,
+      "system_timestamp": 1763882590,
       "contract_address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
       "chain_id": "56",
       "completed": false,
@@ -79,14 +79,14 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1763879914,
-      "updated_timestamp": 1763880672,
-      "system_timestamp": 1763880672
+      "updated_timestamp": 1763882589,
+      "system_timestamp": 1763882589
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 98758
+      "count": 111089
     },
     {
       "key": "yesterday",
@@ -101,21 +101,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1234821179.8492",
-      "trades": 3580625,
-      "avgBuyAmount": "344.86"
+      "buyQuoteVolume": "1390001979.3371",
+      "trades": 4016307,
+      "avgBuyAmount": "346.09"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "43395886.248938",
-      "trades": 54262,
-      "avgBuyAmount": "799.75"
+      "buyQuoteVolume": "47544071.748008",
+      "trades": 59842,
+      "avgBuyAmount": "794.49"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "26543742.945865",
-      "trades": 195190,
-      "avgBuyAmount": "135.99"
+      "buyQuoteVolume": "29547722.603774",
+      "trades": 214181,
+      "avgBuyAmount": "137.96"
     }
   ]
 }
