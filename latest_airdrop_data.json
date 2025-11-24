@@ -1,48 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "IRYS",
-      "name": "Irys",
-      "date": "2025-11-25",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1763879914,
-      "updated_timestamp": 1763888404,
-      "system_timestamp": 1763888404,
-      "contract_address": "0x50f41F589aFACa2EF41FDF590FE7b90cD26DEe64",
-      "chain_id": "1"
-    },
-    {
-      "token": "SSS",
-      "name": "Sparkle",
-      "date": "2025-11-24",
-      "time": "18:00",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1763791312,
-      "updated_timestamp": 1763798446,
-      "system_timestamp": 1763798446,
-      "contract_address": "0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD",
-      "chain_id": "56",
-      "completed": false,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": ""
-    },
-    {
       "token": "KO",
       "name": "Kyuzo's Friends",
       "date": "2025-11-23",
@@ -64,12 +22,54 @@
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "10000000"
+    },
+    {
+      "token": "SSS",
+      "name": "Sparkle",
+      "date": "2025-11-24",
+      "time": "18:00",
+      "points": "256",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "640",
+      "type": "grab",
+      "created_timestamp": 1763791312,
+      "updated_timestamp": 1763969189,
+      "system_timestamp": 1763969189,
+      "contract_address": "0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD",
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "10000000"
+    },
+    {
+      "token": "IRYS",
+      "name": "Irys",
+      "date": "2025-11-25",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1763879914,
+      "updated_timestamp": 1763888404,
+      "system_timestamp": 1763888404,
+      "contract_address": "0x50f41F589aFACa2EF41FDF590FE7b90cD26DEe64",
+      "chain_id": "1"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 68488
+      "count": 71630
     },
     {
       "key": "yesterday",
@@ -84,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "773323925.71034",
-      "trades": 2187045,
-      "avgBuyAmount": "353.59"
+      "buyQuoteVolume": "790991665.19867",
+      "trades": 2247927,
+      "avgBuyAmount": "351.88"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "92809328.253105",
-      "trades": 450199,
-      "avgBuyAmount": "206.15"
+      "buyQuoteVolume": "113243861.72759",
+      "trades": 522362,
+      "avgBuyAmount": "216.79"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "47235681.43211",
-      "trades": 57387,
-      "avgBuyAmount": "823.11"
+      "buyQuoteVolume": "51897301.757086",
+      "trades": 64676,
+      "avgBuyAmount": "802.42"
     }
   ]
 }
