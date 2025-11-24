@@ -28,7 +28,7 @@
       "name": "Sparkle",
       "date": "2025-11-24",
       "time": "18:00",
-      "points": "256",
+      "points": 256,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -69,7 +69,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 71630
+      "count": 76493
     },
     {
       "key": "yesterday",
@@ -84,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "790991665.19867",
-      "trades": 2247927,
-      "avgBuyAmount": "351.88"
+      "buyQuoteVolume": "813966227.15627",
+      "trades": 2317437,
+      "avgBuyAmount": "351.24"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "113243861.72759",
-      "trades": 522362,
-      "avgBuyAmount": "216.79"
+      "buyQuoteVolume": "118320912.44779",
+      "trades": 544892,
+      "avgBuyAmount": "217.15"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "51897301.757086",
-      "trades": 64676,
-      "avgBuyAmount": "802.42"
+      "buyQuoteVolume": "54180154.773589",
+      "trades": 67928,
+      "avgBuyAmount": "797.61"
     }
   ]
 }
