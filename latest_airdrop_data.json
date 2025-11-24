@@ -63,7 +63,11 @@
       "updated_timestamp": 1763798446,
       "system_timestamp": 1763798446,
       "contract_address": "0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD",
-      "chain_id": "56"
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": ""
     },
     {
       "token": "IRYS",
@@ -88,36 +92,36 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 337608
+      "count": 13650
     },
     {
       "key": "yesterday",
-      "count": 380240
+      "count": 337795
     },
     {
       "key": "before_yesterday",
-      "count": 401250
+      "count": 380240
     }
   ],
-  "last_rollover_date": "2025-11-23",
+  "last_rollover_date": "2025-11-24",
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "4198081229.7449",
-      "trades": 13064630,
-      "avgBuyAmount": "321.33"
-    },
-    {
-      "symbol": "KOGE",
-      "buyQuoteVolume": "179957257.85384",
-      "trades": 240662,
-      "avgBuyAmount": "747.76"
+      "buyQuoteVolume": "159198720.78765",
+      "trades": 422868,
+      "avgBuyAmount": "376.47"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "108204404.1114",
-      "trades": 730429,
-      "avgBuyAmount": "148.14"
+      "buyQuoteVolume": "13052475.240491",
+      "trades": 85895,
+      "avgBuyAmount": "151.96"
+    },
+    {
+      "symbol": "KOGE",
+      "buyQuoteVolume": "12581272.501134",
+      "trades": 14579,
+      "avgBuyAmount": "862.97"
     }
   ]
 }
