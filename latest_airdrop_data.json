@@ -25,7 +25,7 @@
     },
     {
       "token": "SSS",
-      "name": "Sparkle",
+      "name": "Sparkle Token",
       "date": "2025-11-24",
       "time": "18:00",
       "points": 256,
@@ -39,9 +39,9 @@
       "created_timestamp": 1763791312,
       "updated_timestamp": 1763969189,
       "system_timestamp": 1763969189,
-      "contract_address": "0xcc442A4c0b9C35578aA285f0d39f2BcC0E152ACD",
+      "contract_address": "0xcc442a4c0b9c35578aa285f0d39f2bcc0e152acd",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "10000000"
@@ -69,7 +69,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 105903
+      "count": 115932
     },
     {
       "key": "yesterday",
@@ -84,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "AIO",
-      "buyQuoteVolume": "1016203641.9968",
-      "trades": 2967639,
-      "avgBuyAmount": "342.43"
+      "buyQuoteVolume": "1084952523.8327",
+      "trades": 3181033,
+      "avgBuyAmount": "341.07"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "280025077.79608",
-      "trades": 1046746,
-      "avgBuyAmount": "267.52"
+      "buyQuoteVolume": "338280549.51239",
+      "trades": 1218563,
+      "avgBuyAmount": "277.61"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "74380491.12793",
-      "trades": 98885,
-      "avgBuyAmount": "752.19"
+      "buyQuoteVolume": "79049621.873143",
+      "trades": 105194,
+      "avgBuyAmount": "751.47"
     }
   ]
 }
