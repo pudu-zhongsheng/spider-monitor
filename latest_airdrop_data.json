@@ -61,21 +61,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "3197620142.4441",
-      "trades": 10000370,
-      "avgBuyAmount": "319.75"
+      "buyQuoteVolume": "3210210120.4114",
+      "trades": 10044966,
+      "avgBuyAmount": "319.58"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "317182892.83105",
-      "trades": 1837053,
-      "avgBuyAmount": "172.66"
+      "buyQuoteVolume": "317652497.7225",
+      "trades": 1849433,
+      "avgBuyAmount": "171.76"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "156918701.10135",
-      "trades": 222350,
-      "avgBuyAmount": "705.73"
+      "buyQuoteVolume": "158098141.93846",
+      "trades": 223807,
+      "avgBuyAmount": "706.4"
     }
   ]
 }
