@@ -35,41 +35,18 @@
       "created_timestamp": 1763879914,
       "updated_timestamp": 1764056637,
       "system_timestamp": 1764056637,
-      "contract_address": "0x91152B4Ef635403efBAe860edD0F8c321d7c035d",
+      "contract_address": "0x91152b4ef635403efbae860edd0f8c321d7c035d",
       "chain_id": "56",
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "90000000"
-    },
-    {
-      "token": "SSS",
-      "name": "Sparkle Token",
-      "date": "2025-11-24",
-      "time": "18:00",
-      "points": 256,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "640",
-      "type": "grab",
-      "created_timestamp": 1763791312,
-      "updated_timestamp": 1763969189,
-      "system_timestamp": 1763969189,
-      "contract_address": "0xcc442a4c0b9c35578aa285f0d39f2bcc0e152acd",
-      "chain_id": "56",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "10000000"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 176896
+      "count": 182862
     },
     {
       "key": "yesterday",
@@ -84,21 +61,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1746566219.3245",
-      "trades": 5029376,
-      "avgBuyAmount": "347.27"
+      "buyQuoteVolume": "1813456417.1046",
+      "trades": 5236414,
+      "avgBuyAmount": "346.32"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "260703503.2944",
-      "trades": 1151752,
-      "avgBuyAmount": "226.35"
+      "buyQuoteVolume": "263411772.4279",
+      "trades": 1177351,
+      "avgBuyAmount": "223.73"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "210329525.76059",
-      "trades": 1231387,
-      "avgBuyAmount": "170.81"
+      "buyQuoteVolume": "216108363.68686",
+      "trades": 1272168,
+      "avgBuyAmount": "169.87"
     }
   ]
 }
