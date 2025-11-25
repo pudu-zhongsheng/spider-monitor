@@ -50,7 +50,7 @@
       "token": "IRYS",
       "name": "Irys",
       "date": "2025-11-25",
-      "time": "",
+      "time": "19:00",
       "points": "",
       "phase": 1,
       "language": "en",
@@ -73,7 +73,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 27827
+      "count": 33941
     },
     {
       "key": "yesterday",
@@ -88,21 +88,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "159302534.81483",
-      "trades": 459702,
-      "avgBuyAmount": "346.53"
+      "buyQuoteVolume": "202432078.14618",
+      "trades": 575873,
+      "avgBuyAmount": "351.52"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "131190158.24285",
-      "trades": 467411,
-      "avgBuyAmount": "280.67"
+      "buyQuoteVolume": "146648577.14611",
+      "trades": 528699,
+      "avgBuyAmount": "277.38"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "43101985.614677",
-      "trades": 275988,
-      "avgBuyAmount": "156.17"
+      "buyQuoteVolume": "59484989.556098",
+      "trades": 343885,
+      "avgBuyAmount": "172.98"
     }
   ]
 }
