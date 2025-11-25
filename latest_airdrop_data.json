@@ -51,23 +51,23 @@
       "name": "Irys",
       "date": "2025-11-25",
       "time": "19:00",
-      "points": "",
+      "points": 241,
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "1200",
+      "type": "grab",
       "created_timestamp": 1763879914,
-      "updated_timestamp": 1763888404,
-      "system_timestamp": 1763888404,
+      "updated_timestamp": 1764056637,
+      "system_timestamp": 1764056637,
       "contract_address": "0x91152B4Ef635403efBAe860edD0F8c321d7c035d",
       "chain_id": "56",
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": ""
+      "total_amount": "90000000"
     },
     {
       "token": "GUA",
@@ -83,8 +83,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1764050528,
-      "updated_timestamp": 1764054909,
-      "system_timestamp": 1764054909,
+      "updated_timestamp": 1764055874,
+      "system_timestamp": 1764055874,
       "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
       "chain_id": "56"
     }
@@ -92,7 +92,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 104756
+      "count": 110607
     },
     {
       "key": "yesterday",
@@ -107,21 +107,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "916145489.19205",
-      "trades": 2563272,
+      "buyQuoteVolume": "979112138.21296",
+      "trades": 2739488,
       "avgBuyAmount": "357.41"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "236028715.11688",
-      "trades": 949004,
-      "avgBuyAmount": "248.71"
+      "buyQuoteVolume": "239659454.30908",
+      "trades": 973429,
+      "avgBuyAmount": "246.2"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "148933391.57451",
-      "trades": 828359,
-      "avgBuyAmount": "179.79"
+      "buyQuoteVolume": "153618960.36577",
+      "trades": 859234,
+      "avgBuyAmount": "178.79"
     }
   ]
 }
