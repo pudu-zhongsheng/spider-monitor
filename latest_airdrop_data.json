@@ -37,7 +37,7 @@
       "system_timestamp": 1764056637,
       "contract_address": "0x91152b4ef635403efbae860edd0f8c321d7c035d",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "90000000"
@@ -46,7 +46,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 182862
+      "count": 188147
     },
     {
       "key": "yesterday",
@@ -61,21 +61,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1813456417.1046",
-      "trades": 5236414,
-      "avgBuyAmount": "346.32"
+      "buyQuoteVolume": "1870591902.8657",
+      "trades": 5413768,
+      "avgBuyAmount": "345.52"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "263411772.4279",
-      "trades": 1177351,
-      "avgBuyAmount": "223.73"
+      "buyQuoteVolume": "267183367.89475",
+      "trades": 1205154,
+      "avgBuyAmount": "221.7"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "216108363.68686",
-      "trades": 1272168,
-      "avgBuyAmount": "169.87"
+      "buyQuoteVolume": "221383824.54519",
+      "trades": 1307217,
+      "avgBuyAmount": "169.36"
     }
   ]
 }
