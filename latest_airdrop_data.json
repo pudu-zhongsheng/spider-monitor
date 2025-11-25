@@ -1,50 +1,23 @@
 {
   "airdrops": [
     {
-      "token": "KO",
-      "name": "Kyuzo's Friends",
-      "date": "2025-11-23",
-      "time": "17:00",
-      "points": 256,
+      "token": "GUA",
+      "name": "SUPERFORTUNE",
+      "date": "2025-11-27",
+      "time": "",
+      "points": "",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "640",
-      "type": "grab",
-      "created_timestamp": 1763704865,
-      "updated_timestamp": 1763883154,
-      "system_timestamp": 1763883154,
-      "contract_address": "0x2D739Dd563609C39A1aE1546a03E8b469361175f",
-      "chain_id": "56",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "10000000"
-    },
-    {
-      "token": "SSS",
-      "name": "Sparkle Token",
-      "date": "2025-11-24",
-      "time": "18:00",
-      "points": 256,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "640",
-      "type": "grab",
-      "created_timestamp": 1763791312,
-      "updated_timestamp": 1763969189,
-      "system_timestamp": 1763969189,
-      "contract_address": "0xcc442a4c0b9c35578aa285f0d39f2bcc0e152acd",
-      "chain_id": "56",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "10000000"
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1764050528,
+      "updated_timestamp": 1764055874,
+      "system_timestamp": 1764055874,
+      "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
+      "chain_id": "56"
     },
     {
       "token": "IRYS",
@@ -70,29 +43,33 @@
       "total_amount": "90000000"
     },
     {
-      "token": "GUA",
-      "name": "SUPERFORTUNE",
-      "date": "2025-11-27",
-      "time": "",
-      "points": "",
+      "token": "SSS",
+      "name": "Sparkle Token",
+      "date": "2025-11-24",
+      "time": "18:00",
+      "points": 256,
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1764050528,
-      "updated_timestamp": 1764055874,
-      "system_timestamp": 1764055874,
-      "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
-      "chain_id": "56"
+      "amount": "640",
+      "type": "grab",
+      "created_timestamp": 1763791312,
+      "updated_timestamp": 1763969189,
+      "system_timestamp": 1763969189,
+      "contract_address": "0xcc442a4c0b9c35578aa285f0d39f2bcc0e152acd",
+      "chain_id": "56",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "10000000"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 110607
+      "count": 116438
     },
     {
       "key": "yesterday",
@@ -107,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "979112138.21296",
-      "trades": 2739488,
-      "avgBuyAmount": "357.41"
+      "buyQuoteVolume": "1043304603.8091",
+      "trades": 2924102,
+      "avgBuyAmount": "356.79"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "239659454.30908",
-      "trades": 973429,
-      "avgBuyAmount": "246.2"
+      "buyQuoteVolume": "241755211.46516",
+      "trades": 993039,
+      "avgBuyAmount": "243.45"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "153618960.36577",
-      "trades": 859234,
-      "avgBuyAmount": "178.79"
+      "buyQuoteVolume": "161375662.64344",
+      "trades": 899896,
+      "avgBuyAmount": "179.33"
     }
   ]
 }
