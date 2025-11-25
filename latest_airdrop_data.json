@@ -62,14 +62,18 @@
       "created_timestamp": 1763879914,
       "updated_timestamp": 1763888404,
       "system_timestamp": 1763888404,
-      "contract_address": "0x50f41F589aFACa2EF41FDF590FE7b90cD26DEe64",
-      "chain_id": "1"
+      "contract_address": "0x91152B4Ef635403efBAe860edD0F8c321d7c035d",
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": ""
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 9401
+      "count": 27827
     },
     {
       "key": "yesterday",
@@ -83,22 +87,22 @@
   "last_rollover_date": "2025-11-25",
   "top3_tokens": [
     {
+      "symbol": "TIMI",
+      "buyQuoteVolume": "159302534.81483",
+      "trades": 459702,
+      "avgBuyAmount": "346.53"
+    },
+    {
       "symbol": "BAY",
-      "buyQuoteVolume": "74384042.068731",
-      "trades": 269443,
-      "avgBuyAmount": "276.07"
+      "buyQuoteVolume": "131190158.24285",
+      "trades": 467411,
+      "avgBuyAmount": "280.67"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "18018012.669213",
-      "trades": 139417,
-      "avgBuyAmount": "129.24"
-    },
-    {
-      "symbol": "KOGE",
-      "buyQuoteVolume": "14310552.951007",
-      "trades": 16899,
-      "avgBuyAmount": "846.83"
+      "buyQuoteVolume": "43101985.614677",
+      "trades": 275988,
+      "avgBuyAmount": "156.17"
     }
   ]
 }
