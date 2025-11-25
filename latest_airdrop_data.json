@@ -68,12 +68,31 @@
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": ""
+    },
+    {
+      "token": "GUA",
+      "name": "SUPERFORTUNE",
+      "date": "2025-11-27",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1764050528,
+      "updated_timestamp": 1764053108,
+      "system_timestamp": 1764053108,
+      "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 71910
+      "count": 90011
     },
     {
       "key": "yesterday",
@@ -88,21 +107,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "579150919.93292",
-      "trades": 1621111,
-      "avgBuyAmount": "357.26"
+      "buyQuoteVolume": "763393393.27344",
+      "trades": 2129985,
+      "avgBuyAmount": "358.4"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "211686275.94433",
-      "trades": 791913,
-      "avgBuyAmount": "267.31"
+      "buyQuoteVolume": "228818222.49501",
+      "trades": 890965,
+      "avgBuyAmount": "256.82"
     },
     {
       "symbol": "BOS",
-      "buyQuoteVolume": "99749390.95535",
-      "trades": 576670,
-      "avgBuyAmount": "172.97"
+      "buyQuoteVolume": "125878907.1791",
+      "trades": 715260,
+      "avgBuyAmount": "175.99"
     }
   ]
 }
