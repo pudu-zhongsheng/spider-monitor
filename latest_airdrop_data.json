@@ -27,7 +27,7 @@
       "token": "SOON",
       "date": "2025-11-26",
       "time": "17:00",
-      "points": 241,
+      "points": "241",
       "type": "grab",
       "phase": 1,
       "language": "zh",
@@ -40,7 +40,7 @@
       "system_timestamp": 1764147623,
       "contract_address": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
       "chain_id": "56",
-      "total_amount": "2279017",
+      "total_amount": "1670000",
       "completed": true,
       "has_homonym": false,
       "spot_listed": false
@@ -50,7 +50,7 @@
       "name": "Irys",
       "date": "2025-11-25",
       "time": "19:00",
-      "points": 241,
+      "points": "241",
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -72,7 +72,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 184366
+      "count": 190412
     },
     {
       "key": "yesterday",
@@ -87,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "2315313888.186",
-      "trades": 6811364,
-      "avgBuyAmount": "339.92"
+      "buyQuoteVolume": "2391321536.6801",
+      "trades": 7054628,
+      "avgBuyAmount": "338.97"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "62543873.39213",
-      "trades": 68265,
-      "avgBuyAmount": "916.19"
+      "buyQuoteVolume": "64604755.959673",
+      "trades": 70732,
+      "avgBuyAmount": "913.37"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "31629764.846862",
-      "trades": 415008,
-      "avgBuyAmount": "76.21"
+      "buyQuoteVolume": "32509052.445995",
+      "trades": 428528,
+      "avgBuyAmount": "75.86"
     }
   ]
 }
