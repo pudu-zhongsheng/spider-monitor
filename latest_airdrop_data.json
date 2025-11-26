@@ -1,29 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "GUA",
-      "name": "SUPERFORTUNE",
-      "date": "2025-11-27",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1764050528,
-      "updated_timestamp": 1764055874,
-      "system_timestamp": 1764055874,
-      "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
-      "chain_id": "56",
-      "completed": false,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": ""
-    },
-    {
       "token": "IRYS",
       "name": "Irys",
       "date": "2025-11-25",
@@ -45,12 +22,51 @@
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "90000000"
+    },
+    {
+      "token": "",
+      "date": "2025-11-26",
+      "time": "17:00",
+      "points": "241",
+      "type": "grab",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "futures_listed": false,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1764144104,
+      "updated_timestamp": 1764145809,
+      "system_timestamp": 1764145809
+    },
+    {
+      "token": "GUA",
+      "name": "SUPERFORTUNE",
+      "date": "2025-11-27",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1764050528,
+      "updated_timestamp": 1764055874,
+      "system_timestamp": 1764055874,
+      "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": ""
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 152443
+      "count": 165411
     },
     {
       "key": "yesterday",
@@ -65,21 +81,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1916431699.5115",
-      "trades": 5593179,
-      "avgBuyAmount": "342.64"
+      "buyQuoteVolume": "2077980898.4095",
+      "trades": 6083915,
+      "avgBuyAmount": "341.55"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "49625193.766663",
-      "trades": 53420,
-      "avgBuyAmount": "928.96"
+      "buyQuoteVolume": "55337177.375511",
+      "trades": 59436,
+      "avgBuyAmount": "931.04"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "25176857.130178",
-      "trades": 328435,
-      "avgBuyAmount": "76.66"
+      "buyQuoteVolume": "28280511.188519",
+      "trades": 367702,
+      "avgBuyAmount": "76.91"
     }
   ]
 }
