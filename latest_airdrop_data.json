@@ -59,8 +59,8 @@
       "amount": "1200",
       "type": "grab",
       "created_timestamp": 1763879914,
-      "updated_timestamp": 1764168257,
-      "system_timestamp": 1764168257,
+      "updated_timestamp": 1764174798,
+      "system_timestamp": 1764174798,
       "contract_address": "0x91152b4ef635403efbae860edd0f8c321d7c035d",
       "chain_id": "56",
       "completed": true,
@@ -72,7 +72,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 297315
+      "count": 303009
     },
     {
       "key": "yesterday",
@@ -87,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "3710456633.0449",
-      "trades": 11491742,
-      "avgBuyAmount": "322.88"
+      "buyQuoteVolume": "3776495423.6398",
+      "trades": 11736370,
+      "avgBuyAmount": "321.78"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "124304168.33961",
-      "trades": 148239,
-      "avgBuyAmount": "838.54"
+      "buyQuoteVolume": "128492710.67853",
+      "trades": 153473,
+      "avgBuyAmount": "837.23"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "56066314.626141",
-      "trades": 731781,
-      "avgBuyAmount": "76.62"
+      "buyQuoteVolume": "60051415.796281",
+      "trades": 769332,
+      "avgBuyAmount": "78.06"
     }
   ]
 }
