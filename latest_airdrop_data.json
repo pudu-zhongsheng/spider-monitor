@@ -4,7 +4,7 @@
       "token": "GUA",
       "name": "SUPERFORTUNE",
       "date": "2025-11-27",
-      "time": "",
+      "time": "16:00",
       "points": "",
       "phase": 1,
       "language": "en",
@@ -72,7 +72,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 323144
+      "count": 324594
     },
     {
       "key": "yesterday",
@@ -87,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "4016619261.1446",
-      "trades": 12612216,
-      "avgBuyAmount": "318.47"
+      "buyQuoteVolume": "4033975009.8527",
+      "trades": 12664864,
+      "avgBuyAmount": "318.52"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "143916505.77753",
-      "trades": 172126,
-      "avgBuyAmount": "836.11"
+      "buyQuoteVolume": "145401707.4174",
+      "trades": 173757,
+      "avgBuyAmount": "836.81"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "69260751.675878",
-      "trades": 960268,
-      "avgBuyAmount": "72.13"
+      "buyQuoteVolume": "69831607.262043",
+      "trades": 979946,
+      "avgBuyAmount": "71.26"
     }
   ]
 }
