@@ -72,7 +72,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 256080
+      "count": 260206
     },
     {
       "key": "yesterday",
@@ -87,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "3206945109.4315",
-      "trades": 9705847,
-      "avgBuyAmount": "330.41"
+      "buyQuoteVolume": "3258766005.8423",
+      "trades": 9881793,
+      "avgBuyAmount": "329.77"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "96974025.660918",
-      "trades": 110193,
-      "avgBuyAmount": "880.04"
+      "buyQuoteVolume": "99008577.194274",
+      "trades": 113445,
+      "avgBuyAmount": "872.75"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "45822948.880642",
-      "trades": 606855,
-      "avgBuyAmount": "75.51"
+      "buyQuoteVolume": "46359007.487721",
+      "trades": 614743,
+      "avgBuyAmount": "75.41"
     }
   ]
 }
