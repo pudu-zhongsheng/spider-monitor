@@ -1,45 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "IRYS",
-      "name": "Irys",
-      "date": "2025-11-25",
-      "time": "19:00",
-      "points": 241,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "1200",
-      "type": "grab",
-      "created_timestamp": 1763879914,
-      "updated_timestamp": 1764056637,
-      "system_timestamp": 1764056637,
-      "contract_address": "0x91152b4ef635403efbae860edd0f8c321d7c035d",
-      "chain_id": "56",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "90000000"
-    },
-    {
-      "token": "",
-      "date": "2025-11-26",
-      "time": "17:00",
-      "points": "241",
-      "type": "grab",
-      "phase": 1,
-      "language": "zh",
-      "status": "announced",
-      "futures_listed": false,
-      "amount": "",
-      "name": "",
-      "created_timestamp": 1764144104,
-      "updated_timestamp": 1764146709,
-      "system_timestamp": 1764146709
-    },
-    {
       "token": "GUA",
       "name": "SUPERFORTUNE",
       "date": "2025-11-27",
@@ -63,33 +24,55 @@
       "total_amount": ""
     },
     {
-      "id": "warning_6926bf45b10f53.00091373",
       "token": "SOON",
-      "name": "SOON",
       "date": "2025-11-26",
       "time": "17:00",
-      "type": "warning",
-      "phase": 1,
-      "status": "pending",
-      "timestamp": 1764147013,
       "points": 241,
+      "type": "grab",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "futures_listed": false,
       "amount": "55",
-      "total_amount": "2279017",
+      "name": "SOON",
+      "created_timestamp": 1764144104,
+      "updated_timestamp": 1764147623,
+      "system_timestamp": 1764147623,
       "contract_address": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
       "chain_id": "56",
+      "total_amount": "2279017",
+      "completed": true,
       "has_homonym": false,
-      "updated_at": "2025-11-26 16:50:39",
-      "system_timestamp": 1764147071,
-      "completed": false,
-      "updated_timestamp": 1764147071,
-      "futures_listed": false,
       "spot_listed": false
+    },
+    {
+      "token": "IRYS",
+      "name": "Irys",
+      "date": "2025-11-25",
+      "time": "19:00",
+      "points": 241,
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "1200",
+      "type": "grab",
+      "created_timestamp": 1763879914,
+      "updated_timestamp": 1764056637,
+      "system_timestamp": 1764056637,
+      "contract_address": "0x91152b4ef635403efbae860edd0f8c321d7c035d",
+      "chain_id": "56",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "90000000"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 172194
+      "count": 184366
     },
     {
       "key": "yesterday",
@@ -104,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "2162802922.7916",
-      "trades": 6345954,
-      "avgBuyAmount": "340.82"
+      "buyQuoteVolume": "2315313888.186",
+      "trades": 6811364,
+      "avgBuyAmount": "339.92"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "57531837.847566",
-      "trades": 62212,
-      "avgBuyAmount": "924.77"
+      "buyQuoteVolume": "62543873.39213",
+      "trades": 68265,
+      "avgBuyAmount": "916.19"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "29622984.081482",
-      "trades": 385613,
-      "avgBuyAmount": "76.82"
+      "buyQuoteVolume": "31629764.846862",
+      "trades": 415008,
+      "avgBuyAmount": "76.21"
     }
   ]
 }
