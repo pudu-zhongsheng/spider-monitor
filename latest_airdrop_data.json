@@ -36,8 +36,8 @@
       "amount": "",
       "name": "",
       "created_timestamp": 1764144104,
-      "updated_timestamp": 1764145809,
-      "system_timestamp": 1764145809
+      "updated_timestamp": 1764146709,
+      "system_timestamp": 1764146709
     },
     {
       "token": "GUA",
@@ -61,12 +61,35 @@
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": ""
+    },
+    {
+      "id": "warning_6926bf45b10f53.00091373",
+      "token": "SOON",
+      "name": "SOON",
+      "date": "2025-11-26",
+      "time": "17:00",
+      "type": "warning",
+      "phase": 1,
+      "status": "pending",
+      "timestamp": 1764147013,
+      "points": 241,
+      "amount": "55",
+      "total_amount": "2279017",
+      "contract_address": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+      "chain_id": "56",
+      "has_homonym": false,
+      "updated_at": "2025-11-26 16:50:39",
+      "system_timestamp": 1764147071,
+      "completed": false,
+      "updated_timestamp": 1764147071,
+      "futures_listed": false,
+      "spot_listed": false
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 165411
+      "count": 172194
     },
     {
       "key": "yesterday",
@@ -81,21 +104,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "2077980898.4095",
-      "trades": 6083915,
-      "avgBuyAmount": "341.55"
+      "buyQuoteVolume": "2162802922.7916",
+      "trades": 6345954,
+      "avgBuyAmount": "340.82"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "55337177.375511",
-      "trades": 59436,
-      "avgBuyAmount": "931.04"
+      "buyQuoteVolume": "57531837.847566",
+      "trades": 62212,
+      "avgBuyAmount": "924.77"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "28280511.188519",
-      "trades": 367702,
-      "avgBuyAmount": "76.91"
+      "buyQuoteVolume": "29622984.081482",
+      "trades": 385613,
+      "avgBuyAmount": "76.82"
     }
   ]
 }
