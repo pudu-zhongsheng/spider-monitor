@@ -17,7 +17,11 @@
       "updated_timestamp": 1764055874,
       "system_timestamp": 1764055874,
       "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
-      "chain_id": "56"
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": ""
     },
     {
       "token": "IRYS",
@@ -46,7 +50,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 134105
+      "count": 143370
     },
     {
       "key": "yesterday",
@@ -61,21 +65,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1685849233.8625",
-      "trades": 4871021,
-      "avgBuyAmount": "346.1"
+      "buyQuoteVolume": "1802242186.4198",
+      "trades": 5236047,
+      "avgBuyAmount": "344.2"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "42971125.670075",
-      "trades": 45472,
-      "avgBuyAmount": "945"
+      "buyQuoteVolume": "46136223.636223",
+      "trades": 49198,
+      "avgBuyAmount": "937.77"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "22231797.289566",
-      "trades": 284548,
-      "avgBuyAmount": "78.13"
+      "buyQuoteVolume": "23487080.438396",
+      "trades": 303051,
+      "avgBuyAmount": "77.5"
     }
   ]
 }
