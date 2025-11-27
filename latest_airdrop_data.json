@@ -14,21 +14,21 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1764226884,
-      "updated_timestamp": 1764227174,
-      "system_timestamp": 1764227174,
+      "updated_timestamp": 1764232202,
+      "system_timestamp": 1764232202,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "",
-      "contract_address": "",
-      "chain_id": ""
+      "contract_address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
+      "chain_id": "56"
     },
     {
       "token": "GUA",
       "name": "SUPERFORTUNE",
       "date": "2025-11-27",
       "time": "16:00",
-      "points": "256",
+      "points": 256,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -41,7 +41,7 @@
       "system_timestamp": 1764226899,
       "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "15000000"
@@ -72,7 +72,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 162904
+      "count": 177855
     },
     {
       "key": "yesterday",
@@ -87,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1979566940.573",
-      "trades": 5554489,
-      "avgBuyAmount": "356.39"
+      "buyQuoteVolume": "2154441113.6619",
+      "trades": 6054701,
+      "avgBuyAmount": "355.83"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "102728674.53045",
-      "trades": 656820,
-      "avgBuyAmount": "156.4"
+      "buyQuoteVolume": "114376677.91285",
+      "trades": 719332,
+      "avgBuyAmount": "159"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "43753982.13387",
-      "trades": 48731,
-      "avgBuyAmount": "897.87"
+      "buyQuoteVolume": "50225326.979002",
+      "trades": 54484,
+      "avgBuyAmount": "921.84"
     }
   ]
 }
