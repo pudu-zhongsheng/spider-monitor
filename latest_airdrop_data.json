@@ -1,27 +1,50 @@
 {
   "airdrops": [
     {
-      "token": "IRYS",
-      "name": "Irys",
-      "date": "2025-11-25",
-      "time": "19:00",
-      "points": "241",
+      "token": "GAIX",
+      "name": "GaiAi",
+      "date": "2025-11-29",
+      "time": "",
+      "points": "",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
-      "futures_listed": true,
-      "amount": "1200",
-      "type": "grab",
-      "created_timestamp": 1763879914,
-      "updated_timestamp": 1764174798,
-      "system_timestamp": 1764174798,
-      "contract_address": "0x91152b4ef635403efbae860edd0f8c321d7c035d",
-      "chain_id": "56",
-      "completed": true,
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1764226884,
+      "updated_timestamp": 1764227174,
+      "system_timestamp": 1764227174,
+      "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": "90000000"
+      "total_amount": "",
+      "contract_address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
+      "chain_id": "56"
+    },
+    {
+      "token": "GUA",
+      "name": "SUPERFORTUNE",
+      "date": "2025-11-27",
+      "time": "16:00",
+      "points": "256",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "750",
+      "type": "grab",
+      "created_timestamp": 1764050528,
+      "updated_timestamp": 1764226899,
+      "system_timestamp": 1764226899,
+      "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "15000000"
     },
     {
       "token": "SOON",
@@ -44,35 +67,12 @@
       "completed": true,
       "has_homonym": false,
       "spot_listed": false
-    },
-    {
-      "token": "GUA",
-      "name": "SUPERFORTUNE",
-      "date": "2025-11-27",
-      "time": "16:00",
-      "points": "256",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "750",
-      "type": "grab",
-      "created_timestamp": 1764050528,
-      "updated_timestamp": 1764225454,
-      "system_timestamp": 1764225454,
-      "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
-      "chain_id": "56",
-      "completed": false,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "15000000"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 142602
+      "count": 154881
     },
     {
       "key": "yesterday",
@@ -87,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1737760938.3564",
-      "trades": 4848938,
-      "avgBuyAmount": "358.38"
+      "buyQuoteVolume": "1883552857.5823",
+      "trades": 5274041,
+      "avgBuyAmount": "357.14"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "86376618.533788",
-      "trades": 566869,
-      "avgBuyAmount": "152.37"
+      "buyQuoteVolume": "97493592.351793",
+      "trades": 626225,
+      "avgBuyAmount": "155.68"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "38016491.474595",
-      "trades": 42140,
-      "avgBuyAmount": "902.15"
+      "buyQuoteVolume": "40778395.89011",
+      "trades": 45763,
+      "avgBuyAmount": "891.08"
     }
   ]
 }
