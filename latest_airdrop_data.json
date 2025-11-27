@@ -20,8 +20,8 @@
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "",
-      "contract_address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
-      "chain_id": "56"
+      "contract_address": "",
+      "chain_id": ""
     },
     {
       "token": "GUA",
@@ -72,7 +72,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 154881
+      "count": 159688
     },
     {
       "key": "yesterday",
@@ -87,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1883552857.5823",
-      "trades": 5274041,
-      "avgBuyAmount": "357.14"
+      "buyQuoteVolume": "1941679149.5478",
+      "trades": 5444576,
+      "avgBuyAmount": "356.63"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "97493592.351793",
-      "trades": 626225,
-      "avgBuyAmount": "155.68"
+      "buyQuoteVolume": "100040141.27356",
+      "trades": 642475,
+      "avgBuyAmount": "155.71"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "40778395.89011",
-      "trades": 45763,
-      "avgBuyAmount": "891.08"
+      "buyQuoteVolume": "42566853.15521",
+      "trades": 47557,
+      "avgBuyAmount": "895.07"
     }
   ]
 }
