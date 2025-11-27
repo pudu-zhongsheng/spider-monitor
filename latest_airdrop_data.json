@@ -72,7 +72,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 335786
+      "count": 336659
     },
     {
       "key": "yesterday",
@@ -87,21 +87,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "4000529446.0741",
-      "trades": 12039809,
-      "avgBuyAmount": "332.28"
+      "buyQuoteVolume": "4010652165.16",
+      "trades": 12073871,
+      "avgBuyAmount": "332.18"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "283513786.32628",
-      "trades": 1751337,
-      "avgBuyAmount": "161.88"
+      "buyQuoteVolume": "284376471.66236",
+      "trades": 1763695,
+      "avgBuyAmount": "161.24"
     },
     {
       "symbol": "DGRAM",
-      "buyQuoteVolume": "28855966.86638",
-      "trades": 563134,
-      "avgBuyAmount": "51.24"
+      "buyQuoteVolume": "29037691.523828",
+      "trades": 570047,
+      "avgBuyAmount": "50.94"
     }
   ]
 }
