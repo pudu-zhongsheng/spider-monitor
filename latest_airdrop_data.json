@@ -1,27 +1,26 @@
 {
   "airdrops": [
     {
-      "token": "GAIX",
-      "name": "GaiAi",
-      "date": "2025-11-29",
-      "time": "",
-      "points": "",
+      "token": "SOON",
+      "date": "2025-11-26",
+      "time": "17:00",
+      "points": "241",
+      "type": "grab",
       "phase": 1,
-      "language": "en",
+      "language": "zh",
       "status": "announced",
-      "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1764226884,
-      "updated_timestamp": 1764232202,
-      "system_timestamp": 1764232202,
-      "completed": false,
+      "amount": "55",
+      "name": "SOON",
+      "created_timestamp": 1764144104,
+      "updated_timestamp": 1764147623,
+      "system_timestamp": 1764147623,
+      "contract_address": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+      "chain_id": "56",
+      "total_amount": "1670000",
+      "completed": true,
       "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "",
-      "contract_address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
-      "chain_id": "56"
+      "spot_listed": false
     },
     {
       "token": "GUA",
@@ -47,32 +46,49 @@
       "total_amount": "15000000"
     },
     {
-      "token": "SOON",
-      "date": "2025-11-26",
-      "time": "17:00",
-      "points": "241",
+      "token": "",
+      "date": "2025-11-28",
+      "time": "16:00",
+      "points": "252",
       "type": "grab",
       "phase": 1,
-      "language": "zh",
+      "language": "en",
       "status": "announced",
       "futures_listed": false,
-      "amount": "55",
-      "name": "SOON",
-      "created_timestamp": 1764144104,
-      "updated_timestamp": 1764147623,
-      "system_timestamp": 1764147623,
-      "contract_address": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
-      "chain_id": "56",
-      "total_amount": "1670000",
-      "completed": true,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1764313231,
+      "updated_timestamp": 1764313400,
+      "system_timestamp": 1764313400
+    },
+    {
+      "token": "GAIX",
+      "name": "GaiAi",
+      "date": "2025-11-29",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1764226884,
+      "updated_timestamp": 1764232202,
+      "system_timestamp": 1764232202,
+      "completed": false,
       "has_homonym": false,
-      "spot_listed": false
+      "spot_listed": false,
+      "total_amount": "",
+      "contract_address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 145286
+      "count": 156087
     },
     {
       "key": "yesterday",
@@ -87,21 +103,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1707068922.0013",
-      "trades": 4655383,
-      "avgBuyAmount": "366.69"
+      "buyQuoteVolume": "1830097530.1812",
+      "trades": 4994679,
+      "avgBuyAmount": "366.41"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "155142066.68102",
-      "trades": 699069,
-      "avgBuyAmount": "221.93"
+      "buyQuoteVolume": "168733062.79166",
+      "trades": 757755,
+      "avgBuyAmount": "222.67"
     },
     {
       "symbol": "DGRAM",
-      "buyQuoteVolume": "14865942.470553",
-      "trades": 269827,
-      "avgBuyAmount": "55.09"
+      "buyQuoteVolume": "17587511.670193",
+      "trades": 305251,
+      "avgBuyAmount": "57.62"
     }
   ]
 }
