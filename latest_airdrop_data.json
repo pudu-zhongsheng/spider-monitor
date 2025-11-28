@@ -4,7 +4,7 @@
       "token": "GAIX",
       "name": "GaiAi",
       "date": "2025-11-29",
-      "time": "",
+      "time": "16:00",
       "points": "",
       "phase": 1,
       "language": "en",
@@ -49,7 +49,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 338950
+      "count": 341032
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "3720744319.61",
-      "trades": 10986842,
-      "avgBuyAmount": "338.65"
+      "buyQuoteVolume": "3735269801.1736",
+      "trades": 11049137,
+      "avgBuyAmount": "338.06"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "504978727.482",
-      "trades": 2399373,
-      "avgBuyAmount": "210.46"
+      "buyQuoteVolume": "514727911.78874",
+      "trades": 2461058,
+      "avgBuyAmount": "209.15"
     },
     {
       "symbol": "KOGE",
-      "buyQuoteVolume": "148789030.18395",
-      "trades": 171743,
-      "avgBuyAmount": "866.35"
+      "buyQuoteVolume": "152389193.33762",
+      "trades": 175895,
+      "avgBuyAmount": "866.36"
     }
   ]
 }
