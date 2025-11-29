@@ -36,8 +36,8 @@
       "amount": "400",
       "type": "grab",
       "created_timestamp": 1764226884,
-      "updated_timestamp": 1764397323,
-      "system_timestamp": 1764397323,
+      "updated_timestamp": 1764397990,
+      "system_timestamp": 1764397990,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
@@ -49,7 +49,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 86484
+      "count": 92513
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "766048468.03547",
-      "trades": 2295617,
-      "avgBuyAmount": "333.7"
+      "buyQuoteVolume": "784468328.72094",
+      "trades": 2368254,
+      "avgBuyAmount": "331.24"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "235573752.30314",
-      "trades": 931944,
-      "avgBuyAmount": "252.78"
+      "buyQuoteVolume": "257233900.33332",
+      "trades": 1009717,
+      "avgBuyAmount": "254.76"
     },
     {
       "symbol": "DGRAM",
-      "buyQuoteVolume": "62657504.833047",
-      "trades": 435083,
-      "avgBuyAmount": "144.01"
+      "buyQuoteVolume": "73606772.314873",
+      "trades": 482543,
+      "avgBuyAmount": "152.54"
     }
   ]
 }
