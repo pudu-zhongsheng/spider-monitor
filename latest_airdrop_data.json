@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "975529341.21839",
-      "trades": 3053381,
-      "avgBuyAmount": "319.49"
+      "buyQuoteVolume": "989187083.79221",
+      "trades": 3095359,
+      "avgBuyAmount": "319.57"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "366753097.90811",
-      "trades": 1431058,
-      "avgBuyAmount": "256.28"
+      "buyQuoteVolume": "375409726.14591",
+      "trades": 1467649,
+      "avgBuyAmount": "255.79"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "115499610.88796",
-      "trades": 616733,
-      "avgBuyAmount": "187.28"
+      "buyQuoteVolume": "141710736.38144",
+      "trades": 695327,
+      "avgBuyAmount": "203.8"
     }
   ]
 }
