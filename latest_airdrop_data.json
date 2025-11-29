@@ -14,12 +14,12 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1764226884,
-      "updated_timestamp": 1764232202,
-      "system_timestamp": 1764232202,
+      "updated_timestamp": 1764394991,
+      "system_timestamp": 1764394991,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": "",
+      "total_amount": "10000000",
       "contract_address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
       "chain_id": "56"
     },
@@ -49,7 +49,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 75377
+      "count": 78771
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "734634344.64642",
-      "trades": 2171026,
-      "avgBuyAmount": "338.38"
+      "buyQuoteVolume": "748102756.3014",
+      "trades": 2223779,
+      "avgBuyAmount": "336.41"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "171043878.17549",
-      "trades": 716417,
-      "avgBuyAmount": "238.75"
+      "buyQuoteVolume": "194475937.53548",
+      "trades": 790360,
+      "avgBuyAmount": "246.06"
     },
     {
-      "symbol": "KOGE",
-      "buyQuoteVolume": "31719177.429123",
-      "trades": 32749,
-      "avgBuyAmount": "968.55"
+      "symbol": "DGRAM",
+      "buyQuoteVolume": "34293158.555273",
+      "trades": 328242,
+      "avgBuyAmount": "104.48"
     }
   ]
 }
