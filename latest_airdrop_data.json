@@ -27,7 +27,7 @@
       "name": "GaiAI Token",
       "date": "2025-11-29",
       "time": "16:00",
-      "points": "256",
+      "points": 256,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -38,7 +38,7 @@
       "created_timestamp": 1764226884,
       "updated_timestamp": 1764397990,
       "system_timestamp": 1764397990,
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "10000000",
@@ -49,7 +49,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 110543
+      "count": 117573
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "888078569.43479",
-      "trades": 2750552,
-      "avgBuyAmount": "322.87"
+      "buyQuoteVolume": "935620597.43109",
+      "trades": 2919085,
+      "avgBuyAmount": "320.52"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "306336509.51502",
-      "trades": 1200412,
-      "avgBuyAmount": "255.19"
+      "buyQuoteVolume": "329318823.30624",
+      "trades": 1291633,
+      "avgBuyAmount": "254.96"
     },
     {
       "symbol": "DGRAM",
-      "buyQuoteVolume": "113901505.02249",
-      "trades": 642400,
-      "avgBuyAmount": "177.31"
+      "buyQuoteVolume": "130339188.0962",
+      "trades": 713642,
+      "avgBuyAmount": "182.64"
     }
   ]
 }
