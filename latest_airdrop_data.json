@@ -1,29 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "GAIX",
-      "name": "GaiAi",
-      "date": "2025-11-29",
-      "time": "16:00",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1764226884,
-      "updated_timestamp": 1764394991,
-      "system_timestamp": 1764394991,
-      "completed": false,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "10000000",
-      "contract_address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
-      "chain_id": "56"
-    },
-    {
       "token": "VSN",
       "date": "2025-11-28",
       "time": "16:00",
@@ -44,12 +21,35 @@
       "total_amount": "17203200",
       "contract_address": "0x6fbbbd8bfb1cd3986b1d05e7861a0f62f87db74b",
       "chain_id": "42161"
+    },
+    {
+      "token": "GAIX",
+      "name": "GaiAi",
+      "date": "2025-11-29",
+      "time": "16:00",
+      "points": "256",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "400",
+      "type": "grab",
+      "created_timestamp": 1764226884,
+      "updated_timestamp": 1764397323,
+      "system_timestamp": 1764397323,
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "10000000",
+      "contract_address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 78771
+      "count": 86484
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "748102756.3014",
-      "trades": 2223779,
-      "avgBuyAmount": "336.41"
+      "buyQuoteVolume": "766048468.03547",
+      "trades": 2295617,
+      "avgBuyAmount": "333.7"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "194475937.53548",
-      "trades": 790360,
-      "avgBuyAmount": "246.06"
+      "buyQuoteVolume": "235573752.30314",
+      "trades": 931944,
+      "avgBuyAmount": "252.78"
     },
     {
       "symbol": "DGRAM",
-      "buyQuoteVolume": "34293158.555273",
-      "trades": 328242,
-      "avgBuyAmount": "104.48"
+      "buyQuoteVolume": "62657504.833047",
+      "trades": 435083,
+      "avgBuyAmount": "144.01"
     }
   ]
 }
