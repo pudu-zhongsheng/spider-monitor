@@ -24,7 +24,7 @@
     },
     {
       "token": "GAIX",
-      "name": "GaiAi",
+      "name": "GaiAI Token",
       "date": "2025-11-29",
       "time": "16:00",
       "points": "256",
@@ -42,14 +42,14 @@
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "10000000",
-      "contract_address": "0xc12eFb9e4A1A753e7f6523482C569793C2271dbB",
+      "contract_address": "0xc12efb9e4a1a753e7f6523482c569793c2271dbb",
       "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 106400
+      "count": 110543
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "854860896.02246",
-      "trades": 2638191,
-      "avgBuyAmount": "324.03"
+      "buyQuoteVolume": "888078569.43479",
+      "trades": 2750552,
+      "avgBuyAmount": "322.87"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "296558411.19151",
-      "trades": 1160690,
-      "avgBuyAmount": "255.5"
+      "buyQuoteVolume": "306336509.51502",
+      "trades": 1200412,
+      "avgBuyAmount": "255.19"
     },
     {
       "symbol": "DGRAM",
-      "buyQuoteVolume": "110157563.803",
-      "trades": 622319,
-      "avgBuyAmount": "177.01"
+      "buyQuoteVolume": "113901505.02249",
+      "trades": 642400,
+      "avgBuyAmount": "177.31"
     }
   ]
 }
