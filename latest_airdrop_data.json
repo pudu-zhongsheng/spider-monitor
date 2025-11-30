@@ -13,14 +13,36 @@
       "amount": "",
       "name": "",
       "created_timestamp": 1764489643,
-      "updated_timestamp": 1764491408,
-      "system_timestamp": 1764491408
+      "updated_timestamp": 1764492307,
+      "system_timestamp": 1764492307
+    },
+    {
+      "id": "warning_692c054cbbafc3.00373070",
+      "token": "SQD",
+      "name": "SQD",
+      "date": "2025-11-30",
+      "time": "17:00",
+      "type": "warning",
+      "phase": 1,
+      "status": "pending",
+      "timestamp": 1764492620,
+      "points": 245,
+      "amount": "500",
+      "total_amount": "26740000",
+      "contract_address": "0xe50e3d1a46070444f44df911359033f2937fcc13",
+      "chain_id": "56",
+      "has_homonym": false,
+      "updated_at": "2025-11-30 16:50:44",
+      "system_timestamp": 1764492652,
+      "completed": false,
+      "futures_listed": false,
+      "spot_listed": false
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 147257
+      "count": 152153
     },
     {
       "key": "yesterday",
@@ -35,21 +57,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1407796658.9528",
-      "trades": 4023360,
-      "avgBuyAmount": "349.91"
+      "buyQuoteVolume": "1462903697.5524",
+      "trades": 4177418,
+      "avgBuyAmount": "350.19"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "332494388.30049",
-      "trades": 1325651,
-      "avgBuyAmount": "250.82"
+      "buyQuoteVolume": "336171221.19879",
+      "trades": 1343816,
+      "avgBuyAmount": "250.16"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "76219651.696301",
-      "trades": 528091,
-      "avgBuyAmount": "144.33"
+      "buyQuoteVolume": "78341591.791664",
+      "trades": 543889,
+      "avgBuyAmount": "144.04"
     }
   ]
 }
