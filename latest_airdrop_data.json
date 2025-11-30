@@ -22,12 +22,28 @@
       "total_amount": "10000000",
       "contract_address": "0xc12efb9e4a1a753e7f6523482c569793c2271dbb",
       "chain_id": "56"
+    },
+    {
+      "token": "",
+      "date": "2025-11-30",
+      "time": "17:00",
+      "points": "245",
+      "type": "grab",
+      "phase": 1,
+      "language": "en",
+      "status": "ongoing",
+      "futures_listed": false,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1764489643,
+      "updated_timestamp": 1764489914,
+      "system_timestamp": 1764489914
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 126517
+      "count": 136373
     },
     {
       "key": "yesterday",
@@ -42,21 +58,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1232640619.4606",
-      "trades": 3523390,
-      "avgBuyAmount": "349.85"
+      "buyQuoteVolume": "1320038834.8688",
+      "trades": 3774929,
+      "avgBuyAmount": "349.69"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "268950246.65577",
-      "trades": 1108034,
-      "avgBuyAmount": "242.73"
+      "buyQuoteVolume": "300671173.60117",
+      "trades": 1219249,
+      "avgBuyAmount": "246.6"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "65483425.619462",
-      "trades": 463477,
-      "avgBuyAmount": "141.29"
+      "buyQuoteVolume": "70481452.652312",
+      "trades": 494034,
+      "avgBuyAmount": "142.67"
     }
   ]
 }
