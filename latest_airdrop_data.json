@@ -1,29 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "GAIX",
-      "name": "GaiAI Token",
-      "date": "2025-11-29",
-      "time": "16:00",
-      "points": 256,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "400",
-      "type": "grab",
-      "created_timestamp": 1764226884,
-      "updated_timestamp": 1764397990,
-      "system_timestamp": 1764397990,
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "10000000",
-      "contract_address": "0xc12efb9e4a1a753e7f6523482c569793c2271dbb",
-      "chain_id": "56"
-    },
-    {
       "token": "",
       "date": "2025-11-30",
       "time": "17:00",
@@ -36,14 +13,14 @@
       "amount": "",
       "name": "",
       "created_timestamp": 1764489643,
-      "updated_timestamp": 1764489914,
-      "system_timestamp": 1764489914
+      "updated_timestamp": 1764491408,
+      "system_timestamp": 1764491408
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 136373
+      "count": 147257
     },
     {
       "key": "yesterday",
@@ -58,21 +35,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1320038834.8688",
-      "trades": 3774929,
-      "avgBuyAmount": "349.69"
+      "buyQuoteVolume": "1407796658.9528",
+      "trades": 4023360,
+      "avgBuyAmount": "349.91"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "300671173.60117",
-      "trades": 1219249,
-      "avgBuyAmount": "246.6"
+      "buyQuoteVolume": "332494388.30049",
+      "trades": 1325651,
+      "avgBuyAmount": "250.82"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "70481452.652312",
-      "trades": 494034,
-      "avgBuyAmount": "142.67"
+      "buyQuoteVolume": "76219651.696301",
+      "trades": 528091,
+      "avgBuyAmount": "144.33"
     }
   ]
 }
