@@ -1,28 +1,12 @@
 {
   "airdrops": [
     {
-      "token": "",
-      "date": "2025-11-30",
-      "time": "17:00",
-      "points": "245",
-      "type": "grab",
-      "phase": 1,
-      "language": "en",
-      "status": "ongoing",
-      "futures_listed": false,
-      "amount": "",
-      "name": "",
-      "created_timestamp": 1764489643,
-      "updated_timestamp": 1764492307,
-      "system_timestamp": 1764492307
-    },
-    {
       "id": "warning_692c054cbbafc3.00373070",
       "token": "SQD",
       "name": "SQD",
       "date": "2025-11-30",
       "time": "17:00",
-      "type": "warning",
+      "type": "grab",
       "phase": 1,
       "status": "pending",
       "timestamp": 1764492620,
@@ -33,16 +17,19 @@
       "chain_id": "56",
       "has_homonym": false,
       "updated_at": "2025-11-30 16:50:44",
-      "system_timestamp": 1764492652,
-      "completed": false,
+      "system_timestamp": 1764494351,
+      "completed": true,
       "futures_listed": false,
-      "spot_listed": false
+      "spot_listed": false,
+      "updated_timestamp": 1764494351,
+      "created_timestamp": 1764493033,
+      "language": "zh"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 152153
+      "count": 162177
     },
     {
       "key": "yesterday",
@@ -57,21 +44,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1462903697.5524",
-      "trades": 4177418,
-      "avgBuyAmount": "350.19"
+      "buyQuoteVolume": "1573659757.3525",
+      "trades": 4500973,
+      "avgBuyAmount": "349.63"
     },
     {
       "symbol": "BAY",
-      "buyQuoteVolume": "336171221.19879",
-      "trades": 1343816,
-      "avgBuyAmount": "250.16"
+      "buyQuoteVolume": "343609774.81176",
+      "trades": 1379844,
+      "avgBuyAmount": "249.02"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "78341591.791664",
-      "trades": 543889,
-      "avgBuyAmount": "144.04"
+      "buyQuoteVolume": "82082785.373543",
+      "trades": 570112,
+      "avgBuyAmount": "143.98"
     }
   ]
 }
