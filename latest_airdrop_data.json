@@ -24,12 +24,31 @@
       "updated_timestamp": 1764494351,
       "created_timestamp": 1764493033,
       "language": "zh"
+    },
+    {
+      "token": "RLS",
+      "name": "RAYLS",
+      "date": "2025-12-01",
+      "time": "19:00",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1764564193,
+      "updated_timestamp": 1764564387,
+      "system_timestamp": 1764564387,
+      "contract_address": "0x17ea10b6ae4fde59fdbf471bd28ab9710f508816",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 55928
+      "count": 71083
     },
     {
       "key": "yesterday",
@@ -44,21 +63,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "654296724.41214",
-      "trades": 1790843,
-      "avgBuyAmount": "365.36"
+      "buyQuoteVolume": "790971500.09652",
+      "trades": 2191300,
+      "avgBuyAmount": "360.96"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "38143939.966123",
-      "trades": 249873,
-      "avgBuyAmount": "152.65"
+      "buyQuoteVolume": "60111576.032411",
+      "trades": 353265,
+      "avgBuyAmount": "170.16"
     },
     {
-      "symbol": "KOGE",
-      "buyQuoteVolume": "16357035.962258",
-      "trades": 16185,
-      "avgBuyAmount": "1010.63"
+      "symbol": "ARTX",
+      "buyQuoteVolume": "46272474.606535",
+      "trades": 143976,
+      "avgBuyAmount": "321.39"
     }
   ]
 }
