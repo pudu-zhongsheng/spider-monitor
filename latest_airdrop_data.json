@@ -2,7 +2,7 @@
   "airdrops": [
     {
       "token": "RLS",
-      "name": "RAYLS",
+      "name": "Rayls",
       "date": "2025-12-01",
       "time": "19:00",
       "points": 242,
@@ -19,7 +19,7 @@
       "contract_address": "0x17ea10b6ae4fde59fdbf471bd28ab9710f508816",
       "chain_id": "56",
       "total_amount": "50000000",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false
     }
@@ -27,7 +27,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 164727
+      "count": 174297
     },
     {
       "key": "yesterday",
@@ -42,21 +42,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1808755208.7121",
-      "trades": 5134895,
-      "avgBuyAmount": "352.25"
+      "buyQuoteVolume": "1916579014.207",
+      "trades": 5456680,
+      "avgBuyAmount": "351.24"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "223036164.682",
-      "trades": 1033294,
-      "avgBuyAmount": "215.85"
+      "buyQuoteVolume": "236374673.84444",
+      "trades": 1085036,
+      "avgBuyAmount": "217.85"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "72916620.314716",
-      "trades": 313977,
-      "avgBuyAmount": "232.24"
+      "buyQuoteVolume": "73823494.46085",
+      "trades": 328175,
+      "avgBuyAmount": "224.95"
     }
   ]
 }
