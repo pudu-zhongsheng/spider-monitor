@@ -39,8 +39,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1764564193,
-      "updated_timestamp": 1764574208,
-      "system_timestamp": 1764574208,
+      "updated_timestamp": 1764575110,
+      "system_timestamp": 1764575110,
       "contract_address": "0x17ea10b6ae4fde59fdbf471bd28ab9710f508816",
       "chain_id": "56",
       "total_amount": "50000000",
@@ -52,7 +52,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 104047
+      "count": 106943
     },
     {
       "key": "yesterday",
@@ -67,21 +67,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1090981047.7149",
-      "trades": 3094985,
-      "avgBuyAmount": "352.5"
+      "buyQuoteVolume": "1118590221.9053",
+      "trades": 3180329,
+      "avgBuyAmount": "351.72"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "131182448.55656",
-      "trades": 667776,
-      "avgBuyAmount": "196.45"
+      "buyQuoteVolume": "136840889.8492",
+      "trades": 693226,
+      "avgBuyAmount": "197.4"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "70327782.554233",
-      "trades": 238891,
-      "avgBuyAmount": "294.39"
+      "buyQuoteVolume": "70640243.451331",
+      "trades": 244468,
+      "avgBuyAmount": "288.95"
     }
   ]
 }
