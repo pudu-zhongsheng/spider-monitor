@@ -1,49 +1,32 @@
 {
   "airdrops": [
     {
-      "token": "RLS",
-      "name": "Rayls",
-      "date": "2025-12-01",
-      "time": "19:00",
-      "points": 242,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": true,
-      "amount": "800",
-      "type": "grab",
-      "created_timestamp": 1764564193,
-      "updated_timestamp": 1764665056,
-      "system_timestamp": 1764665056,
-      "contract_address": "0x17ea10b6ae4fde59fdbf471bd28ab9710f508816",
-      "chain_id": "56",
-      "total_amount": "50000000",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false
-    },
-    {
-      "token": "",
+      "token": "TAKE",
       "date": "2025-12-02",
       "time": "21:00",
-      "points": "253",
+      "points": 253,
       "type": "grab",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "futures_listed": false,
-      "amount": "",
-      "name": "",
+      "amount": "105",
+      "name": "TAKE",
       "created_timestamp": 1764661362,
-      "updated_timestamp": 1764675909,
-      "system_timestamp": 1764675909
+      "updated_timestamp": 1764680540,
+      "system_timestamp": 1764680540,
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "1666665",
+      "contract_address": "0xE747E54783Ba3F77a8E5251a3cBA19EBe9C0E197",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 177414
+      "count": 207871
     },
     {
       "key": "yesterday",
@@ -58,21 +41,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1554921898.2813",
-      "trades": 4469251,
-      "avgBuyAmount": "347.92"
+      "buyQuoteVolume": "1884246620.5291",
+      "trades": 5474460,
+      "avgBuyAmount": "344.19"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "371031951.52794",
-      "trades": 1472628,
-      "avgBuyAmount": "251.95"
+      "buyQuoteVolume": "422636651.42998",
+      "trades": 1698192,
+      "avgBuyAmount": "248.87"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "344992731.85519",
-      "trades": 1117240,
-      "avgBuyAmount": "308.79"
+      "buyQuoteVolume": "352985702.70356",
+      "trades": 1163296,
+      "avgBuyAmount": "303.44"
     }
   ]
 }
