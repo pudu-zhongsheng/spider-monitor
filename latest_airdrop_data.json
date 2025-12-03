@@ -23,6 +23,22 @@
       "chain_id": "56"
     },
     {
+      "token": "",
+      "date": "2025-12-03",
+      "time": "21:00",
+      "points": "242",
+      "type": "grab",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "futures_listed": false,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1764759637,
+      "updated_timestamp": 1764759808,
+      "system_timestamp": 1764759808
+    },
+    {
       "token": "POWER",
       "name": "Power Protocol",
       "date": "2025-12-05",
@@ -36,8 +52,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1764741634,
-      "updated_timestamp": 1764741862,
-      "system_timestamp": 1764741862,
+      "updated_timestamp": 1764759679,
+      "system_timestamp": 1764759679,
       "contract_address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
       "chain_id": "1"
     }
@@ -45,7 +61,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 171795
+      "count": 176730
     },
     {
       "key": "yesterday",
@@ -60,21 +76,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1802859559.4083",
-      "trades": 4903567,
-      "avgBuyAmount": "367.66"
+      "buyQuoteVolume": "1851771461.0532",
+      "trades": 5044068,
+      "avgBuyAmount": "367.12"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "267243325.32415",
-      "trades": 1188508,
-      "avgBuyAmount": "224.86"
+      "buyQuoteVolume": "277865019.97315",
+      "trades": 1236435,
+      "avgBuyAmount": "224.73"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "146636245.31807",
-      "trades": 576115,
-      "avgBuyAmount": "254.53"
+      "buyQuoteVolume": "150454697.16718",
+      "trades": 597444,
+      "avgBuyAmount": "251.83"
     }
   ]
 }
