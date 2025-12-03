@@ -21,12 +21,31 @@
       "total_amount": "1666665",
       "contract_address": "0xE747E54783Ba3F77a8E5251a3cBA19EBe9C0E197",
       "chain_id": "56"
+    },
+    {
+      "token": "POWER",
+      "name": "Power Protocol",
+      "date": "2025-12-05",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1764741634,
+      "updated_timestamp": 1764741862,
+      "system_timestamp": 1764741862,
+      "contract_address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
+      "chain_id": "1"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 80440
+      "count": 91290
     },
     {
       "key": "yesterday",
@@ -41,21 +60,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "793099080.5988",
-      "trades": 2176992,
-      "avgBuyAmount": "364.31"
+      "buyQuoteVolume": "905711978.4306",
+      "trades": 2476078,
+      "avgBuyAmount": "365.78"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "129040625.47459",
-      "trades": 588237,
-      "avgBuyAmount": "219.37"
+      "buyQuoteVolume": "145944151.66863",
+      "trades": 656541,
+      "avgBuyAmount": "222.29"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "115013985.48078",
-      "trades": 372691,
-      "avgBuyAmount": "308.6"
+      "buyQuoteVolume": "125732022.73271",
+      "trades": 412515,
+      "avgBuyAmount": "304.79"
     }
   ]
 }
