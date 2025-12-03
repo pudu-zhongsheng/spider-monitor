@@ -23,7 +23,7 @@
       "token": "H",
       "date": "2025-12-03",
       "time": "21:00",
-      "points": "242",
+      "points": 242,
       "type": "grab",
       "phase": 1,
       "language": "en",
@@ -36,7 +36,10 @@
       "system_timestamp": 1764766817,
       "contract_address": "0x44f161ae29361e332dea039dfa2f404e0bc5b5cc",
       "chain_id": "56",
-      "total_amount": "8330000"
+      "total_amount": "8330000",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "TAKE",
@@ -64,7 +67,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 210525
+      "count": 225724
     },
     {
       "key": "yesterday",
@@ -79,21 +82,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "2234106186.8641",
-      "trades": 6125132,
-      "avgBuyAmount": "364.74"
+      "buyQuoteVolume": "2405094435.7519",
+      "trades": 6648222,
+      "avgBuyAmount": "361.77"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "326248378.49762",
-      "trades": 1459281,
-      "avgBuyAmount": "223.57"
+      "buyQuoteVolume": "346111595.23717",
+      "trades": 1550976,
+      "avgBuyAmount": "223.16"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "154698736.02173",
-      "trades": 652534,
-      "avgBuyAmount": "237.07"
+      "buyQuoteVolume": "155668038.1048",
+      "trades": 665944,
+      "avgBuyAmount": "233.76"
     }
   ]
 }
