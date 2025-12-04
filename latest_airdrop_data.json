@@ -45,7 +45,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 67454
+      "count": 70846
     },
     {
       "key": "yesterday",
@@ -60,21 +60,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "710198693.99755",
-      "trades": 1929202,
-      "avgBuyAmount": "368.13"
+      "buyQuoteVolume": "738137186.09422",
+      "trades": 2020569,
+      "avgBuyAmount": "365.31"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "83932026.289052",
-      "trades": 357479,
-      "avgBuyAmount": "234.79"
+      "buyQuoteVolume": "89169056.068912",
+      "trades": 388873,
+      "avgBuyAmount": "229.3"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "72812243.611575",
-      "trades": 399014,
-      "avgBuyAmount": "182.48"
+      "buyQuoteVolume": "82130216.275722",
+      "trades": 443708,
+      "avgBuyAmount": "185.1"
     }
   ]
 }
