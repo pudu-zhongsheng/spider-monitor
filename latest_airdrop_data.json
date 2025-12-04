@@ -1,25 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "POWER",
-      "name": "Power Protocol",
-      "date": "2025-12-05",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1764741634,
-      "updated_timestamp": 1764759679,
-      "system_timestamp": 1764759679,
-      "contract_address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
-      "chain_id": "1"
-    },
-    {
       "token": "H",
       "date": "2025-12-03",
       "time": "21:00",
@@ -40,12 +21,47 @@
       "completed": true,
       "has_homonym": false,
       "spot_listed": false
+    },
+    {
+      "token": "",
+      "date": "2025-12-04",
+      "time": "20:00",
+      "points": "250",
+      "type": "grab",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "futures_listed": false,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1764841720,
+      "updated_timestamp": 1764841721,
+      "system_timestamp": 1764841721
+    },
+    {
+      "token": "POWER",
+      "name": "Power Protocol",
+      "date": "2025-12-05",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1764741634,
+      "updated_timestamp": 1764759679,
+      "system_timestamp": 1764759679,
+      "contract_address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
+      "chain_id": "1"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 137495
+      "count": 140757
     },
     {
       "key": "yesterday",
@@ -60,21 +76,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1439685887.7983",
-      "trades": 4045753,
-      "avgBuyAmount": "355.85"
+      "buyQuoteVolume": "1474382191.2176",
+      "trades": 4151483,
+      "avgBuyAmount": "355.15"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "170518460.04414",
-      "trades": 878300,
-      "avgBuyAmount": "194.15"
+      "buyQuoteVolume": "175423134.27567",
+      "trades": 903926,
+      "avgBuyAmount": "194.07"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "156582840.17646",
-      "trades": 690852,
-      "avgBuyAmount": "226.65"
+      "buyQuoteVolume": "158985638.88632",
+      "trades": 705079,
+      "avgBuyAmount": "225.49"
     }
   ]
 }
