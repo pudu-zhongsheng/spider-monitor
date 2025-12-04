@@ -4,7 +4,7 @@
       "token": "POWER",
       "name": "Power Protocol",
       "date": "2025-12-05",
-      "time": "",
+      "time": "18:00",
       "points": "",
       "phase": 1,
       "language": "en",
@@ -51,7 +51,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 266104
+      "count": 267305
     },
     {
       "key": "yesterday",
@@ -66,21 +66,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "2696363303.2495",
-      "trades": 8109843,
-      "avgBuyAmount": "332.48"
+      "buyQuoteVolume": "2704731847.7726",
+      "trades": 8151013,
+      "avgBuyAmount": "331.83"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "393447877.41877",
-      "trades": 1754597,
-      "avgBuyAmount": "224.24"
+      "buyQuoteVolume": "398790047.74668",
+      "trades": 1785301,
+      "avgBuyAmount": "223.37"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "331681450.46095",
-      "trades": 1852747,
-      "avgBuyAmount": "179.02"
+      "buyQuoteVolume": "333459027.49736",
+      "trades": 1872492,
+      "avgBuyAmount": "178.08"
     }
   ]
 }
