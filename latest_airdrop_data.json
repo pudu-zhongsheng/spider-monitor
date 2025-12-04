@@ -1,26 +1,27 @@
 {
   "airdrops": [
     {
-      "token": "H",
-      "date": "2025-12-03",
-      "time": "21:00",
-      "points": 242,
-      "type": "grab",
+      "token": "POWER",
+      "name": "Power Protocol",
+      "date": "2025-12-05",
+      "time": "",
+      "points": "",
       "phase": 1,
       "language": "en",
       "status": "announced",
+      "utc": "",
       "futures_listed": false,
-      "amount": "295",
-      "name": "Humanity Protocol",
-      "created_timestamp": 1764759637,
-      "updated_timestamp": 1764766817,
-      "system_timestamp": 1764766817,
-      "contract_address": "0x44f161ae29361e332dea039dfa2f404e0bc5b5cc",
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1764741634,
+      "updated_timestamp": 1764759679,
+      "system_timestamp": 1764759679,
+      "contract_address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
       "chain_id": "56",
-      "total_amount": "8330000",
-      "completed": true,
+      "completed": false,
       "has_homonym": false,
-      "spot_listed": false
+      "spot_listed": false,
+      "total_amount": ""
     },
     {
       "id": "warning_69317593a8a2d7.94989228",
@@ -45,31 +46,12 @@
       "created_timestamp": 1764849124,
       "updated_timestamp": 1764852040,
       "language": "en"
-    },
-    {
-      "token": "POWER",
-      "name": "Power Protocol",
-      "date": "2025-12-05",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1764741634,
-      "updated_timestamp": 1764759679,
-      "system_timestamp": 1764759679,
-      "contract_address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
-      "chain_id": "1"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 213676
+      "count": 221449
     },
     {
       "key": "yesterday",
@@ -84,21 +66,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "2236196734.1179",
-      "trades": 6506057,
-      "avgBuyAmount": "343.71"
+      "buyQuoteVolume": "2308814504.5068",
+      "trades": 6748066,
+      "avgBuyAmount": "342.14"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "260823288.6953",
-      "trades": 1360751,
-      "avgBuyAmount": "191.68"
+      "buyQuoteVolume": "270965385.72489",
+      "trades": 1415842,
+      "avgBuyAmount": "191.38"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "251144805.02426",
-      "trades": 1084160,
-      "avgBuyAmount": "231.65"
+      "buyQuoteVolume": "268671419.88962",
+      "trades": 1152742,
+      "avgBuyAmount": "233.07"
     }
   ]
 }
