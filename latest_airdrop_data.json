@@ -23,20 +23,28 @@
       "spot_listed": false
     },
     {
-      "token": "",
+      "id": "warning_69317593a8a2d7.94989228",
+      "token": "ESPORTS",
+      "name": "ESPORTS",
       "date": "2025-12-04",
       "time": "20:00",
-      "points": "250",
       "type": "grab",
       "phase": 1,
-      "language": "en",
       "status": "announced",
+      "timestamp": 1764849043,
+      "points": 250,
+      "amount": "80",
+      "total_amount": "1250000",
+      "contract_address": "0xf39e4b21c84e737df08e2c3b32541d856f508e48",
+      "chain_id": "56",
+      "has_homonym": false,
+      "system_timestamp": 1764849618,
+      "completed": true,
       "futures_listed": false,
-      "amount": "",
-      "name": "",
-      "created_timestamp": 1764841720,
-      "updated_timestamp": 1764848707,
-      "system_timestamp": 1764848707
+      "spot_listed": false,
+      "created_timestamp": 1764849124,
+      "updated_timestamp": 1764849618,
+      "language": "en"
     },
     {
       "token": "POWER",
@@ -61,7 +69,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 169428
+      "count": 179436
     },
     {
       "key": "yesterday",
@@ -76,21 +84,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1794598132.1899",
-      "trades": 5101271,
-      "avgBuyAmount": "351.79"
+      "buyQuoteVolume": "1894892317.3114",
+      "trades": 5416683,
+      "avgBuyAmount": "349.83"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "210219861.80312",
-      "trades": 1094290,
-      "avgBuyAmount": "192.11"
+      "buyQuoteVolume": "221941789.75008",
+      "trades": 1155101,
+      "avgBuyAmount": "192.14"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "173908793.52736",
-      "trades": 810876,
-      "avgBuyAmount": "214.47"
+      "buyQuoteVolume": "190142226.00567",
+      "trades": 864339,
+      "avgBuyAmount": "219.99"
     }
   ]
 }
