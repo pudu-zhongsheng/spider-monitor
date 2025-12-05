@@ -40,9 +40,9 @@
       "created_timestamp": 1764741634,
       "updated_timestamp": 1764921381,
       "system_timestamp": 1764921381,
-      "contract_address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
+      "contract_address": "0x9dc44ae5be187eca9e2a67e33f27a4c91cea1223",
       "chain_id": "56",
-      "completed": false,
+      "completed": true,
       "has_homonym": true,
       "spot_listed": false,
       "total_amount": "7500000"
@@ -51,7 +51,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 124359
+      "count": 133229
     },
     {
       "key": "yesterday",
@@ -66,21 +66,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1555370903.4918",
-      "trades": 4231653,
-      "avgBuyAmount": "367.56"
+      "buyQuoteVolume": "1668407221.8239",
+      "trades": 4553789,
+      "avgBuyAmount": "366.38"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "51587139.05249",
-      "trades": 456961,
-      "avgBuyAmount": "112.89"
+      "buyQuoteVolume": "52979812.70369",
+      "trades": 474608,
+      "avgBuyAmount": "111.63"
     },
     {
       "symbol": "KO",
-      "buyQuoteVolume": "1680731.8548557",
-      "trades": 72154,
-      "avgBuyAmount": "23.29"
+      "buyQuoteVolume": "1994048.0155504",
+      "trades": 81396,
+      "avgBuyAmount": "24.5"
     }
   ]
 }
