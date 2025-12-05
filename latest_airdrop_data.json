@@ -1,29 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "POWER",
-      "name": "Power Protocol",
-      "date": "2025-12-05",
-      "time": "18:00",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1764741634,
-      "updated_timestamp": 1764759679,
-      "system_timestamp": 1764759679,
-      "contract_address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
-      "chain_id": "56",
-      "completed": false,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": ""
-    },
-    {
       "id": "warning_69317593a8a2d7.94989228",
       "token": "ESPORTS",
       "name": "ESPORTS",
@@ -46,12 +23,35 @@
       "created_timestamp": 1764849124,
       "updated_timestamp": 1764852040,
       "language": "en"
+    },
+    {
+      "token": "POWER",
+      "name": "Power Protocol",
+      "date": "2025-12-05",
+      "time": "18:00",
+      "points": 245,
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "375",
+      "type": "grab",
+      "created_timestamp": 1764741634,
+      "updated_timestamp": 1764918566,
+      "system_timestamp": 1764918566,
+      "contract_address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": true,
+      "spot_listed": false,
+      "total_amount": ""
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 85338
+      "count": 94556
     },
     {
       "key": "yesterday",
@@ -66,21 +66,21 @@
   "top3_tokens": [
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "1063110414.1042",
-      "trades": 2895235,
-      "avgBuyAmount": "367.19"
+      "buyQuoteVolume": "1177452048.5428",
+      "trades": 3192001,
+      "avgBuyAmount": "368.88"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "40145588.79318",
-      "trades": 339961,
-      "avgBuyAmount": "118.09"
+      "buyQuoteVolume": "45051981.779405",
+      "trades": 371568,
+      "avgBuyAmount": "121.25"
     },
     {
       "symbol": "KO",
-      "buyQuoteVolume": "1046391.8010576",
-      "trades": 34506,
-      "avgBuyAmount": "30.32"
+      "buyQuoteVolume": "1204981.4022084",
+      "trades": 44320,
+      "avgBuyAmount": "27.19"
     }
   ]
 }
