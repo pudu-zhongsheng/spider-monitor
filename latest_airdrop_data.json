@@ -34,12 +34,12 @@
       "language": "en",
       "status": "announced",
       "utc": "",
-      "futures_listed": false,
+      "futures_listed": true,
       "amount": "375",
       "type": "grab",
       "created_timestamp": 1764741634,
-      "updated_timestamp": 1764921381,
-      "system_timestamp": 1764921381,
+      "updated_timestamp": 1765006817,
+      "system_timestamp": 1765006817,
       "contract_address": "0x9dc44ae5be187eca9e2a67e33f27a4c91cea1223",
       "chain_id": "56",
       "completed": true,
@@ -51,7 +51,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 91462
+      "count": 93995
     },
     {
       "key": "yesterday",
@@ -66,21 +66,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "734058264.35664",
-      "trades": 1663802,
-      "avgBuyAmount": "441.19"
+      "buyQuoteVolume": "735040503.59102",
+      "trades": 1670680,
+      "avgBuyAmount": "439.96"
     },
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "445385561.8941",
-      "trades": 1383193,
-      "avgBuyAmount": "322"
+      "buyQuoteVolume": "476436167.24781",
+      "trades": 1468668,
+      "avgBuyAmount": "324.4"
     },
     {
       "symbol": "POWER",
-      "buyQuoteVolume": "2177729.8994696",
-      "trades": 95696,
-      "avgBuyAmount": "22.76"
+      "buyQuoteVolume": "2864736.907963",
+      "trades": 104233,
+      "avgBuyAmount": "27.48"
     }
   ]
 }
