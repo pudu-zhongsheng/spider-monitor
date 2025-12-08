@@ -48,6 +48,22 @@
       "total_amount": "7500000"
     },
     {
+      "token": "",
+      "date": "2025-12-08",
+      "time": "21:00",
+      "points": "250",
+      "type": "grab",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "futures_listed": false,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1765186515,
+      "updated_timestamp": 1765186740,
+      "system_timestamp": 1765186740
+    },
+    {
       "token": "NIGHT",
       "name": "Midnight",
       "date": "2025-12-09",
@@ -68,7 +84,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 106780
+      "count": 111285
     },
     {
       "key": "yesterday",
@@ -82,22 +98,22 @@
   "last_rollover_date": "2025-12-08",
   "top3_tokens": [
     {
-      "symbol": "ARTX",
-      "buyQuoteVolume": "473832355.99586",
-      "trades": 1436672,
-      "avgBuyAmount": "329.81"
-    },
-    {
       "symbol": "TIMI",
-      "buyQuoteVolume": "473010236.23316",
-      "trades": 1584833,
-      "avgBuyAmount": "298.46"
+      "buyQuoteVolume": "512117579.08501",
+      "trades": 1713157,
+      "avgBuyAmount": "298.93"
     },
     {
-      "symbol": "JCT",
-      "buyQuoteVolume": "431855555.69161",
-      "trades": 1527383,
-      "avgBuyAmount": "282.74"
+      "symbol": "ARTX",
+      "buyQuoteVolume": "483102082.11292",
+      "trades": 1488392,
+      "avgBuyAmount": "324.58"
+    },
+    {
+      "symbol": "POWER",
+      "buyQuoteVolume": "2202631.3791449",
+      "trades": 22853,
+      "avgBuyAmount": "96.38"
     }
   ]
 }
