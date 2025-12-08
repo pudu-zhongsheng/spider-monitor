@@ -46,12 +46,29 @@
       "has_homonym": true,
       "spot_listed": false,
       "total_amount": "7500000"
+    },
+    {
+      "token": "NIGHT",
+      "name": "Midnight",
+      "date": "2025-12-09",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1765181553,
+      "updated_timestamp": 1765181791,
+      "system_timestamp": 1765181791
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 90080
+      "count": 101498
     },
     {
       "key": "yesterday",
@@ -66,21 +83,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "432134480.3964",
-      "trades": 1292071,
-      "avgBuyAmount": "334.45"
-    },
-    {
-      "symbol": "JCT",
-      "buyQuoteVolume": "365627676.82249",
-      "trades": 1308464,
-      "avgBuyAmount": "279.43"
+      "buyQuoteVolume": "466004130.09942",
+      "trades": 1403971,
+      "avgBuyAmount": "331.92"
     },
     {
       "symbol": "TIMI",
-      "buyQuoteVolume": "365367791.34423",
-      "trades": 1257998,
-      "avgBuyAmount": "290.44"
+      "buyQuoteVolume": "435426748.55505",
+      "trades": 1473506,
+      "avgBuyAmount": "295.5"
+    },
+    {
+      "symbol": "JCT",
+      "buyQuoteVolume": "409164863.99242",
+      "trades": 1453322,
+      "avgBuyAmount": "281.54"
     }
   ]
 }
