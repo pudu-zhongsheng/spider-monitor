@@ -36,8 +36,11 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1765181553,
-      "updated_timestamp": 1765181791,
-      "system_timestamp": 1765181791
+      "updated_timestamp": 1765263673,
+      "system_timestamp": 1765263673,
+      "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
+      "chain_id": "56",
+      "total_amount": "120000000"
     },
     {
       "token": "WET",
@@ -62,7 +65,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 73852
+      "count": 87299
     },
     {
       "key": "yesterday",
@@ -77,21 +80,21 @@
   "top3_tokens": [
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "547882737.65836",
-      "trades": 1725517,
-      "avgBuyAmount": "317.52"
+      "buyQuoteVolume": "676263493.7039",
+      "trades": 2079459,
+      "avgBuyAmount": "325.21"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "316019457.3374",
-      "trades": 958604,
-      "avgBuyAmount": "329.67"
+      "buyQuoteVolume": "356104506.8556",
+      "trades": 1072448,
+      "avgBuyAmount": "332.05"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "53214937.878253",
-      "trades": 140401,
-      "avgBuyAmount": "379.02"
+      "buyQuoteVolume": "56815820.329063",
+      "trades": 153548,
+      "avgBuyAmount": "370.02"
     }
   ]
 }
