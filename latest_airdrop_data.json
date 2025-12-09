@@ -1,27 +1,27 @@
 {
   "airdrops": [
     {
-      "token": "US",
-      "name": "Talus Network",
-      "date": "2025-12-11",
-      "time": "",
-      "points": "",
+      "token": "NIGHT",
+      "name": "Midnight",
+      "date": "2025-12-09",
+      "time": "17:30",
+      "points": 230,
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1765279648,
-      "updated_timestamp": 1765279687,
-      "system_timestamp": 1765279687,
-      "completed": false,
+      "amount": "600",
+      "type": "grab",
+      "created_timestamp": 1765181553,
+      "updated_timestamp": 1765269908,
+      "system_timestamp": 1765269908,
+      "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
+      "chain_id": "56",
+      "total_amount": "120000000",
+      "completed": true,
       "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "",
-      "contract_address": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
-      "chain_id": "784"
+      "spot_listed": false
     },
     {
       "token": "WET",
@@ -48,33 +48,52 @@
       "pre_price": ""
     },
     {
-      "token": "NIGHT",
-      "name": "Midnight",
-      "date": "2025-12-09",
-      "time": "17:30",
-      "points": 230,
+      "token": "US",
+      "name": "Talus Network",
+      "date": "2025-12-11",
+      "time": "",
+      "points": "",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "600",
-      "type": "grab",
-      "created_timestamp": 1765181553,
-      "updated_timestamp": 1765269908,
-      "system_timestamp": 1765269908,
-      "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
-      "chain_id": "56",
-      "total_amount": "120000000",
-      "completed": true,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1765279648,
+      "updated_timestamp": 1765279687,
+      "system_timestamp": 1765279687,
+      "completed": false,
       "has_homonym": false,
-      "spot_listed": false
+      "spot_listed": false,
+      "total_amount": "",
+      "contract_address": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
+      "chain_id": "784"
+    },
+    {
+      "token": "CYS",
+      "name": "Cysic",
+      "date": "2025-12-11",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1765293091,
+      "updated_timestamp": 1765294203,
+      "system_timestamp": 1765294203,
+      "contract_address": "0x0C69199C1562233640e0Db5Ce2c399A88eB507C7",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 225355
+      "count": 232825
     },
     {
       "key": "yesterday",
@@ -89,21 +108,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1365667657.9433",
-      "trades": 3963042,
-      "avgBuyAmount": "344.6"
+      "buyQuoteVolume": "1419064431.3225",
+      "trades": 4136828,
+      "avgBuyAmount": "343.03"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "1308421689.7041",
-      "trades": 4142236,
-      "avgBuyAmount": "315.87"
+      "buyQuoteVolume": "1340407775.7285",
+      "trades": 4265836,
+      "avgBuyAmount": "314.22"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "145461719.32256",
-      "trades": 487719,
-      "avgBuyAmount": "298.25"
+      "buyQuoteVolume": "152301144.14452",
+      "trades": 516727,
+      "avgBuyAmount": "294.74"
     }
   ]
 }
