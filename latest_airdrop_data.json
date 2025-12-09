@@ -26,8 +26,8 @@
       "token": "NIGHT",
       "name": "Midnight",
       "date": "2025-12-09",
-      "time": "17:00",
-      "points": "230",
+      "time": "17:30",
+      "points": 230,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -40,24 +40,27 @@
       "system_timestamp": 1765269908,
       "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
       "chain_id": "56",
-      "total_amount": "120000000"
+      "total_amount": "120000000",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "WET",
       "name": "Humidifi",
       "date": "2025-12-09",
-      "time": "",
-      "points": "",
+      "time": "22:00",
+      "points": "230",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
+      "amount": "200",
       "type": "",
       "created_timestamp": 1765200732,
-      "updated_timestamp": 1765201453,
-      "system_timestamp": 1765201453,
+      "updated_timestamp": 1765273188,
+      "system_timestamp": 1765273188,
       "contract_address": "WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U",
       "chain_id": "501"
     }
@@ -65,7 +68,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 110849
+      "count": 115913
     },
     {
       "key": "yesterday",
@@ -80,21 +83,21 @@
   "top3_tokens": [
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "859503336.37425",
-      "trades": 2608770,
-      "avgBuyAmount": "329.47"
+      "buyQuoteVolume": "892121684.74549",
+      "trades": 2716526,
+      "avgBuyAmount": "328.41"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "459060718.36919",
-      "trades": 1359399,
-      "avgBuyAmount": "337.69"
+      "buyQuoteVolume": "476290029.10216",
+      "trades": 1421456,
+      "avgBuyAmount": "335.07"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "71017974.466135",
-      "trades": 202337,
-      "avgBuyAmount": "350.99"
+      "buyQuoteVolume": "82528953.118918",
+      "trades": 238625,
+      "avgBuyAmount": "345.85"
     }
   ]
 }
