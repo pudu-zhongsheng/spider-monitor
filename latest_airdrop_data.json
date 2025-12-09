@@ -41,7 +41,7 @@
       "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
       "chain_id": "56",
       "total_amount": "120000000",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false
     },
@@ -68,7 +68,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 130813
+      "count": 136612
     },
     {
       "key": "yesterday",
@@ -83,21 +83,21 @@
   "top3_tokens": [
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "977672778.26153",
-      "trades": 2991443,
-      "avgBuyAmount": "326.82"
+      "buyQuoteVolume": "1019002731.0071",
+      "trades": 3114583,
+      "avgBuyAmount": "327.17"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "537004613.31933",
-      "trades": 1609119,
-      "avgBuyAmount": "333.73"
+      "buyQuoteVolume": "566032962.89802",
+      "trades": 1695272,
+      "avgBuyAmount": "333.89"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "119221292.87325",
-      "trades": 348978,
-      "avgBuyAmount": "341.63"
+      "buyQuoteVolume": "121287230.89466",
+      "trades": 359897,
+      "avgBuyAmount": "337.01"
     }
   ]
 }
