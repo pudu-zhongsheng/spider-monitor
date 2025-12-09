@@ -36,8 +36,8 @@
       "amount": "600",
       "type": "grab",
       "created_timestamp": 1765181553,
-      "updated_timestamp": 1765269009,
-      "system_timestamp": 1765269009,
+      "updated_timestamp": 1765269908,
+      "system_timestamp": 1765269908,
       "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
       "chain_id": "56",
       "total_amount": "120000000"
