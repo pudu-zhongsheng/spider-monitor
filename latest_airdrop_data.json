@@ -62,7 +62,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 31920
+      "count": 37245
     },
     {
       "key": "yesterday",
@@ -77,21 +77,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "225444689.06722",
-      "trades": 652293,
-      "avgBuyAmount": "345.62"
+      "buyQuoteVolume": "242057217.60294",
+      "trades": 707704,
+      "avgBuyAmount": "342.03"
     },
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "176349388.57648",
-      "trades": 639082,
-      "avgBuyAmount": "275.94"
+      "buyQuoteVolume": "224690304.01186",
+      "trades": 790869,
+      "avgBuyAmount": "284.11"
     },
     {
       "symbol": "GUA",
-      "buyQuoteVolume": "6432911.9392814",
-      "trades": 73543,
-      "avgBuyAmount": "87.47"
+      "buyQuoteVolume": "8433511.7081997",
+      "trades": 90998,
+      "avgBuyAmount": "92.68"
     }
   ]
 }
