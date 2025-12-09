@@ -26,18 +26,18 @@
       "token": "NIGHT",
       "name": "Midnight",
       "date": "2025-12-09",
-      "time": "",
-      "points": "",
+      "time": "17:00",
+      "points": "230",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "600",
+      "type": "grab",
       "created_timestamp": 1765181553,
-      "updated_timestamp": 1765263673,
-      "system_timestamp": 1765263673,
+      "updated_timestamp": 1765269009,
+      "system_timestamp": 1765269009,
       "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
       "chain_id": "56",
       "total_amount": "120000000"
@@ -65,7 +65,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 100540
+      "count": 110849
     },
     {
       "key": "yesterday",
@@ -80,21 +80,21 @@
   "top3_tokens": [
     {
       "symbol": "JCT",
-      "buyQuoteVolume": "771282748.68194",
-      "trades": 2358617,
-      "avgBuyAmount": "327.01"
+      "buyQuoteVolume": "859503336.37425",
+      "trades": 2608770,
+      "avgBuyAmount": "329.47"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "426310512.32635",
-      "trades": 1261699,
-      "avgBuyAmount": "337.89"
+      "buyQuoteVolume": "459060718.36919",
+      "trades": 1359399,
+      "avgBuyAmount": "337.69"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "61206311.410918",
-      "trades": 172029,
-      "avgBuyAmount": "355.79"
+      "buyQuoteVolume": "71017974.466135",
+      "trades": 202337,
+      "avgBuyAmount": "350.99"
     }
   ]
 }
