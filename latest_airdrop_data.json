@@ -1,70 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "STABLE",
-      "date": "2025-12-08",
-      "time": "21:00",
-      "points": 250,
-      "type": "grab",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "futures_listed": false,
-      "amount": "2000",
-      "name": "Stable",
-      "created_timestamp": 1765186515,
-      "updated_timestamp": 1765198876,
-      "system_timestamp": 1765198876,
-      "contract_address": "0x011ebe7d75e2c9d1e0bd0be0bef5c36f0a90075f",
-      "chain_id": "56",
-      "total_amount": "300000000",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false
-    },
-    {
-      "token": "NIGHT",
-      "name": "Midnight",
-      "date": "2025-12-09",
-      "time": "17:30",
-      "points": 230,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "600",
-      "type": "grab",
-      "created_timestamp": 1765181553,
-      "updated_timestamp": 1765269908,
-      "system_timestamp": 1765269908,
-      "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
-      "chain_id": "56",
-      "total_amount": "120000000",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false
-    },
-    {
-      "token": "WET",
-      "name": "Humidifi",
-      "date": "2025-12-09",
-      "time": "22:00",
-      "points": "230",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "200",
-      "type": "",
-      "created_timestamp": 1765200732,
-      "updated_timestamp": 1765273188,
-      "system_timestamp": 1765273188,
-      "contract_address": "WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U",
-      "chain_id": "501"
-    },
-    {
       "token": "US",
       "name": "Talus Network",
       "date": "2025-12-11",
@@ -88,29 +24,57 @@
       "chain_id": "784"
     },
     {
-      "token": "CYS",
-      "name": "Cysic",
-      "date": "2025-12-11",
-      "time": "",
-      "points": "",
+      "token": "WET",
+      "name": "Humidifi",
+      "date": "2025-12-09",
+      "time": "22:00",
+      "points": 230,
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
+      "amount": "200",
       "type": "",
-      "created_timestamp": 1765286501,
-      "updated_timestamp": 1765286732,
-      "system_timestamp": 1765286732,
-      "contract_address": "0x0C69199C1562233640e0Db5Ce2c399A88eB507C7",
-      "chain_id": "56"
+      "created_timestamp": 1765200732,
+      "updated_timestamp": 1765273188,
+      "system_timestamp": 1765273188,
+      "contract_address": "WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U",
+      "chain_id": "501",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "1496000",
+      "pre_price": ""
+    },
+    {
+      "token": "NIGHT",
+      "name": "Midnight",
+      "date": "2025-12-09",
+      "time": "17:30",
+      "points": 230,
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "600",
+      "type": "grab",
+      "created_timestamp": 1765181553,
+      "updated_timestamp": 1765269908,
+      "system_timestamp": 1765269908,
+      "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
+      "chain_id": "56",
+      "total_amount": "120000000",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 205509
+      "count": 208973
     },
     {
       "key": "yesterday",
@@ -124,22 +88,22 @@
   "last_rollover_date": "2025-12-09",
   "top3_tokens": [
     {
-      "symbol": "ARTX",
-      "buyQuoteVolume": "1223717165.519",
-      "trades": 3523038,
-      "avgBuyAmount": "347.35"
+      "symbol": "JCT",
+      "buyQuoteVolume": "1243897414.9245",
+      "trades": 3902176,
+      "avgBuyAmount": "318.77"
     },
     {
-      "symbol": "JCT",
-      "buyQuoteVolume": "1221864893.2292",
-      "trades": 3824837,
-      "avgBuyAmount": "319.46"
+      "symbol": "ARTX",
+      "buyQuoteVolume": "1237741797.3658",
+      "trades": 3575270,
+      "avgBuyAmount": "346.2"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "135850953.67769",
-      "trades": 442971,
-      "avgBuyAmount": "306.68"
+      "buyQuoteVolume": "138875306.42238",
+      "trades": 457012,
+      "avgBuyAmount": "303.88"
     }
   ]
 }
