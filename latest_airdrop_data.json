@@ -10,12 +10,12 @@
       "language": "en",
       "status": "announced",
       "utc": "",
-      "futures_listed": false,
+      "futures_listed": true,
       "amount": "600",
       "type": "grab",
       "created_timestamp": 1765181553,
-      "updated_timestamp": 1765269908,
-      "system_timestamp": 1765269908,
+      "updated_timestamp": 1765359977,
+      "system_timestamp": 1765359977,
       "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
       "chain_id": "56",
       "total_amount": "120000000",
@@ -128,7 +128,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 124507
+      "count": 128312
     },
     {
       "key": "yesterday",
@@ -143,21 +143,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1504599285.184",
-      "trades": 4035727,
-      "avgBuyAmount": "372.82"
+      "buyQuoteVolume": "1552598376.389",
+      "trades": 4165593,
+      "avgBuyAmount": "372.72"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "60179764.081437",
-      "trades": 306255,
-      "avgBuyAmount": "196.5"
+      "buyQuoteVolume": "60320937.413833",
+      "trades": 309909,
+      "avgBuyAmount": "194.64"
     },
     {
       "symbol": "GAIX",
-      "buyQuoteVolume": "27904686.536749",
-      "trades": 184530,
-      "avgBuyAmount": "151.22"
+      "buyQuoteVolume": "28031471.359836",
+      "trades": 187986,
+      "avgBuyAmount": "149.11"
     }
   ]
 }
