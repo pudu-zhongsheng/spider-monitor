@@ -48,20 +48,26 @@
       "pre_price": ""
     },
     {
-      "token": "",
+      "token": "LAVA",
       "date": "2025-12-10",
       "time": "18:00",
-      "points": "230",
+      "points": 230,
       "type": "grab",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "futures_listed": false,
-      "amount": "",
-      "name": "",
+      "amount": "165",
+      "name": "Lava Network",
       "created_timestamp": 1765357378,
-      "updated_timestamp": 1765358064,
-      "system_timestamp": 1765358064
+      "updated_timestamp": 1765360868,
+      "system_timestamp": 1765360868,
+      "contract_address": "0x11e969e9b3f89cb16d686a03cd8508c9fc0361af",
+      "chain_id": "42161",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": ""
     },
     {
       "token": "US",
@@ -128,7 +134,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 128312
+      "count": 135094
     },
     {
       "key": "yesterday",
@@ -143,21 +149,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1552598376.389",
-      "trades": 4165593,
-      "avgBuyAmount": "372.72"
+      "buyQuoteVolume": "1636665436.9441",
+      "trades": 4402475,
+      "avgBuyAmount": "371.76"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "60320937.413833",
-      "trades": 309909,
-      "avgBuyAmount": "194.64"
+      "buyQuoteVolume": "61223999.019338",
+      "trades": 322655,
+      "avgBuyAmount": "189.75"
     },
     {
       "symbol": "GAIX",
-      "buyQuoteVolume": "28031471.359836",
-      "trades": 187986,
-      "avgBuyAmount": "149.11"
+      "buyQuoteVolume": "28813136.196488",
+      "trades": 200915,
+      "avgBuyAmount": "143.41"
     }
   ]
 }
