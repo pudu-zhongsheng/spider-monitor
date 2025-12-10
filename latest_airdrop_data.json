@@ -48,6 +48,22 @@
       "pre_price": ""
     },
     {
+      "token": "",
+      "date": "2025-12-10",
+      "time": "18:00",
+      "points": "230",
+      "type": "grab",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "futures_listed": false,
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1765357378,
+      "updated_timestamp": 1765358064,
+      "system_timestamp": 1765358064
+    },
+    {
       "token": "US",
       "name": "Talus Network",
       "date": "2025-12-11",
@@ -103,8 +119,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1765346530,
-      "updated_timestamp": 1765346603,
-      "system_timestamp": 1765346603,
+      "updated_timestamp": 1765357413,
+      "system_timestamp": 1765357413,
       "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
       "chain_id": "56"
     }
@@ -112,7 +128,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 115480
+      "count": 124507
     },
     {
       "key": "yesterday",
@@ -127,21 +143,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1390718068.4802",
-      "trades": 3727070,
-      "avgBuyAmount": "373.14"
+      "buyQuoteVolume": "1504599285.184",
+      "trades": 4035727,
+      "avgBuyAmount": "372.82"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "59290123.054681",
-      "trades": 291151,
-      "avgBuyAmount": "203.64"
+      "buyQuoteVolume": "60179764.081437",
+      "trades": 306255,
+      "avgBuyAmount": "196.5"
     },
     {
       "symbol": "GAIX",
-      "buyQuoteVolume": "27321598.94224",
-      "trades": 174034,
-      "avgBuyAmount": "156.99"
+      "buyQuoteVolume": "27904686.536749",
+      "trades": 184530,
+      "avgBuyAmount": "151.22"
     }
   ]
 }
