@@ -88,12 +88,31 @@
       "system_timestamp": 1765294203,
       "contract_address": "0x0C69199C1562233640e0Db5Ce2c399A88eB507C7",
       "chain_id": "56"
+    },
+    {
+      "token": "RAVE",
+      "name": "RaveDAO",
+      "date": "2025-12-12",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1765346530,
+      "updated_timestamp": 1765346603,
+      "system_timestamp": 1765346603,
+      "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 68483
+      "count": 83152
     },
     {
       "key": "yesterday",
@@ -108,21 +127,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "803862739.16266",
-      "trades": 2139271,
-      "avgBuyAmount": "375.76"
+      "buyQuoteVolume": "982374384.96929",
+      "trades": 2615424,
+      "avgBuyAmount": "375.61"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "52526370.507761",
-      "trades": 204007,
-      "avgBuyAmount": "257.47"
+      "buyQuoteVolume": "54966734.261738",
+      "trades": 226037,
+      "avgBuyAmount": "243.18"
     },
     {
       "symbol": "GAIX",
-      "buyQuoteVolume": "18829284.00526",
-      "trades": 109630,
-      "avgBuyAmount": "171.75"
+      "buyQuoteVolume": "25931216.296749",
+      "trades": 139072,
+      "avgBuyAmount": "186.46"
     }
   ]
 }
