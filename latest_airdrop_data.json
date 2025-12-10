@@ -93,36 +93,36 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 277910
+      "count": 20082
     },
     {
       "key": "yesterday",
-      "count": 278956
+      "count": 277910
     },
     {
       "key": "before_yesterday",
-      "count": 232820
+      "count": 278956
     }
   ],
-  "last_rollover_date": "2025-12-09",
+  "last_rollover_date": "2025-12-10",
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1820534271.2909",
-      "trades": 5568626,
-      "avgBuyAmount": "326.93"
-    },
-    {
-      "symbol": "JCT",
-      "buyQuoteVolume": "1459531406.7992",
-      "trades": 4996581,
-      "avgBuyAmount": "292.11"
+      "buyQuoteVolume": "219205285.73593",
+      "trades": 583853,
+      "avgBuyAmount": "375.45"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "189823736.12064",
-      "trades": 723419,
-      "avgBuyAmount": "262.4"
+      "buyQuoteVolume": "34756792.126205",
+      "trades": 111606,
+      "avgBuyAmount": "311.42"
+    },
+    {
+      "symbol": "GAIX",
+      "buyQuoteVolume": "2741717.3185979",
+      "trades": 27160,
+      "avgBuyAmount": "100.95"
     }
   ]
 }
