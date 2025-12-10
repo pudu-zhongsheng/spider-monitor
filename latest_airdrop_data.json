@@ -96,7 +96,7 @@
       "token": "CYS",
       "name": "Cysic",
       "date": "2025-12-11",
-      "time": "",
+      "time": "16:00",
       "points": "",
       "phase": 1,
       "language": "zh",
@@ -134,7 +134,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 224179
+      "count": 224955
     },
     {
       "key": "yesterday",
@@ -149,21 +149,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "2724042991.391",
-      "trades": 7854131,
-      "avgBuyAmount": "346.83"
+      "buyQuoteVolume": "2732974487.5893",
+      "trades": 7899341,
+      "avgBuyAmount": "345.97"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "90804273.914814",
-      "trades": 707669,
-      "avgBuyAmount": "128.31"
+      "buyQuoteVolume": "91320939.193489",
+      "trades": 722664,
+      "avgBuyAmount": "126.37"
     },
     {
       "symbol": "GAIX",
-      "buyQuoteVolume": "35675107.596661",
-      "trades": 339651,
-      "avgBuyAmount": "105.03"
+      "buyQuoteVolume": "35769775.378163",
+      "trades": 345026,
+      "avgBuyAmount": "103.67"
     }
   ]
 }
