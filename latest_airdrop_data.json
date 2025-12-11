@@ -74,19 +74,20 @@
       "name": "Cysic",
       "date": "2025-12-11",
       "time": "16:00",
-      "points": "",
+      "points": "226",
       "phase": 1,
       "language": "zh",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "200",
+      "type": "grab",
       "created_timestamp": 1765293091,
-      "updated_timestamp": 1765294203,
-      "system_timestamp": 1765294203,
+      "updated_timestamp": 1765438208,
+      "system_timestamp": 1765438208,
       "contract_address": "0x0C69199C1562233640e0Db5Ce2c399A88eB507C7",
-      "chain_id": "56"
+      "chain_id": "56",
+      "total_amount": "10000000"
     },
     {
       "token": "BTX",
@@ -102,8 +103,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1765422852,
-      "updated_timestamp": 1765435508,
-      "system_timestamp": 1765435508,
+      "updated_timestamp": 1765436485,
+      "system_timestamp": 1765436485,
       "contract_address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
       "chain_id": "56"
     },
@@ -153,7 +154,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 105806
+      "count": 115792
     },
     {
       "key": "yesterday",
@@ -168,21 +169,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1039182667.1035",
-      "trades": 2836811,
-      "avgBuyAmount": "366.32"
+      "buyQuoteVolume": "1125977380.6566",
+      "trades": 3084606,
+      "avgBuyAmount": "365.03"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "311755448.54788",
-      "trades": 770172,
-      "avgBuyAmount": "404.79"
+      "buyQuoteVolume": "353242832.45363",
+      "trades": 867282,
+      "avgBuyAmount": "407.3"
     },
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "6492916.8842563",
-      "trades": 27732,
-      "avgBuyAmount": "234.13"
+      "buyQuoteVolume": "6509550.1950735",
+      "trades": 28035,
+      "avgBuyAmount": "232.19"
     }
   ]
 }
