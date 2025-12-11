@@ -29,7 +29,7 @@
       "name": "BeatSwap",
       "date": "2025-12-11",
       "time": "18:00",
-      "points": "241",
+      "points": 241,
       "phase": 1,
       "language": "en",
       "status": "announced",
@@ -42,7 +42,10 @@
       "system_timestamp": 1765442871,
       "contract_address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
       "chain_id": "56",
-      "total_amount": "15000000"
+      "total_amount": "15000000",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "US",
@@ -90,7 +93,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 150509
+      "count": 157888
     },
     {
       "key": "yesterday",
@@ -105,21 +108,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1460667475.1578",
-      "trades": 4072376,
-      "avgBuyAmount": "358.68"
+      "buyQuoteVolume": "1552712071.4203",
+      "trades": 4341173,
+      "avgBuyAmount": "357.67"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "454906269.09448",
-      "trades": 1118667,
-      "avgBuyAmount": "406.65"
+      "buyQuoteVolume": "455932232.68956",
+      "trades": 1138715,
+      "avgBuyAmount": "400.39"
     },
     {
       "symbol": "CYS",
-      "buyQuoteVolume": "9007572.2597969",
-      "trades": 98721,
-      "avgBuyAmount": "91.24"
+      "buyQuoteVolume": "9993736.0859114",
+      "trades": 114663,
+      "avgBuyAmount": "87.16"
     }
   ]
 }
