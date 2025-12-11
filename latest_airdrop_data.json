@@ -89,6 +89,25 @@
       "chain_id": "56"
     },
     {
+      "token": "BTX",
+      "name": "BeatSwap",
+      "date": "2025-12-11",
+      "time": "18:00",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1765422852,
+      "updated_timestamp": 1765431009,
+      "system_timestamp": 1765431009,
+      "contract_address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
+      "chain_id": "56"
+    },
+    {
       "token": "US",
       "name": "Talus Network",
       "date": "2025-12-11",
@@ -110,25 +129,6 @@
       "total_amount": "",
       "contract_address": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
       "chain_id": "784"
-    },
-    {
-      "token": "BTX",
-      "name": "BeatSwap",
-      "date": "2025-12-11",
-      "time": "18:00",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1765422852,
-      "updated_timestamp": 1765422898,
-      "system_timestamp": 1765422898,
-      "contract_address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
-      "chain_id": "56"
     },
     {
       "token": "RAVE",
@@ -153,7 +153,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 74266
+      "count": 78773
     },
     {
       "key": "yesterday",
@@ -168,21 +168,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "798199196.40668",
-      "trades": 2113813,
-      "avgBuyAmount": "377.61"
+      "buyQuoteVolume": "851330749.45408",
+      "trades": 2274506,
+      "avgBuyAmount": "374.29"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "151294351.96446",
-      "trades": 426843,
-      "avgBuyAmount": "354.45"
+      "buyQuoteVolume": "153150100.9672",
+      "trades": 450358,
+      "avgBuyAmount": "340.06"
     },
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "4835030.2647869",
-      "trades": 18086,
-      "avgBuyAmount": "267.34"
+      "buyQuoteVolume": "5816558.049243",
+      "trades": 23451,
+      "avgBuyAmount": "248.03"
     }
   ]
 }
