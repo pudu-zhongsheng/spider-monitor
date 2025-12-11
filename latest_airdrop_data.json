@@ -74,7 +74,7 @@
       "token": "RAVE",
       "name": "RaveDAO",
       "date": "2025-12-12",
-      "time": "",
+      "time": "20:00",
       "points": "",
       "phase": 1,
       "language": "en",
@@ -93,7 +93,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 243507
+      "count": 244870
     },
     {
       "key": "yesterday",
@@ -108,21 +108,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "2605174525.1719",
-      "trades": 7728045,
-      "avgBuyAmount": "337.11"
+      "buyQuoteVolume": "2622055766.2569",
+      "trades": 7792693,
+      "avgBuyAmount": "336.48"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "471362716.33661",
-      "trades": 1406941,
-      "avgBuyAmount": "335.03"
+      "buyQuoteVolume": "471468332.29495",
+      "trades": 1411659,
+      "avgBuyAmount": "333.98"
     },
     {
       "symbol": "CYS",
-      "buyQuoteVolume": "16038026.896246",
-      "trades": 206867,
-      "avgBuyAmount": "77.53"
+      "buyQuoteVolume": "16078880.779491",
+      "trades": 207505,
+      "avgBuyAmount": "77.49"
     }
   ]
 }
