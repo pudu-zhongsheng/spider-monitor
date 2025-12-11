@@ -61,8 +61,8 @@
       "amount": "2000",
       "type": "grab",
       "created_timestamp": 1765279648,
-      "updated_timestamp": 1765444080,
-      "system_timestamp": 1765444080,
+      "updated_timestamp": 1765454374,
+      "system_timestamp": 1765454374,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
@@ -93,7 +93,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 169155
+      "count": 171054
     },
     {
       "key": "yesterday",
@@ -108,21 +108,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1688657758.3175",
-      "trades": 4746831,
-      "avgBuyAmount": "355.74"
+      "buyQuoteVolume": "1712185835.106",
+      "trades": 4815847,
+      "avgBuyAmount": "355.53"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "457461055.96144",
-      "trades": 1168345,
-      "avgBuyAmount": "391.55"
+      "buyQuoteVolume": "457745264.7047",
+      "trades": 1171833,
+      "avgBuyAmount": "390.62"
     },
     {
       "symbol": "CYS",
-      "buyQuoteVolume": "11056475.544843",
-      "trades": 134855,
-      "avgBuyAmount": "81.99"
+      "buyQuoteVolume": "11230103.398087",
+      "trades": 138757,
+      "avgBuyAmount": "80.93"
     }
   ]
 }
