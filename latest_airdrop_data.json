@@ -48,18 +48,18 @@
       "token": "US",
       "name": "Talus Network",
       "date": "2025-12-11",
-      "time": "",
-      "points": "",
+      "time": "20:00",
+      "points": 236,
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "2000",
+      "type": "grab",
       "created_timestamp": 1765279648,
-      "updated_timestamp": 1765279687,
-      "system_timestamp": 1765279687,
+      "updated_timestamp": 1765444080,
+      "system_timestamp": 1765444080,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
@@ -90,7 +90,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 136670
+      "count": 143151
     },
     {
       "key": "yesterday",
@@ -105,21 +105,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1307626709.9704",
-      "trades": 3618018,
-      "avgBuyAmount": "361.42"
+      "buyQuoteVolume": "1370621845.2802",
+      "trades": 3808754,
+      "avgBuyAmount": "359.86"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "433934884.84177",
-      "trades": 1055256,
-      "avgBuyAmount": "411.21"
+      "buyQuoteVolume": "451960058.50651",
+      "trades": 1094827,
+      "avgBuyAmount": "412.81"
     },
     {
-      "symbol": "RLS",
-      "buyQuoteVolume": "6585069.8945988",
-      "trades": 29040,
-      "avgBuyAmount": "226.76"
+      "symbol": "CYS",
+      "buyQuoteVolume": "7767682.6400255",
+      "trades": 83585,
+      "avgBuyAmount": "92.93"
     }
   ]
 }
