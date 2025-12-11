@@ -1,44 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "RAVE",
-      "name": "RaveDAO",
-      "date": "2025-12-12",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1765346530,
-      "updated_timestamp": 1765357413,
-      "system_timestamp": 1765357413,
-      "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
-      "chain_id": "56"
-    },
-    {
-      "token": "BTX",
-      "name": "BeatSwap",
-      "date": "2025-12-11",
-      "time": "18:00",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1765422852,
-      "updated_timestamp": 1765436485,
-      "system_timestamp": 1765436485,
-      "contract_address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
-      "chain_id": "56"
-    },
-    {
       "token": "CYS",
       "name": "Cysic",
       "date": "2025-12-11",
@@ -63,6 +25,26 @@
       "pre_price": ""
     },
     {
+      "token": "BTX",
+      "name": "BeatSwap",
+      "date": "2025-12-11",
+      "time": "18:00",
+      "points": "241",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "1200",
+      "type": "grab",
+      "created_timestamp": 1765422852,
+      "updated_timestamp": 1765442871,
+      "system_timestamp": 1765442871,
+      "contract_address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
+      "chain_id": "56",
+      "total_amount": "15000000"
+    },
+    {
       "token": "US",
       "name": "Talus Network",
       "date": "2025-12-11",
@@ -84,12 +66,31 @@
       "total_amount": "",
       "contract_address": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
       "chain_id": "784"
+    },
+    {
+      "token": "RAVE",
+      "name": "RaveDAO",
+      "date": "2025-12-12",
+      "time": "",
+      "points": "",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1765346530,
+      "updated_timestamp": 1765357413,
+      "system_timestamp": 1765357413,
+      "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
+      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 128595
+      "count": 136670
     },
     {
       "key": "yesterday",
@@ -104,21 +105,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1239402126.8206",
-      "trades": 3415509,
-      "avgBuyAmount": "362.87"
+      "buyQuoteVolume": "1307626709.9704",
+      "trades": 3618018,
+      "avgBuyAmount": "361.42"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "404266344.7987",
-      "trades": 991745,
-      "avgBuyAmount": "407.63"
+      "buyQuoteVolume": "433934884.84177",
+      "trades": 1055256,
+      "avgBuyAmount": "411.21"
     },
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "6555269.3574937",
-      "trades": 28674,
-      "avgBuyAmount": "228.61"
+      "buyQuoteVolume": "6585069.8945988",
+      "trades": 29040,
+      "avgBuyAmount": "226.76"
     }
   ]
 }
