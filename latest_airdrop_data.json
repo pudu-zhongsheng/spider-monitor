@@ -51,7 +51,7 @@
       "token": "US",
       "name": "Talus Network",
       "date": "2025-12-11",
-      "time": "20:00",
+      "time": "20:20",
       "points": 236,
       "phase": 1,
       "language": "en",
@@ -63,7 +63,7 @@
       "created_timestamp": 1765279648,
       "updated_timestamp": 1765454374,
       "system_timestamp": 1765454374,
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "49999990",
@@ -93,7 +93,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 171054
+      "count": 186337
     },
     {
       "key": "yesterday",
@@ -108,21 +108,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1712185835.106",
-      "trades": 4815847,
-      "avgBuyAmount": "355.53"
+      "buyQuoteVolume": "1902433909.9087",
+      "trades": 5366978,
+      "avgBuyAmount": "354.47"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "457745264.7047",
-      "trades": 1171833,
-      "avgBuyAmount": "390.62"
+      "buyQuoteVolume": "459643665.94186",
+      "trades": 1205995,
+      "avgBuyAmount": "381.13"
     },
     {
       "symbol": "CYS",
-      "buyQuoteVolume": "11230103.398087",
-      "trades": 138757,
-      "avgBuyAmount": "80.93"
+      "buyQuoteVolume": "12678348.074314",
+      "trades": 162016,
+      "avgBuyAmount": "78.25"
     }
   ]
 }
