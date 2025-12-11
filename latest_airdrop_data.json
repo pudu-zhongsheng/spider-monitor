@@ -1,93 +1,23 @@
 {
   "airdrops": [
     {
-      "token": "NIGHT",
-      "name": "Midnight",
-      "date": "2025-12-09",
-      "time": "17:30",
-      "points": 230,
+      "token": "RAVE",
+      "name": "RaveDAO",
+      "date": "2025-12-12",
+      "time": "",
+      "points": "",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
-      "futures_listed": true,
-      "amount": "600",
-      "type": "grab",
-      "created_timestamp": 1765181553,
-      "updated_timestamp": 1765427526,
-      "system_timestamp": 1765427526,
-      "contract_address": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
-      "chain_id": "56",
-      "total_amount": "120000000",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false
-    },
-    {
-      "token": "WET",
-      "name": "Humidifi",
-      "date": "2025-12-09",
-      "time": "22:00",
-      "points": 230,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": true,
-      "amount": "200",
+      "futures_listed": false,
+      "amount": "",
       "type": "",
-      "created_timestamp": 1765200732,
-      "updated_timestamp": 1765345577,
-      "system_timestamp": 1765345577,
-      "contract_address": "WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U",
-      "chain_id": "501",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "1496000",
-      "pre_price": ""
-    },
-    {
-      "token": "LAVA",
-      "date": "2025-12-10",
-      "time": "18:00",
-      "points": 230,
-      "type": "grab",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "futures_listed": false,
-      "amount": "165",
-      "name": "Lava Network",
-      "created_timestamp": 1765357378,
-      "updated_timestamp": 1765360868,
-      "system_timestamp": 1765360868,
-      "contract_address": "0x11e969e9b3f89cb16d686a03cd8508c9fc0361af",
-      "chain_id": "42161",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "5603400"
-    },
-    {
-      "token": "CYS",
-      "name": "Cysic",
-      "date": "2025-12-11",
-      "time": "16:00",
-      "points": "226",
-      "phase": 1,
-      "language": "zh",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "200",
-      "type": "grab",
-      "created_timestamp": 1765293091,
-      "updated_timestamp": 1765439109,
-      "system_timestamp": 1765439109,
-      "contract_address": "0x0C69199C1562233640e0Db5Ce2c399A88eB507C7",
-      "chain_id": "56",
-      "total_amount": "10000000"
+      "created_timestamp": 1765346530,
+      "updated_timestamp": 1765357413,
+      "system_timestamp": 1765357413,
+      "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
+      "chain_id": "56"
     },
     {
       "token": "BTX",
@@ -107,6 +37,30 @@
       "system_timestamp": 1765436485,
       "contract_address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
       "chain_id": "56"
+    },
+    {
+      "token": "CYS",
+      "name": "Cysic",
+      "date": "2025-12-11",
+      "time": "16:00",
+      "points": 226,
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "200",
+      "type": "grab",
+      "created_timestamp": 1765293091,
+      "updated_timestamp": 1765439109,
+      "system_timestamp": 1765439109,
+      "contract_address": "0x0c69199c1562233640e0db5ce2c399a88eb507c7",
+      "chain_id": "56",
+      "total_amount": "10000000",
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "pre_price": ""
     },
     {
       "token": "US",
@@ -130,31 +84,12 @@
       "total_amount": "",
       "contract_address": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
       "chain_id": "784"
-    },
-    {
-      "token": "RAVE",
-      "name": "RaveDAO",
-      "date": "2025-12-12",
-      "time": "",
-      "points": "",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "",
-      "type": "",
-      "created_timestamp": 1765346530,
-      "updated_timestamp": 1765357413,
-      "system_timestamp": 1765357413,
-      "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
-      "chain_id": "56"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 117342
+      "count": 128595
     },
     {
       "key": "yesterday",
@@ -169,21 +104,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1145703123.2551",
-      "trades": 3139251,
-      "avgBuyAmount": "364.96"
+      "buyQuoteVolume": "1239402126.8206",
+      "trades": 3415509,
+      "avgBuyAmount": "362.87"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "353475065.88967",
-      "trades": 869709,
-      "avgBuyAmount": "406.43"
+      "buyQuoteVolume": "404266344.7987",
+      "trades": 991745,
+      "avgBuyAmount": "407.63"
     },
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "6515421.1634913",
-      "trades": 28088,
-      "avgBuyAmount": "231.96"
+      "buyQuoteVolume": "6555269.3574937",
+      "trades": 28674,
+      "avgBuyAmount": "228.61"
     }
   ]
 }
