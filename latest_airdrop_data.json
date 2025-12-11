@@ -70,6 +70,25 @@
       "total_amount": "5603400"
     },
     {
+      "token": "CYS",
+      "name": "Cysic",
+      "date": "2025-12-11",
+      "time": "16:00",
+      "points": "",
+      "phase": 1,
+      "language": "zh",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "",
+      "type": "",
+      "created_timestamp": 1765293091,
+      "updated_timestamp": 1765294203,
+      "system_timestamp": 1765294203,
+      "contract_address": "0x0C69199C1562233640e0Db5Ce2c399A88eB507C7",
+      "chain_id": "56"
+    },
+    {
       "token": "US",
       "name": "Talus Network",
       "date": "2025-12-11",
@@ -93,22 +112,22 @@
       "chain_id": "784"
     },
     {
-      "token": "CYS",
-      "name": "Cysic",
+      "token": "BTX",
+      "name": "BeatSwap",
       "date": "2025-12-11",
-      "time": "16:00",
+      "time": "18:00",
       "points": "",
       "phase": 1,
-      "language": "zh",
+      "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
       "amount": "",
       "type": "",
-      "created_timestamp": 1765293091,
-      "updated_timestamp": 1765294203,
-      "system_timestamp": 1765294203,
-      "contract_address": "0x0C69199C1562233640e0Db5Ce2c399A88eB507C7",
+      "created_timestamp": 1765422852,
+      "updated_timestamp": 1765422898,
+      "system_timestamp": 1765422898,
+      "contract_address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
       "chain_id": "56"
     },
     {
@@ -134,7 +153,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 28237
+      "count": 52821
     },
     {
       "key": "yesterday",
@@ -149,21 +168,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "215064980.02177",
-      "trades": 607171,
-      "avgBuyAmount": "354.21"
+      "buyQuoteVolume": "528524487.10431",
+      "trades": 1402138,
+      "avgBuyAmount": "376.94"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "147221691.54971",
-      "trades": 345600,
-      "avgBuyAmount": "425.99"
+      "buyQuoteVolume": "150008961.04046",
+      "trades": 393049,
+      "avgBuyAmount": "381.65"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "1225012.5454093",
-      "trades": 11988,
-      "avgBuyAmount": "102.19"
+      "buyQuoteVolume": "1984233.0006986",
+      "trades": 18648,
+      "avgBuyAmount": "106.4"
     }
   ]
 }
