@@ -75,17 +75,17 @@
       "name": "RaveDAO",
       "date": "2025-12-12",
       "time": "20:00",
-      "points": "",
+      "points": "230",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "400",
+      "type": "grab",
       "created_timestamp": 1765346530,
-      "updated_timestamp": 1765357413,
-      "system_timestamp": 1765357413,
+      "updated_timestamp": 1765530142,
+      "system_timestamp": 1765530142,
       "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
       "chain_id": "56"
     }
@@ -93,7 +93,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 121960
+      "count": 125728
     },
     {
       "key": "yesterday",
@@ -108,21 +108,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1537641023.9289",
-      "trades": 4080576,
-      "avgBuyAmount": "376.82"
+      "buyQuoteVolume": "1585239598.8806",
+      "trades": 4210863,
+      "avgBuyAmount": "376.46"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "20881189.801624",
-      "trades": 320147,
-      "avgBuyAmount": "65.22"
+      "buyQuoteVolume": "21240034.415058",
+      "trades": 328219,
+      "avgBuyAmount": "64.71"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "10223722.85103",
-      "trades": 191601,
-      "avgBuyAmount": "53.36"
+      "buyQuoteVolume": "10815873.863919",
+      "trades": 199794,
+      "avgBuyAmount": "54.14"
     }
   ]
 }
