@@ -27,7 +27,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 235247
+      "count": 236728
     },
     {
       "key": "yesterday",
@@ -42,21 +42,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "2864885651.8172",
-      "trades": 8269099,
-      "avgBuyAmount": "346.46"
+      "buyQuoteVolume": "2877240154.743",
+      "trades": 8342486,
+      "avgBuyAmount": "344.89"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "46387705.959424",
-      "trades": 738646,
-      "avgBuyAmount": "62.8"
+      "buyQuoteVolume": "48472560.095558",
+      "trades": 766266,
+      "avgBuyAmount": "63.26"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "42135801.4963",
-      "trades": 672186,
-      "avgBuyAmount": "62.68"
+      "buyQuoteVolume": "42704637.331969",
+      "trades": 691337,
+      "avgBuyAmount": "61.77"
     }
   ]
 }
