@@ -1,76 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "CYS",
-      "name": "Cysic",
-      "date": "2025-12-11",
-      "time": "16:00",
-      "points": 226,
-      "phase": 1,
-      "language": "zh",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "200",
-      "type": "grab",
-      "created_timestamp": 1765293091,
-      "updated_timestamp": 1765439109,
-      "system_timestamp": 1765439109,
-      "contract_address": "0x0c69199c1562233640e0db5ce2c399a88eb507c7",
-      "chain_id": "56",
-      "total_amount": "10000000",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "pre_price": ""
-    },
-    {
-      "token": "BTX",
-      "name": "BeatSwap",
-      "date": "2025-12-11",
-      "time": "18:00",
-      "points": 241,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "1200",
-      "type": "grab",
-      "created_timestamp": 1765422852,
-      "updated_timestamp": 1765442871,
-      "system_timestamp": 1765442871,
-      "contract_address": "0xAa242a47F4cC074E59cbC7D65309B1F21202AaA3",
-      "chain_id": "56",
-      "total_amount": "15000000",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false
-    },
-    {
-      "token": "US",
-      "name": "Talus Network",
-      "date": "2025-12-11",
-      "time": "20:20",
-      "points": 236,
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "utc": "",
-      "futures_listed": false,
-      "amount": "2000",
-      "type": "grab",
-      "created_timestamp": 1765279648,
-      "updated_timestamp": 1765454374,
-      "system_timestamp": 1765454374,
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "49999990",
-      "contract_address": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
-      "chain_id": "784"
-    },
-    {
       "token": "RAVE",
       "name": "RaveDAO",
       "date": "2025-12-12",
@@ -84,16 +14,43 @@
       "amount": "400",
       "type": "grab",
       "created_timestamp": 1765346530,
-      "updated_timestamp": 1765530142,
-      "system_timestamp": 1765530142,
+      "updated_timestamp": 1765531510,
+      "system_timestamp": 1765531510,
       "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
-      "chain_id": "56"
+      "chain_id": "56",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "10000000"
+    },
+    {
+      "token": "US",
+      "name": "Talus Network",
+      "date": "2025-12-11",
+      "time": "20:20",
+      "points": "236",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": true,
+      "amount": "2000",
+      "type": "grab",
+      "created_timestamp": 1765279648,
+      "updated_timestamp": 1765454374,
+      "system_timestamp": 1765454374,
+      "completed": true,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "49999990",
+      "contract_address": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
+      "chain_id": "784"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 125728
+      "count": 133923
     },
     {
       "key": "yesterday",
@@ -108,21 +65,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1585239598.8806",
-      "trades": 4210863,
-      "avgBuyAmount": "376.46"
+      "buyQuoteVolume": "1687454275.4783",
+      "trades": 4488668,
+      "avgBuyAmount": "375.94"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "21240034.415058",
-      "trades": 328219,
-      "avgBuyAmount": "64.71"
+      "buyQuoteVolume": "22320823.989189",
+      "trades": 348193,
+      "avgBuyAmount": "64.1"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "10815873.863919",
-      "trades": 199794,
-      "avgBuyAmount": "54.14"
+      "buyQuoteVolume": "12189999.283755",
+      "trades": 219114,
+      "avgBuyAmount": "55.63"
     }
   ]
 }
