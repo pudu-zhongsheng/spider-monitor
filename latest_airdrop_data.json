@@ -1,20 +1,26 @@
 {
   "airdrops": [
     {
-      "token": "",
+      "token": "AIOT",
       "date": "2025-12-15",
       "time": "21:00",
-      "points": "230",
+      "points": 230,
       "type": "grab",
       "phase": 1,
       "language": "en",
       "status": "announced",
       "futures_listed": false,
-      "amount": "",
-      "name": "",
+      "amount": "160",
+      "name": "OKZOO",
       "created_timestamp": 1765785666,
-      "updated_timestamp": 1765796408,
-      "system_timestamp": 1765796408
+      "updated_timestamp": 1765803668,
+      "system_timestamp": 1765803668,
+      "contract_address": "0x55ad16bd573b3365f43a9daeb0cc66a73821b4a5",
+      "chain_id": "56",
+      "total_amount": "5000000",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false
     },
     {
       "token": "MAGMA",
@@ -30,8 +36,8 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1765797245,
-      "updated_timestamp": 1765800007,
-      "system_timestamp": 1765800007,
+      "updated_timestamp": 1765803607,
+      "system_timestamp": 1765803607,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
@@ -43,7 +49,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 167841
+      "count": 184911
     },
     {
       "key": "yesterday",
@@ -58,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1393044567.475",
-      "trades": 3853829,
-      "avgBuyAmount": "361.47"
+      "buyQuoteVolume": "1573872423.9155",
+      "trades": 4353395,
+      "avgBuyAmount": "361.53"
     },
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "336291577.37659",
-      "trades": 923783,
-      "avgBuyAmount": "364.04"
+      "buyQuoteVolume": "346641805.47732",
+      "trades": 960347,
+      "avgBuyAmount": "360.95"
     },
     {
-      "symbol": "ESPORTS",
-      "buyQuoteVolume": "209437024.38314",
-      "trades": 1005973,
-      "avgBuyAmount": "208.19"
+      "symbol": "NIGHT",
+      "buyQuoteVolume": "223718874.36314",
+      "trades": 1353778,
+      "avgBuyAmount": "165.26"
     }
   ]
 }
