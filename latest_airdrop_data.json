@@ -30,14 +30,20 @@
       "amount": "",
       "type": "",
       "created_timestamp": 1765797245,
-      "updated_timestamp": 1765798208,
-      "system_timestamp": 1765798208
+      "updated_timestamp": 1765799107,
+      "system_timestamp": 1765799107,
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "",
+      "contract_address": "0x9f854b3ad20f8161ec0886f15f4a1752bf75d22261556f14cc8d3a1c5d50e529::magma::MAGMA",
+      "chain_id": "784"
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 157993
+      "count": 162758
     },
     {
       "key": "yesterday",
@@ -52,21 +58,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1342132538.7146",
-      "trades": 3702595,
-      "avgBuyAmount": "362.48"
+      "buyQuoteVolume": "1380252059.8133",
+      "trades": 3813923,
+      "avgBuyAmount": "361.9"
     },
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "272587692.12816",
-      "trades": 764359,
-      "avgBuyAmount": "356.62"
+      "buyQuoteVolume": "289624519.23651",
+      "trades": 806069,
+      "avgBuyAmount": "359.3"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "204290173.42331",
-      "trades": 971196,
-      "avgBuyAmount": "210.35"
+      "buyQuoteVolume": "206816829.85595",
+      "trades": 988837,
+      "avgBuyAmount": "209.15"
     }
   ]
 }
