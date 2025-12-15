@@ -1,62 +1,55 @@
 {
   "airdrops": [
     {
-      "token": "RAVE",
-      "name": "RaveDAO",
-      "date": "2025-12-12",
-      "time": "20:00",
+      "token": "",
+      "date": "2025-12-15",
+      "time": "21:00",
       "points": "230",
+      "type": "grab",
       "phase": 1,
       "language": "en",
       "status": "announced",
-      "utc": "",
       "futures_listed": false,
-      "amount": "400",
-      "type": "grab",
-      "created_timestamp": 1765346530,
-      "updated_timestamp": 1765531510,
-      "system_timestamp": 1765531510,
-      "contract_address": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
-      "chain_id": "56",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false,
-      "total_amount": "10000000"
+      "amount": "",
+      "name": "",
+      "created_timestamp": 1765785666,
+      "updated_timestamp": 1765786508,
+      "system_timestamp": 1765786508
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 184295
+      "count": 92582
     },
     {
       "key": "yesterday",
-      "count": 245391
+      "count": 257267
     },
     {
       "key": "before_yesterday",
-      "count": 250869
+      "count": 275189
     }
   ],
-  "last_rollover_date": "2025-12-13",
+  "last_rollover_date": "2025-12-15",
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1447482022.8733",
-      "trades": 4181224,
-      "avgBuyAmount": "346.19"
-    },
-    {
-      "symbol": "ESPORTS",
-      "buyQuoteVolume": "743124690.28677",
-      "trades": 1826471,
-      "avgBuyAmount": "406.86"
+      "buyQuoteVolume": "894964707.87626",
+      "trades": 2462117,
+      "avgBuyAmount": "363.49"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "141928204.86742",
-      "trades": 1048081,
-      "avgBuyAmount": "135.42"
+      "buyQuoteVolume": "142243863.60973",
+      "trades": 866371,
+      "avgBuyAmount": "164.18"
+    },
+    {
+      "symbol": "ESPORTS",
+      "buyQuoteVolume": "140304597.78308",
+      "trades": 664536,
+      "avgBuyAmount": "211.13"
     }
   ]
 }
