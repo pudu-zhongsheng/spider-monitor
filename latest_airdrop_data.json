@@ -26,18 +26,18 @@
       "token": "MAGMA",
       "name": "Magma Finance",
       "date": "2025-12-16",
-      "time": "",
-      "points": "",
+      "time": "18:00",
+      "points": 226,
       "phase": 1,
       "language": "en",
       "status": "announced",
       "utc": "",
       "futures_listed": false,
-      "amount": "",
-      "type": "",
+      "amount": "250",
+      "type": "grab",
       "created_timestamp": 1765797245,
-      "updated_timestamp": 1765803607,
-      "system_timestamp": 1765803607,
+      "updated_timestamp": 1765868590,
+      "system_timestamp": 1765868590,
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
@@ -49,7 +49,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 121141
+      "count": 133145
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "1120988071.6302",
-      "trades": 2531451,
-      "avgBuyAmount": "442.82"
+      "buyQuoteVolume": "1127274726.9199",
+      "trades": 2588106,
+      "avgBuyAmount": "435.56"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "190334709.57348",
-      "trades": 741304,
-      "avgBuyAmount": "256.76"
+      "buyQuoteVolume": "267225833.04234",
+      "trades": 967741,
+      "avgBuyAmount": "276.13"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "128058402.04034",
-      "trades": 754148,
-      "avgBuyAmount": "169.81"
+      "buyQuoteVolume": "148807085.72401",
+      "trades": 864051,
+      "avgBuyAmount": "172.22"
     }
   ]
 }
