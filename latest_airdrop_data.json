@@ -1,28 +1,6 @@
 {
   "airdrops": [
     {
-      "token": "AIOT",
-      "date": "2025-12-15",
-      "time": "21:00",
-      "points": 230,
-      "type": "grab",
-      "phase": 1,
-      "language": "en",
-      "status": "announced",
-      "futures_listed": false,
-      "amount": "160",
-      "name": "OKZOO",
-      "created_timestamp": 1765785666,
-      "updated_timestamp": 1765803668,
-      "system_timestamp": 1765803668,
-      "contract_address": "0x55ad16bd573b3365f43a9daeb0cc66a73821b4a5",
-      "chain_id": "56",
-      "total_amount": "5000000",
-      "completed": true,
-      "has_homonym": false,
-      "spot_listed": false
-    },
-    {
       "token": "MAGMA",
       "name": "Magma Finance",
       "date": "2025-12-16",
@@ -44,12 +22,30 @@
       "total_amount": "9999900",
       "contract_address": "0x9f854b3ad20f8161ec0886f15f4a1752bf75d22261556f14cc8d3a1c5d50e529::magma::MAGMA",
       "chain_id": "784"
+    },
+    {
+      "token": "IR",
+      "name": "InfraredFinance",
+      "date": "2025-12-17",
+      "time": "16:00",
+      "points": "",
+      "type": "tge",
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "pretge": false,
+      "bctge": false,
+      "futures_listed": false,
+      "amount": "",
+      "created_timestamp": 1765886453,
+      "updated_timestamp": 1765886590,
+      "system_timestamp": 1765886590
     }
   ],
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 202030
+      "count": 228410
     },
     {
       "key": "yesterday",
@@ -64,21 +60,21 @@
   "top3_tokens": [
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "1211722662.6251",
-      "trades": 2973439,
-      "avgBuyAmount": "407.52"
+      "buyQuoteVolume": "1284146130.8278",
+      "trades": 3213026,
+      "avgBuyAmount": "399.67"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "726985092.84169",
-      "trades": 2287969,
-      "avgBuyAmount": "317.74"
+      "buyQuoteVolume": "918526400.10062",
+      "trades": 2842159,
+      "avgBuyAmount": "323.18"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "232553502.22049",
-      "trades": 1331733,
-      "avgBuyAmount": "174.62"
+      "buyQuoteVolume": "260981541.01834",
+      "trades": 1508364,
+      "avgBuyAmount": "173.02"
     }
   ]
 }
