@@ -41,7 +41,7 @@
       "system_timestamp": 1765891933,
       "contract_address": "0x0b2558bdbc7ffec0f327fb3579c23dabd1699706",
       "chain_id": "8453",
-      "completed": false,
+      "completed": true,
       "has_homonym": false,
       "spot_listed": false,
       "total_amount": "10000000"
@@ -68,7 +68,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 242948
+      "count": 250725
     },
     {
       "key": "yesterday",
@@ -83,21 +83,21 @@
   "top3_tokens": [
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "1288555624.431",
-      "trades": 3264222,
-      "avgBuyAmount": "394.75"
+      "buyQuoteVolume": "1291661288.3135",
+      "trades": 3296669,
+      "avgBuyAmount": "391.81"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1064276947.334",
-      "trades": 3269841,
-      "avgBuyAmount": "325.48"
+      "buyQuoteVolume": "1143274431.5604",
+      "trades": 3499405,
+      "avgBuyAmount": "326.71"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "275189640.85425",
-      "trades": 1597232,
-      "avgBuyAmount": "172.29"
+      "buyQuoteVolume": "279745506.57588",
+      "trades": 1635323,
+      "avgBuyAmount": "171.06"
     }
   ]
 }
