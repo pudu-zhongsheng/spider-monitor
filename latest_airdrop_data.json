@@ -68,7 +68,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 250725
+      "count": 259042
     },
     {
       "key": "yesterday",
@@ -83,21 +83,21 @@
   "top3_tokens": [
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "1291661288.3135",
-      "trades": 3296669,
-      "avgBuyAmount": "391.81"
+      "buyQuoteVolume": "1293561376.339",
+      "trades": 3322175,
+      "avgBuyAmount": "389.37"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1143274431.5604",
-      "trades": 3499405,
-      "avgBuyAmount": "326.71"
+      "buyQuoteVolume": "1224108749.7596",
+      "trades": 3744169,
+      "avgBuyAmount": "326.94"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "279745506.57588",
-      "trades": 1635323,
-      "avgBuyAmount": "171.06"
+      "buyQuoteVolume": "289180097.36449",
+      "trades": 1699941,
+      "avgBuyAmount": "170.11"
     }
   ]
 }
