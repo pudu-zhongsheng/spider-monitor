@@ -89,21 +89,21 @@
   "top3_tokens": [
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "1473018722.383",
-      "trades": 4758756,
-      "avgBuyAmount": "309.54"
+      "buyQuoteVolume": "1483155408.1623",
+      "trades": 4817832,
+      "avgBuyAmount": "307.85"
     },
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "1312629915.2208",
-      "trades": 3640563,
-      "avgBuyAmount": "360.56"
+      "buyQuoteVolume": "1314677080.4487",
+      "trades": 3668651,
+      "avgBuyAmount": "358.35"
     },
     {
       "symbol": "ESPORTS",
-      "buyQuoteVolume": "373528376.78512",
-      "trades": 1852629,
-      "avgBuyAmount": "201.62"
+      "buyQuoteVolume": "382877793.72999",
+      "trades": 1904238,
+      "avgBuyAmount": "201.07"
     }
   ]
 }
