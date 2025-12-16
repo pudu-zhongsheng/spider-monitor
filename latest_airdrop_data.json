@@ -41,7 +41,7 @@
       "completed": false,
       "has_homonym": false,
       "spot_listed": false,
-      "total_amount": "",
+      "total_amount": "9999900",
       "contract_address": "0x9f854b3ad20f8161ec0886f15f4a1752bf75d22261556f14cc8d3a1c5d50e529::magma::MAGMA",
       "chain_id": "784"
     }
@@ -49,7 +49,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 138032
+      "count": 152945
     },
     {
       "key": "yesterday",
@@ -64,21 +64,21 @@
   "top3_tokens": [
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "1129508485.0331",
-      "trades": 2607452,
-      "avgBuyAmount": "433.18"
+      "buyQuoteVolume": "1134168601.5806",
+      "trades": 2654740,
+      "avgBuyAmount": "427.22"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "304141224.86841",
-      "trades": 1071861,
-      "avgBuyAmount": "283.75"
+      "buyQuoteVolume": "416636235.12546",
+      "trades": 1384295,
+      "avgBuyAmount": "300.97"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "155884999.2024",
-      "trades": 900700,
-      "avgBuyAmount": "173.07"
+      "buyQuoteVolume": "172930282.03558",
+      "trades": 992493,
+      "avgBuyAmount": "174.24"
     }
   ]
 }
