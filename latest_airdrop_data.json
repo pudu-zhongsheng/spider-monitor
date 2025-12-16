@@ -24,6 +24,29 @@
       "chain_id": "784"
     },
     {
+      "token": "THQ",
+      "name": "Theoriq",
+      "date": "2025-12-16",
+      "time": "22:00",
+      "points": 220,
+      "phase": 1,
+      "language": "en",
+      "status": "announced",
+      "utc": "",
+      "futures_listed": false,
+      "amount": "400",
+      "type": "grab",
+      "created_timestamp": 1765890744,
+      "updated_timestamp": 1765891933,
+      "system_timestamp": 1765891933,
+      "contract_address": "0x0b2558bdbc7ffec0f327fb3579c23dabd1699706",
+      "chain_id": "8453",
+      "completed": false,
+      "has_homonym": false,
+      "spot_listed": false,
+      "total_amount": "10000000"
+    },
+    {
       "token": "IR",
       "name": "InfraredFinance",
       "date": "2025-12-17",
@@ -45,7 +68,7 @@
   "alpha_checkins": [
     {
       "key": "today",
-      "count": 228410
+      "count": 242948
     },
     {
       "key": "yesterday",
@@ -60,21 +83,21 @@
   "top3_tokens": [
     {
       "symbol": "RLS",
-      "buyQuoteVolume": "1284146130.8278",
-      "trades": 3213026,
-      "avgBuyAmount": "399.67"
+      "buyQuoteVolume": "1288555624.431",
+      "trades": 3264222,
+      "avgBuyAmount": "394.75"
     },
     {
       "symbol": "ARTX",
-      "buyQuoteVolume": "918526400.10062",
-      "trades": 2842159,
-      "avgBuyAmount": "323.18"
+      "buyQuoteVolume": "1064276947.334",
+      "trades": 3269841,
+      "avgBuyAmount": "325.48"
     },
     {
       "symbol": "NIGHT",
-      "buyQuoteVolume": "260981541.01834",
-      "trades": 1508364,
-      "avgBuyAmount": "173.02"
+      "buyQuoteVolume": "275189640.85425",
+      "trades": 1597232,
+      "avgBuyAmount": "172.29"
     }
   ]
 }
